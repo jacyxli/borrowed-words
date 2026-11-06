@@ -1,8 +1,8 @@
 {
  "schema_version": "1.2",
  "deck_id": "borrowed-words",
- "deck_version": 10,
- "published_at": "2026-11-06T22:32:50",
+ "deck_version": 11,
+ "published_at": "2026-11-07T00:26:56",
  "card_count": 27,
  "selection": "cards[] order is fixed for this version; index = uint32(sha256(normalized question)[0:4]) mod card_count",
  "changes": {
@@ -12,7 +12,7 @@
  "cards": [
   {
    "card_id": "bw-000001",
-   "content_rev": 2,
+   "content_rev": 3,
    "language": "en",
    "passage_id": "lp21-tame-sunshine",
    "quote_display": "But if you tame me, my life will be filled with sunshine. I'll know the sound of the steps that will be different from all the rest. Other footsteps send me back underground. Yours will call me out of my burrow like music.",
@@ -33,11 +33,17 @@
     53940,
     70080
    ],
-   "translation": null
+   "translation": null,
+   "original": {
+    "language": "fr",
+    "text": "Mais si tu m'apprivoises, ma vie sera comme ensoleillée. Je connaîtrai un bruit de pas qui sera différent de tous les autres. Les autres pas me font rentrer sous terre. Le tien m'appellera hors du terrier, comme une musique.",
+    "work": "Le Petit Prince",
+    "source": "recording"
+   }
   },
   {
    "card_id": "bw-000002",
-   "content_rev": 2,
+   "content_rev": 3,
    "language": "en",
    "passage_id": "lp21-wheat-gold",
    "quote_display": "And then look: you see the wheat fields over there? I don't eat bread. For me, wheat is of no use whatever. Wheat fields say nothing to me, which is sad. But you have hair the color of gold. So it will be wonderful once you've tamed me! The wheat, which is golden, will remind me of you, and I'll love the sound of the wind in the wheat.",
@@ -58,11 +64,17 @@
     69480,
     98580
    ],
-   "translation": null
+   "translation": null,
+   "original": {
+    "language": "fr",
+    "text": "Et puis regarde ! Tu vois, là-bas, les champs de blé ? Je ne mange pas de pain. Le blé pour moi est inutile. Les champs de blé ne me rappellent rien. Et ça, c'est triste ! Mais tu as des cheveux couleur d'or. Alors ce sera merveilleux quand tu m'auras apprivoisé ! Le blé, qui est doré, me fera souvenir de toi. Et j'aimerai le bruit du vent dans le blé…",
+    "work": "Le Petit Prince",
+    "source": "recording"
+   }
   },
   {
    "card_id": "bw-000003",
-   "content_rev": 2,
+   "content_rev": 3,
    "language": "en",
    "passage_id": "lp21-tame-friend",
    "quote_display": "“The only things you learn are the things you tame,” said the fox. “People haven't time to learn anything. They buy things ready-made in stores. But since there are no stores where you can buy friends, people no longer have friends. If you want a friend, tame me!”",
@@ -83,11 +95,17 @@
     115560,
     138180
    ],
-   "translation": null
+   "translation": null,
+   "original": {
+    "language": "fr",
+    "text": "— On ne connaît que les choses que l'on apprivoise, dit le renard. Les hommes n'ont plus le temps de rien connaître. Ils achètent des choses toutes faites chez les marchands. Mais comme il n'existe point de marchands d'amis, les hommes n'ont plus d'amis. Si tu veux un ami, apprivoise-moi !",
+    "work": "Le Petit Prince",
+    "source": "recording"
+   }
   },
   {
    "card_id": "bw-000004",
-   "content_rev": 2,
+   "content_rev": 3,
    "language": "en",
    "passage_id": "lp21-patience-language",
    "quote_display": "“You have to be very patient,” the fox answered. “First you'll sit down a little ways away from me, over there, in the grass. I'll watch you out of the corner of my eye, and you won't say anything. Language is the source of misunderstandings. But day by day, you'll be able to sit a little closer.”",
@@ -108,11 +126,17 @@
     142380,
     166560
    ],
-   "translation": null
+   "translation": null,
+   "original": {
+    "language": "fr",
+    "text": "— Il faut être très patient, répondit le renard. Tu t'assoiras d'abord un peu loin de moi, comme ça, dans l'herbe. Je te regarderai du coin de l'œil et tu ne diras rien. Le langage est source de malentendus. Mais, chaque jour, tu pourras t'asseoir un peu plus près…",
+    "work": "Le Petit Prince",
+    "source": "recording"
+   }
   },
   {
    "card_id": "bw-000005",
-   "content_rev": 2,
+   "content_rev": 3,
    "language": "en",
    "passage_id": "lp21-color-of-wheat",
    "quote_display": "“But you are going to weep,” said the little prince. “Yes, of course,” the fox said. “Then you get nothing out of it.” “I get something,” the fox said, “because of the color of the wheat.”",
@@ -133,11 +157,17 @@
     221040,
     235260
    ],
-   "translation": null
+   "translation": null,
+   "original": {
+    "language": "fr",
+    "text": "— Mais tu vas pleurer ! dit le petit prince. — Bien sûr, dit le renard. — Alors tu n'y gagnes rien ! — J'y gagne, dit le renard, à cause de la couleur du blé.",
+    "work": "Le Petit Prince",
+    "source": "recording"
+   }
   },
   {
    "card_id": "bw-000006",
-   "content_rev": 2,
+   "content_rev": 3,
    "language": "en",
    "passage_id": "lp21-only-rose",
    "quote_display": "Then he added, “Go look at the roses again. You'll understand that yours is the only rose in all the world.”",
@@ -158,11 +188,17 @@
     235140,
     243480
    ],
-   "translation": null
+   "translation": null,
+   "original": {
+    "language": "fr",
+    "text": "Puis il ajouta : — Va revoir les roses. Tu comprendras que la tienne est unique au monde.",
+    "work": "Le Petit Prince",
+    "source": "recording"
+   }
   },
   {
    "card_id": "bw-000007",
-   "content_rev": 2,
+   "content_rev": 3,
    "language": "en",
    "passage_id": "lp21-secret",
    "quote_display": "“Here is my secret. It's quite simple: One sees clearly only with the heart. Anything essential is invisible to the eyes.” “Anything essential is invisible to the eyes,” the little prince repeated, in order to remember.",
@@ -183,7 +219,13 @@
     262680,
     281100
    ],
-   "translation": null
+   "translation": null,
+   "original": {
+    "language": "fr",
+    "text": "— Voici mon secret. Il est très simple : on ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux. — L'essentiel est invisible pour les yeux, répéta le petit prince, afin de se souvenir.",
+    "work": "Le Petit Prince",
+    "source": "recording"
+   }
   },
   {
    "card_id": "bw-000025",
@@ -208,7 +250,8 @@
     6600,
     25080
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000026",
@@ -233,7 +276,8 @@
     24480,
     38820
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000027",
@@ -258,7 +302,8 @@
     4500,
     44220
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000028",
@@ -283,7 +328,8 @@
     4800,
     25680
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000029",
@@ -308,7 +354,8 @@
     3360,
     39720
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000030",
@@ -333,7 +380,8 @@
     1440,
     16750
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000031",
@@ -358,7 +406,8 @@
     16200,
     39060
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000032",
@@ -389,7 +438,8 @@
     "source": "ai",
     "translator": null,
     "edition": null
-   }
+   },
+   "original": null
   },
   {
    "card_id": "bw-000033",
@@ -420,7 +470,8 @@
     "source": "ai",
     "translator": null,
     "edition": null
-   }
+   },
+   "original": null
   },
   {
    "card_id": "bw-000034",
@@ -445,7 +496,8 @@
     22370,
     36840
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000035",
@@ -470,7 +522,8 @@
     176160,
     194160
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000036",
@@ -495,7 +548,8 @@
     315840,
     336720
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000037",
@@ -520,7 +574,8 @@
     531720,
     545880
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000038",
@@ -545,7 +600,8 @@
     612240,
     634800
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000039",
@@ -570,7 +626,8 @@
     666120,
     693600
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000040",
@@ -595,7 +652,8 @@
     18030,
     36990
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000041",
@@ -620,7 +678,8 @@
     160290,
     177810
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000042",
@@ -645,7 +704,8 @@
     273870,
     294930
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000043",
@@ -670,7 +730,8 @@
     470610,
     492330
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   },
   {
    "card_id": "bw-000044",
@@ -695,7 +756,8 @@
     520590,
     552690
    ],
-   "translation": null
+   "translation": null,
+   "original": null
   }
  ],
  "recordings": [
@@ -706,9 +768,43 @@
    "contributor": "JL",
    "duration_ms": 281490,
    "audio": "recordings/rec_0001.m4a",
-   "audio_sha256": "6d78a56d7bf48f49ba3cd83ed95729c4aa4f4cb353c78c7435e6764b8f538086",
+   "audio_sha256": "ae813575e90b227e14c30489d0de3ce619a74fad1af612ac36a92795a90ec53d",
    "text": "So the book I'm reading, which is no surprise, is… I'm going to read you… Actually, there are three parts in chapter 21 that I really liked, about friendship, or just relationship between people. I'm going to read a bit, then skip some text, and then read the second part.\n\nSo here we go.\n\n“Nothing's perfect,” sighed the fox. But he returned to his idea. “My life is monotonous. I hunt chickens; people hunt me. All chickens are just alike, and all men are just alike. So I'm rather bored.\n\nBut if you tame me, my life will be filled with sunshine. I'll know the sound of the steps that will be different from all the rest. Other footsteps send me back underground. Yours will call me out of my burrow like music.\n\nAnd then look: you see the wheat fields over there? I don't eat bread. For me, wheat is of no use whatever. Wheat fields say nothing to me, which is sad. But you have hair the color of gold. So it will be wonderful once you've tamed me! The wheat, which is golden, will remind me of you, and I'll love the sound of the wind in the wheat.\n\nThe fox fell silent and stared at the little prince for a long while. “Please… tame me!” he said. “I'd like to,” the little prince replied, “but I haven't much time. I have friends to find and so many things to learn.”\n\n“The only things you learn are the things you tame,” said the fox. “People haven't time to learn anything. They buy things ready-made in stores. But since there are no stores where you can buy friends, people no longer have friends. If you want a friend, tame me!”\n\n“What do I have to do?” asked the little prince.\n\n“You have to be very patient,” the fox answered. “First you'll sit down a little ways away from me, over there, in the grass. I'll watch you out of the corner of my eye, and you won't say anything. Language is the source of misunderstandings. But day by day, you'll be able to sit a little closer.”\n\nHere we go, the second part. This part is about goodbyes, which I just find highly relatable, because it makes me think about why we step into relationships, even with the knowledge that we might have to say goodbye to people one day, or someday in the future. So here we go.\n\nThat was how the little prince tamed the fox. And when the time to leave was near — “Ah,” the fox said, “I shall weep.” “It's your own fault,” the little prince said. “I never wanted to do you any harm, but you insisted that I tame you.” “Yes, of course,” the fox said.\n\n“But you are going to weep,” said the little prince. “Yes, of course,” the fox said. “Then you get nothing out of it.” “I get something,” the fox said, “because of the color of the wheat.”\n\nThen he added, “Go look at the roses again. You'll understand that yours is the only rose in all the world.”\n\n“Then come back to say goodbye, and I'll make you the gift of a secret.”\n\nI'm going to skip a little bit… and here, the last part.\n\nAnd he went back to the fox. “Goodbye,” he said. “Goodbye,” said the fox.\n\n“Here is my secret. It's quite simple: One sees clearly only with the heart. Anything essential is invisible to the eyes.” “Anything essential is invisible to the eyes,” the little prince repeated, in order to remember.",
    "translation": null,
+   "original": {
+    "language": "fr",
+    "work": "Le Petit Prince",
+    "passages": [
+     {
+      "card_id": "bw-000001",
+      "text": "Mais si tu m'apprivoises, ma vie sera comme ensoleillée. Je connaîtrai un bruit de pas qui sera différent de tous les autres. Les autres pas me font rentrer sous terre. Le tien m'appellera hors du terrier, comme une musique."
+     },
+     {
+      "card_id": "bw-000002",
+      "text": "Et puis regarde ! Tu vois, là-bas, les champs de blé ? Je ne mange pas de pain. Le blé pour moi est inutile. Les champs de blé ne me rappellent rien. Et ça, c'est triste ! Mais tu as des cheveux couleur d'or. Alors ce sera merveilleux quand tu m'auras apprivoisé ! Le blé, qui est doré, me fera souvenir de toi. Et j'aimerai le bruit du vent dans le blé…"
+     },
+     {
+      "card_id": "bw-000003",
+      "text": "— On ne connaît que les choses que l'on apprivoise, dit le renard. Les hommes n'ont plus le temps de rien connaître. Ils achètent des choses toutes faites chez les marchands. Mais comme il n'existe point de marchands d'amis, les hommes n'ont plus d'amis. Si tu veux un ami, apprivoise-moi !"
+     },
+     {
+      "card_id": "bw-000004",
+      "text": "— Il faut être très patient, répondit le renard. Tu t'assoiras d'abord un peu loin de moi, comme ça, dans l'herbe. Je te regarderai du coin de l'œil et tu ne diras rien. Le langage est source de malentendus. Mais, chaque jour, tu pourras t'asseoir un peu plus près…"
+     },
+     {
+      "card_id": "bw-000005",
+      "text": "— Mais tu vas pleurer ! dit le petit prince. — Bien sûr, dit le renard. — Alors tu n'y gagnes rien ! — J'y gagne, dit le renard, à cause de la couleur du blé."
+     },
+     {
+      "card_id": "bw-000006",
+      "text": "Puis il ajouta : — Va revoir les roses. Tu comprendras que la tienne est unique au monde."
+     },
+     {
+      "card_id": "bw-000007",
+      "text": "— Voici mon secret. Il est très simple : on ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux. — L'essentiel est invisible pour les yeux, répéta le petit prince, afin de se souvenir."
+     }
+    ]
+   },
    "spans": [
     {
      "start_ms": 0,
@@ -858,6 +954,7 @@
    "audio_sha256": "b70888313c32bad79b05dd0e613b2d1ca4454790d18ca3c7dd79d161d835f5b2",
    "text": "From Wind, Sand and Stars, by Antoine de Saint-Exupéry.\n\nOld friends cannot be created out of hand. Nothing can match the treasure of common memories, of trials endured together, of quarrels and reconciliations and generous emotions. It's idle, having planted an acorn in the morning, to expect that afternoon to sit in the shade of an oak.\n\nSo life goes on. For years we plant the seed, we feel ourselves rich; and then come other years when time does its work and our plantation is made sparse and thin. One by one our comrades slip away, deprive us of their shade.",
    "translation": null,
+   "original": null,
    "spans": [
     {
      "start_ms": 1440,
@@ -904,6 +1001,7 @@
    "audio_sha256": "88166af1821555ccf96d719d8f8ef4da5d211c11b88c7402e206e93c02bbfc79",
    "text": "From What I Believe, an essay by E. M. Forster.\n\nI believe in an aristocracy, though – if that is the right word, and if a democrat may use it. Not an aristocracy of power, based upon rank and influence, but an aristocracy of the sensitive, the considerate and the plucky. Its members are to be found in all nations and classes, and all through the ages, and there is a secret understanding between them when they meet. They represent the true human tradition, the one permanent victory of our queer race over cruelty and chaos. Thousands of them perish in obscurity, a few are great names. They are sensitive for others as well as themselves, they are considerate without being fussy, their pluck is not of swankiness but the power to endure, and they can take a joke.",
    "translation": null,
+   "original": null,
    "spans": [
     {
      "start_ms": 60,
@@ -942,6 +1040,7 @@
    "audio_sha256": "5cc49066d0fcfc2a57a6185cdb2d3c37c5bd75e4ce2773e4c93be5a176277f4e",
    "text": "From the novel The White Guard, by Mikhail Bulgakov.\n\nBut this isn't frightening. All this will pass. The sufferings, agonies, blood, hunger, and wholesale death. The sword will go away, but these stars will remain when even the shadows of our bodies and our affairs are long gone from this earth. There is not a man who does not know this. So why are we reluctant to turn our gaze to them? Why?",
    "translation": null,
+   "original": null,
    "spans": [
     {
      "start_ms": 0,
@@ -980,6 +1079,7 @@
    "audio_sha256": "3aa6ec647f3088d8c0e19b68c8777f73a3e1fda8a6d9eaf40d3da0beb2e3cd08",
    "text": "From Brideshead Revisited, by Evelyn Waugh.\n\n“Perhaps,” I thought, while her words still hung in the air between us like a wisp of tobacco smoke – a thought to fade and vanish like smoke without a trace – “perhaps all our loves are merely hints and symbols; vagabond-language scrawled on gate-posts and paving-stones along the weary road that others have tramped before us; perhaps you and I are types and this sadness which sometimes falls between us springs from disappointment in our search, each straining through and beyond the other, snatching a glimpse now and then of the shadow which turns the corner always a pace or two ahead of us.”",
    "translation": null,
+   "original": null,
    "spans": [
     {
      "start_ms": 0,
@@ -1018,6 +1118,7 @@
    "audio_sha256": "542f8d1e95084f9d526fc475027a18b6420bd0eea6c6943648bd6002e99efb6e",
    "text": "Kazantzakis.\n\nMy life is wasted, I thought. If only I could take a cloth and wipe out all I've learned, all I've seen and heard, and go to Zorba's school and start the great, real alphabet! What a different road I would choose!\n\nI should keep my five senses perfectly trained, and my whole body too, so that it would enjoy and understand. I should learn to run, to wrestle, to swim, to ride horses, to row, to drive a car, to fire a rifle. I should fill my soul with flesh. I should fill my flesh with soul. In fact, I should reconcile at last within me the two eternal antagonists.",
    "translation": null,
+   "original": null,
    "spans": [
     {
      "start_ms": 0,
@@ -1070,6 +1171,7 @@
     "translator": null,
     "note": "Machine translation (Claude) of LA's French reading; the published English translation of the novel (Michael Henry Heim, 1984) is translated from the Czech and worded differently."
    },
+   "original": null,
    "spans": [
     {
      "start_ms": 0,
@@ -1109,6 +1211,7 @@
    "audio_sha256": "ac624d98da2a17514f4c71faa6124271a388a0c8587b176ce541b77e1d21dfbb",
    "text": "And it's the beginning of a book called A Fortune Teller Told Me, which is about Fortune Tellers and Omens, as told by an Italian journalist.\n\nThis is chapter one called A Blessed Curse.\n\nLife is full of opportunities. The problem is to recognize them when they present themselves. And that isn't always easy. Mine, for instance, had all the marks of a curse.\n\nBeware. You run a grave risk of dying in 1993. You mustn't fly that year. Don't fly.\n\nNot even once. A fortune teller told me. It happened in Hong Kong. I had come across that old Chinese man by sheer chance.\n\nWhen I heard his dire words. I was momentarily taken aback, but not deeply disturbed. It was the spring of 1976 and 1993 seemed a long way off.\n\nI did not forget the date, however. It lingered at the back of my mind, rather like an appointment, one hasn't yet decided whether to keep a nod.\n\n1977, 1987, 1990, 1991. 16 years seem an eternity, especially when viewed from the perspective of day one.\n\nBut like all our years, except those of adolescents, they pass very quickly, and in no time at all, I found myself at the end of 1992.\n\nWell, then, what was I to do? Take that old Chinese man's warning seriously and reorganize my life.\n\nOr pretend it had never happened and carry on regardless, telling myself to hell with the fortune tellers and all their rubbish. By that time, I had been living in Asia solidly for over 20 years.\n\nFirst in Singapore, then in Hong Kong, Peking, Tokyo, and finally in Bangkok.\n\nAnd I felt that the best way of confronting the prophecy was the Asian one, not to fight against it, but to submit. You believe in it then, teased my fellow journalists, especially the Western ones, the sort of people who are used to demanding a clear cut yes or no to every question.\n\nEven to such an ill framed one as this.\n\nBut we do not have to believe the weather forecast to carry an umbrella on a cloudy day. Rain is a possibility, the umbrella a precaution. Why tempt fate if fate itself gives you a sign, a hint?\n\nWhen the roulette ball lands on the black 3 on the black 3 or 4 times in a row, some gamblers count on statistical probability and bet all their money on the red.\n\nNot me. I bet on the black again. Has the ball itself not winked at me? And then the idea of not flying for a whole year was an attraction itself.\n\nA challenge first and foremost. It really tickled me to pretend an old Chinese in Hong Kong might hold the key to my future.\n\nIt felt like taking the first step into an unknown world. I was curious to see where most steps in the same direction would lead.\n\nIf nothing else, they would introduce me for a while to a different life from the one I normally led. For years, I've traveled by plane.\n\nMy profession taking me to the craziest places on earth. Places where wars are being waged, where revolutions break out or terrible disasters occur.\n\nObviously, I'd held my breath on more than one occasion. Landing with an engine in flames, or with a mechanic squeezed in a trap door between the seats hammering away at the undercarriage that refused, that was refusing to descend.\n\nIf I had dismissed the prophecy and carried on flying in 1993, I would certainly have done so with more than the usual pinch of anxiety, the sooner or later strikes all those, including pilots, who spend most of their, spend much of their lives in the air.\n\nBut I would have carried on with my normal routine. Planes, taxis, hotels, taxis, planes, That divine warning, yes, divination, divine.\n\nSo alike, gave me a chance, in a way obliged me to inject a variant into my days.\n\nThe prophecy was a pretext. The truth is that at fifty-one one has a strong urge to give one's life a touch of poetry, to take a fresh look at the world, reread the classics, rediscover that the sun rises, that there is a moon in the sky, and that there is more to time than the clock's tick can tell us.\n\nThis was my chance and I could not let it slip. But there was a practical problem. Should I stop working for a year?\n\nTake a leave of absence. Or carry on working despite this limitation. Journalism, like many other professions, is now dominated by electronics, computers, modems, faxes play a paramount role.\n\nSnappy, instantaneous television images transmitted by satellites have set new standards. And print journalism, rather than concentrating on reflection and the personal, limps after them in an effort to match the invisible immediacy, and with it, the superficiality of TV.\n\nDuring the days of the Tiananmen Massacre, CNN was broadcasting live from the square in the center of Peking, and many of my colleagues preferred to stay in their hotel rooms and watch television rather than go out and see what was happening a few yards away.\n\nThat was the quickest way of keeping up to date of following events. Moreover, the editors were seeing 1000s of miles away, the same images on the screens.\n\nAnd those images became the truth, the only truth, no need to look for another. How would biary editors react to the idea of having an Asia correspondent who, on a whim, took into his head not to fly for a whole year?\n\nWhat would they think of a man who in 1993 suddenly became a journalist from the beginning of the 20th century, one of those who would set off at the outbreak of a war and would often arrive when it was already over?\n\nMy chance to find out came in 1992 in October when one of the 2 editors in chief of Der Spiegel passed through Bangkok.\n\nOne evening after dinner, without much beating about the bush, I told him the story of the Hong Kong fortune teller and announced my intention of not traveling by a plane in 1993.\n\nAfter what you've told me, how can I ask you to fly to Manila and cover the next coup d'etat or to Bangladesh for the next typhoon? Do as you think best, was his reply.\n\nMagnificent as usual, my faraway masters. They saw that this caprice of mine might give rise to a different kind of story, one that might offer the reader something the others lack.\n\nDer Spiegel's reaction, obviously, took a load off my mind, but I still did not finally commit myself to the plan. The prophecy would take effect at the beginning of the new year, and I intended to make my decision at the very last moment, the stroke of midnight on 31st December, wherever I might find myself.\n\nWell, I was in the Laotian forest. My celebratory feast was an omelette of red ants' eggs.\n\nThere was no champagne to see the new year in. Instead, I raised a glass of fresh water. And solemnly resolved not to yield for any reason, at any cost to the temptation of flying.\n\nI would travel the world by any means as long as it was not a plane, a helicopter, or a glider.\n\nIt was an excellent decision, and 1993 turned out to be one of the most extraordinary years I've ever spent. I was marked for death, and instead I was reborn. What looked like a curse proved to be a blessing.\n\nMoving between Asia and Europe by train, by ship, by car, sometimes even by foot, the rhythm of my days change completely.\n\nDistance became real again. And I reacquired the taste of discovery and adventure. Suddenly, no longer able to rush off to an airport, pay by credit card and be swept off in a flash literally anywhere.\n\nI was obliged once again to see the world as a complex network of countries, divided by rivers and seas that required crossing. And by frontiers that invariably spelled visa.\n\nA special visa. What is more, saying surface travel, as if this were so unusual as to cast suspicion on anyone who insisted on it.\n\nGetting from place to place was no longer a matter of hours, but of days or weeks, I had to avoid making mistakes. So before starting out, I pored over maps.\n\nNo longer were mountains, beautiful, irrelevant frill scenes from a porthole, but potential obstacles on my way.\n\nCovering great distances by train or boat restored my sense of the earth's immensity. And above all, it led me to rediscover the majority of humanity, whose very existence we well-nigh forget by dint of flying: the humanity that moves about burdened with bundles and children while the world of the airplane passes, in every sense, over their heads.\n\nMy undertaking not to fly turned into a game full of surprises.\n\nIf you pretend to be blind for a while, you find that the other senses grow sharper to compensate for the lack of sight. Avoiding planes has a similar effect.\n\nThe train journey, with its ample time and cramped space, reanimates and atrophied curiosity about details. You give keener attention to what lies around you, to what hurdles past the window.\n\nIn a plane you soon learn not to look, not to listen. The people you meet, the conversations you have, are always the same. After thirty years of flying, I can recall precisely no one. On trains, on Asian ones at least, things are different. You share your days, your meals and your boredom with people you would otherwise never meet. And some of them remain unforgettable.",
    "translation": null,
+   "original": null,
    "spans": [
     {
      "start_ms": 0,
@@ -1509,6 +1612,7 @@
    "audio_sha256": "90dab4ac325bc19c296718a40f5f29e3d39d636bca3d770fae2d2d95099dedfa",
    "text": "And this is from a novel called River of Time. And it starts with a little line from Rudyard Kipling.\n\nAnd then we will go into the first chapter. Here is the quote.\n\nTwo things greater than all things are, / The first is Love, and the second War. / And since we know not how War may prove, / Heart of my heart, let us talk of Love!\n\nThis is the beginning of the first chapter. Lands of the Living Past.\n\nBy now, so many journalists have written their war stories about Vietnam, Cambodia, and Laos, that another book at this late stage may be thought superfluous.\n\nTheir stale, wearied refrain is, I remember when I was in Indochina, dot, dot, dot.\n\nIf I am guilty of a similar sin and sound too much like an old Indochina hand, I apologize.\n\nThe exploitation of nostalgia is not my intention. If I romanticize some aspects of war, put it down to youthful exuberance.\n\nThe countries of what was formerly French Indochina are lands that still stand apart from the rest of Asia. Though they no longer make such tragic headlines.\n\nEven as they are being modernized by the West, they remain aloof, tragic, beautiful and provocative, a bewildering medley of the senses.\n\nThey are places which have colored my experience of life like no others on Earth. I regret that I ever had to leave them, though I recognized that I did not get to know them as well as I should, and that I saw them at a moment of dark tragedy when they were cockpits of conflict.\n\nYou came under foreign armies, ideologies, internal oppression. The impact of the wars upon Indochina has been terrible.\n\nThe communist victories, a hideous disillusionment.\n\nBut through these lands flows one constant, the Mekong. Great rivers have a special magic. There's something about the Mekong which even years later makes me want to sit down beside it and watch my whole life go by.\n\nThe Mekong is the longest river in Southeast Asia. It begins its life tamely as a small glacial spring in the Tibetan Himalayas, the roof of the world.\n\nThen, fed by melting snow on mountain streams, it tumbles down through sheer sided gorges in southwestern China.\n\nTwists and turned through the jungly hills of Laos. Descends through a series of rapids into Cambodia, then flows at a more leisurely pace now, into southern Vietnam, to meander peacefully into the South China Sea below Saigon.\n\nBetween 1970 and 1975. I lived in the lands of the Mekong, Cambodia and Vietnam.\n\nAnd for raid into Laos to report on America's secret war there. This book is primarily a personal account of those tumultuous days.\n\nDuring this period, the Mekong stole repeatedly into fragments of my life. It was to become more familiar to me than the Thames, in many Londoners.\n\nI was in my early 20s. One of 600 odd journalists accredited in Saigon to the United States military assistant command, Vietnam, also known as MACV.\n\nAnd in Phnom Penh, one of a much smaller group accredited to the US backed government of the ill-fated Khmer Republic.\n\nThe Mekong soon washed through me like a tide. I learned something about life and death there that I could never have perceived in Europe. I learned about the excitement and the romance tinged with melancholy that is so peculiar to this corner of Asia. I learned, too, that the Mekong is not as innocent a river as it sometimes looks.\n\nIt is true that the Mekong brings life to the lands of Indochina. But there is another phase of it. That in due course, I got to know too well.\n\nIt is a face that reflects the violence and corruption of the countries it touches. This was never entirely the sleepy Asian backwater of docile, gently smiling peasants, which it was popularly portrayed to be.\n\nBut a place of despotism, primitive destructiveness and suffering. History has demonstrated that violence as well as sensuous pleasure is intrinsic to the Indochinese character and to Cambodians in particular.\n\nViolence is in the blood. Cambodians appear only to have known how to destroy and never to reconstruct, wrote Henri Mouhot, the great French explorer who died of jungle fever exploring the upper reaches of the river in 1861.\n\nOf the Mekong, he said, I have so long drunk of its waters, it has so long either cradled me on its bosom or tried my patience, at one time flowing majestically among the mountains, at another muddy and yellow as the Arno at Florence.\n\nBut myself, there are certain things I shall never forget. The buddies I saw being chussed about in its violent eddies near a fairy town, 32 miles south of Phnom Penh, in the early morning mist when the Mekong is at its most majestic and mysterious.\n\nOr the dawn tragedy of the B-52 bomber of the United States Air Force, which prematurely unleashed its cargo of high explosives on the same little town, turning its center into a flattened mass rubble under which many people laid dead.\n\nI saw one stick of bombs through the town, but it was no great disaster. Colonel Upfer, the American air attaché, told a press conference.\n\nUp for had not understood a thing. The bombing had killed or wounded some 400 people. One man lost 12 members of his family.\n\nNor shall I forget the day when a Cambodian general marched his soldiers behind a protective screen of Vietnamese civilians into the waiting guns of the Viet Cong.\n\nIt is a new form of psychological warfare, the general said, as the bodies dropped in front of him. E. It was in Phnom Penh on the banks of one of the quat quatoba of the Mekong that one morning in 1975.\n\nI thought I was going to die. A young Khmer Rouge soldier put a piston to my head. There did not seem to be any reason why he would not pull the trigger.\n\nToday, I still have the uneasy feeling that perhaps I should not be alive.\n\nOf course, there were other sides to these things too. One can be romantic as well as cynical about war. There can be a magic attraction about tragedy. There can be exhilaration as well as exhaustion. When death is close, every object, every feeling is golden. Camaraderie is strong, love is deep.\n\nTime inevitably dims the intensity of one's feelings.\n\nYet often I have a burning desire to go back to where it all began for me. But not so much the Cambodia I knew at the end, in its most tragic and lonely hour when Phnom Penh was a city under siege.\n\nSwath in barbed wire, swamped by refugees whose suffering presented one of the most haunting images of 20th century Asia.\n\nI want to go back to the Cambodia of early 1970 and the innocence of my first trip to Indochina. I dream of Phnom Penh's flower-scented streets, the simplicity of the villages along the banks of the Mekong surrounded by mangoes, bananas and coconuts, the splendour of the jungle, the rice fields green as lawns, the exquisite women, the odour of opium, the warm caress of the heat, and the peace that reigned over it all.\n\nThe dawning of a beautiful love affair, that too belongs to the Indochina I cherish. What carries me back to Cambodia, what carries me back to the Cambodia of my dreams is those first days.\n\nOn that cold 1970 morning, I had left Paris behind me, shuddered and pigeon gray beneath the monotony of a northern sky.\n\nI had been working on the English desk of Agence France-Presse, AFP for nearly 2 years. But harbored a desire to be posted to Vietnam and badgered my editors unashamedly to be sent there.\n\nMy passion for Indochina was fueled in part by a brief flirtation with the French Foreign Legion, which had fought with such distinction there and in part by a zest for adventure, which is why I became a journalist in the first place.\n\nIn the end, a coup d'etat was the answer to my prayers. The new rulers regarded Jean Barret, the AFP correspondent in Phnom Penh, as hostile and expelled him.\n\nIn their wisdom, the French chiefs of AFP decided to replace him with a non-Frenchman. I was their choice and was sent there as an envoyé spécial on a 3 month assignment.\n\nI stayed for 5 years.",
    "translation": null,
+   "original": null,
    "spans": [
     {
      "start_ms": 90,
