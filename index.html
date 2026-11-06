@@ -14,10 +14,10 @@
   <meta name="color-scheme" content="light" />
   <title>borrowed words</title>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect x='2' y='4' width='12' height='9' fill='%231d1d1b'/%3E%3Ccircle cx='8' cy='4' r='2' fill='%23d7362a'/%3E%3C/svg%3E" />
-  <script type="module" crossorigin src="./assets/main-CJpugDTc.js"></script>
+  <script type="module" crossorigin src="./assets/main-gzt0ostC.js"></script>
   <link rel="modulepreload" crossorigin href="./assets/500-ee8qjxZl.js">
   <link rel="stylesheet" crossorigin href="./assets/500-BkeoOBN1.css">
-  <link rel="stylesheet" crossorigin href="./assets/main-CNzrNCIh.css">
+  <link rel="stylesheet" crossorigin href="./assets/main-BPwDI3_A.css">
 </head>
 <body>
   <canvas class="drift" aria-hidden="true"></canvas>
@@ -54,11 +54,15 @@
       </div>
       <form class="ask" hidden autocomplete="off">
         <label class="sr" for="q">Your question</label>
+        <span class="ask-q">
+          <button type="button" class="ask-qbtn" aria-label="About asking the box" aria-describedby="ask-tip">
+            <svg viewBox="0 0 14 24" aria-hidden="true"><path class="q" pathLength="1" d="M2.6 7.2a4.4 4.4 0 1 1 6.6 3.8C7.7 11.9 7 13 7 14.8v1.6"/><path class="dot" d="M7 20.6v.2"/></svg>
+          </button>
+          <span class="ask-tip" id="ask-tip" role="tooltip">Like a book of answers: hold a question in mind, and the box replies with a passage someone once read aloud. Ask it again, and the answer stays the same.</span>
+        </span>
         <span class="caret-wrap"><input id="q" name="q" maxlength="200" placeholder="Whisper a question to the box…" /></span>
         <button class="link" type="submit">Ask</button>
         <button class="link quiet" type="button" data-act="cancel">Never mind</button>
-        <p class="ask-hint">Hold a question in mind; the box will answer. <button class="ask-more" type="button" aria-expanded="false" aria-controls="ask-about">more</button></p>
-        <p class="ask-about" id="ask-about" hidden>Like a book of answers: the box replies with a passage someone once read aloud. Ask the same question again, and it gives the same answer.</p>
       </form>
     </section>
 
