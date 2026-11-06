@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta name="robots" content="noindex" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light" />
+  <title>borrowed words</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect x='2' y='4' width='12' height='9' fill='%231d1d1b'/%3E%3Ccircle cx='8' cy='4' r='2' fill='%23d7362a'/%3E%3C/svg%3E" />
+  <script type="module" crossorigin src="./assets/main-CBw1bF1Q.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/500-ee8qjxZl.js">
+  <link rel="stylesheet" crossorigin href="./assets/500-BkeoOBN1.css">
+  <link rel="stylesheet" crossorigin href="./assets/main-Lj6rUkfM.css">
+</head>
+<body>
+  <canvas class="drift" aria-hidden="true"></canvas>
+  <header class="top">
+    <h1 class="wordmark"><a href="#" data-act="box" aria-label="borrowed words"><span class="struck" aria-hidden="true"><span style="--y:0.007em;--o:0.98">b</span><span style="--y:-0.010em;--o:0.86">o</span><span style="--y:-0.014em;--o:0.96">r</span><span class="dbl" style="--y:-0.015em;--o:0.89">r</span><span style="--y:0.015em;--o:0.89">o</span><span style="--y:0.006em;--o:0.97">w</span><span style="--y:0.023em;--o:0.92">e</span><span style="--y:-0.010em;--o:0.91">d</span> <span style="--y:-0.003em;--o:0.93">w</span><span style="--y:-0.012em;--o:0.97">o</span><span style="--y:-0.019em;--o:0.96">r</span><span style="--y:-0.023em;--o:0.89">d</span><span style="--y:-0.003em;--o:0.93">s</span></span></a></h1>
+    <!-- letterpress: ink pressed into rough stock (bitten edges, a few tiny voids) — used by the wordmark -->
+    <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+      <filter id="press" x="-5%" y="-20%" width="110%" height="140%">
+        <feTurbulence type="fractalNoise" baseFrequency="1.4" numOctaves="2" seed="7" result="n"/>
+        <feDisplacementMap in="SourceGraphic" in2="n" scale="1.1" xChannelSelector="R" yChannelSelector="G" result="d"/>
+        <feTurbulence type="fractalNoise" baseFrequency="2.2" numOctaves="1" seed="3" result="s"/>
+        <feColorMatrix in="s" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -9 6.9" result="holes"/>
+        <feComposite in="d" in2="holes" operator="in"/>
+      </filter>
+    </svg>
+    <button class="menu-btn" aria-label="Menu" aria-expanded="false"><span></span><span></span></button>
+    <button class="close-btn" data-act="home" aria-label="Close card and return to the box" hidden></button>
+    <nav class="menu" hidden>
+      <button data-act="chance">Leave it to chance</button>
+      <button data-act="ask">Ask the box</button>
+      <button data-act="cards">All cards</button>
+      <button data-act="readings">Readings</button>
+    </nav>
+  </header>
+
+  <main class="stage">
+    <section class="view view-box" aria-label="Card box">
+      <div class="box-host"></div>
+      <div class="counter" aria-hidden="true"><span class="label">No.</span> <span class="digits">———</span></div>
+      <div class="seed" aria-hidden="true"></div>
+      <div class="choices">
+        <button class="link" data-act="chance">Leave it to chance</button>
+        <button class="link" data-act="ask">Ask the box</button>
+      </div>
+      <form class="ask" hidden autocomplete="off">
+        <label class="sr" for="q">Your question</label>
+        <span class="caret-wrap"><input id="q" name="q" maxlength="200" placeholder="Whisper a question to the box…" /></span>
+        <button class="link" type="submit">Ask</button>
+        <button class="link quiet" type="button" data-act="cancel">Never mind</button>
+      </form>
+    </section>
+
+    <section class="view view-card" aria-live="polite" hidden>
+      <article class="card">
+        <div class="card-top"><span class="no">No. 000</span><span class="lang"></span></div>
+        <blockquote class="quote"></blockquote>
+        <div class="card-bottom">
+          <p class="attr"></p>
+          <button class="link small alt" hidden></button>
+        </div>
+      </article>
+      <div class="player-host"></div>
+    </section>
+    <section class="view view-cards" aria-label="All cards" hidden></section>
+  </main>
+  <div class="view view-readings" aria-label="Readings" hidden></div>
+  <div class="view view-reading" aria-label="Reading" hidden></div>
+
+</body>
+</html>

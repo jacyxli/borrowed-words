@@ -1,0 +1,1867 @@
+{
+ "schema_version": "1.2",
+ "deck_id": "borrowed-words",
+ "deck_version": 10,
+ "published_at": "2026-11-06T22:32:50",
+ "card_count": 27,
+ "selection": "cards[] order is fixed for this version; index = uint32(sha256(normalized question)[0:4]) mod card_count",
+ "changes": {
+  "added": [],
+  "removed": []
+ },
+ "cards": [
+  {
+   "card_id": "bw-000001",
+   "content_rev": 2,
+   "language": "en",
+   "passage_id": "lp21-tame-sunshine",
+   "quote_display": "But if you tame me, my life will be filled with sunshine. I'll know the sound of the steps that will be different from all the rest. Other footsteps send me back underground. Yours will call me out of my burrow like music.",
+   "author": "Antoine de Saint-Exupéry",
+   "source_work": "The Little Prince",
+   "source_locator": "Chapter 21",
+   "translator": "Richard Howard",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 16140,
+   "verification_status": "partially_verified",
+   "number": 1,
+   "audio": "audio/bw-000001.m4a",
+   "parallel": [],
+   "audio_sha256": "90765b7de9259a6edf33aa49198cd3d266aa6a0e0f650776268ab0ff33a85381",
+   "recording_id": "rec_0001",
+   "recording_offset_ms": [
+    53940,
+    70080
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000002",
+   "content_rev": 2,
+   "language": "en",
+   "passage_id": "lp21-wheat-gold",
+   "quote_display": "And then look: you see the wheat fields over there? I don't eat bread. For me, wheat is of no use whatever. Wheat fields say nothing to me, which is sad. But you have hair the color of gold. So it will be wonderful once you've tamed me! The wheat, which is golden, will remind me of you, and I'll love the sound of the wind in the wheat.",
+   "author": "Antoine de Saint-Exupéry",
+   "source_work": "The Little Prince",
+   "source_locator": "Chapter 21",
+   "translator": "Richard Howard",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 29100,
+   "verification_status": "partially_verified",
+   "number": 2,
+   "audio": "audio/bw-000002.m4a",
+   "parallel": [],
+   "audio_sha256": "aac9bbf2b3a06a96eab08920f52ec235414749c5e939deca29532b46a700219c",
+   "recording_id": "rec_0001",
+   "recording_offset_ms": [
+    69480,
+    98580
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000003",
+   "content_rev": 2,
+   "language": "en",
+   "passage_id": "lp21-tame-friend",
+   "quote_display": "“The only things you learn are the things you tame,” said the fox. “People haven't time to learn anything. They buy things ready-made in stores. But since there are no stores where you can buy friends, people no longer have friends. If you want a friend, tame me!”",
+   "author": "Antoine de Saint-Exupéry",
+   "source_work": "The Little Prince",
+   "source_locator": "Chapter 21",
+   "translator": "Richard Howard",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 22620,
+   "verification_status": "partially_verified",
+   "number": 3,
+   "audio": "audio/bw-000003.m4a",
+   "parallel": [],
+   "audio_sha256": "a622e196a4134d125ea42a7eabca50f56121956979983f0f993eb23790e53f53",
+   "recording_id": "rec_0001",
+   "recording_offset_ms": [
+    115560,
+    138180
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000004",
+   "content_rev": 2,
+   "language": "en",
+   "passage_id": "lp21-patience-language",
+   "quote_display": "“You have to be very patient,” the fox answered. “First you'll sit down a little ways away from me, over there, in the grass. I'll watch you out of the corner of my eye, and you won't say anything. Language is the source of misunderstandings. But day by day, you'll be able to sit a little closer.”",
+   "author": "Antoine de Saint-Exupéry",
+   "source_work": "The Little Prince",
+   "source_locator": "Chapter 21",
+   "translator": "Richard Howard",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 24180,
+   "verification_status": "partially_verified",
+   "number": 4,
+   "audio": "audio/bw-000004.m4a",
+   "parallel": [],
+   "audio_sha256": "a3690b6f203a06d2544ea54ba3836343eb7282ec3a04ba8ff244539994d88811",
+   "recording_id": "rec_0001",
+   "recording_offset_ms": [
+    142380,
+    166560
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000005",
+   "content_rev": 2,
+   "language": "en",
+   "passage_id": "lp21-color-of-wheat",
+   "quote_display": "“But you are going to weep,” said the little prince. “Yes, of course,” the fox said. “Then you get nothing out of it.” “I get something,” the fox said, “because of the color of the wheat.”",
+   "author": "Antoine de Saint-Exupéry",
+   "source_work": "The Little Prince",
+   "source_locator": "Chapter 21",
+   "translator": "Richard Howard",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 14220,
+   "verification_status": "partially_verified",
+   "number": 5,
+   "audio": "audio/bw-000005.m4a",
+   "parallel": [],
+   "audio_sha256": "8a88bddeaafd9ecc4a31fb9f1381128110f8b00ff26853d9199512c55565e8f7",
+   "recording_id": "rec_0001",
+   "recording_offset_ms": [
+    221040,
+    235260
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000006",
+   "content_rev": 2,
+   "language": "en",
+   "passage_id": "lp21-only-rose",
+   "quote_display": "Then he added, “Go look at the roses again. You'll understand that yours is the only rose in all the world.”",
+   "author": "Antoine de Saint-Exupéry",
+   "source_work": "The Little Prince",
+   "source_locator": "Chapter 21",
+   "translator": "Richard Howard",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 8340,
+   "verification_status": "partially_verified",
+   "number": 6,
+   "audio": "audio/bw-000006.m4a",
+   "parallel": [],
+   "audio_sha256": "3091414d74c57311d21538081b11186e2919d5afd51438a2f355415df54fe3a3",
+   "recording_id": "rec_0001",
+   "recording_offset_ms": [
+    235140,
+    243480
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000007",
+   "content_rev": 2,
+   "language": "en",
+   "passage_id": "lp21-secret",
+   "quote_display": "“Here is my secret. It's quite simple: One sees clearly only with the heart. Anything essential is invisible to the eyes.” “Anything essential is invisible to the eyes,” the little prince repeated, in order to remember.",
+   "author": "Antoine de Saint-Exupéry",
+   "source_work": "The Little Prince",
+   "source_locator": "Chapter 21",
+   "translator": "Richard Howard",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 18420,
+   "verification_status": "verified_secondary",
+   "number": 7,
+   "audio": "audio/bw-000007.m4a",
+   "parallel": [],
+   "audio_sha256": "de40f7a625f723e7bbe359eb0332e6e35600daf9c242c80aefdc749207f47274",
+   "recording_id": "rec_0001",
+   "recording_offset_ms": [
+    262680,
+    281100
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000025",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "wss-old-friends",
+   "quote_display": "Old friends cannot be created out of hand. Nothing can match the treasure of common memories, of trials endured together, of quarrels and reconciliations and generous emotions. It's idle, having planted an acorn in the morning, to expect that afternoon to sit in the shade of an oak.",
+   "author": "Antoine de Saint-Exupéry",
+   "source_work": "Wind, Sand and Stars",
+   "source_locator": null,
+   "translator": "Lewis Galantière",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 18480,
+   "verification_status": "partially_verified",
+   "number": 25,
+   "audio": "audio/bw-000025.m4a",
+   "parallel": [],
+   "audio_sha256": "90b7de0c192e5a42527a08a079e3fe2dbc62ec19e14bab64805e2e5b81f98684",
+   "recording_id": "rec_0002",
+   "recording_offset_ms": [
+    6600,
+    25080
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000026",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "wss-plantation",
+   "quote_display": "So life goes on. For years we plant the seed, we feel ourselves rich; and then come other years when time does its work and our plantation is made sparse and thin. One by one our comrades slip away, deprive us of their shade.",
+   "author": "Antoine de Saint-Exupéry",
+   "source_work": "Wind, Sand and Stars",
+   "source_locator": null,
+   "translator": "Lewis Galantière",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 14340,
+   "verification_status": "partially_verified",
+   "number": 26,
+   "audio": "audio/bw-000026.m4a",
+   "parallel": [],
+   "audio_sha256": "499b0cbe8508995d83e34e5349f06326b447866b1d76b944b823499b4fd41f50",
+   "recording_id": "rec_0002",
+   "recording_offset_ms": [
+    24480,
+    38820
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000027",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "forster-aristocracy",
+   "quote_display": "I believe in an aristocracy, though – if that is the right word, and if a democrat may use it. Not an aristocracy of power, based upon rank and influence, but an aristocracy of the sensitive, the considerate and the plucky. Its members are to be found in all nations and classes, and all through the ages, and there is a secret understanding between them when they meet. They represent the true human tradition, the one permanent victory of our queer race over cruelty and chaos. Thousands of them perish in obscurity, a few are great names. They are sensitive for others as well as themselves, they are considerate without being fussy, their pluck is not of swankiness but the power to endure, and they can take a joke.",
+   "author": "E. M. Forster",
+   "source_work": "What I Believe",
+   "source_locator": null,
+   "translator": null,
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 39720,
+   "verification_status": "partially_verified",
+   "number": 27,
+   "audio": "audio/bw-000027.m4a",
+   "parallel": [],
+   "audio_sha256": "fed5ae4009d7f399415ed27eadb9e099c15851deafa14836abcd1008471d5075",
+   "recording_id": "rec_0003",
+   "recording_offset_ms": [
+    4500,
+    44220
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000028",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "whiteguard-stars",
+   "quote_display": "But this isn't frightening. All this will pass. The sufferings, agonies, blood, hunger, and wholesale death. The sword will go away, but these stars will remain when even the shadows of our bodies and our affairs are long gone from this earth. There is not a man who does not know this. So why are we reluctant to turn our gaze to them? Why?",
+   "author": "Mikhail Bulgakov",
+   "source_work": "The White Guard",
+   "source_locator": "closing lines of the novel",
+   "translator": "Marian Schwartz",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 20880,
+   "verification_status": "partially_verified",
+   "number": 28,
+   "audio": "audio/bw-000028.m4a",
+   "parallel": [],
+   "audio_sha256": "dadea10ca1558490959b045062424938dbc1cbf98a4fb011e5218d4c6fd28b3b",
+   "recording_id": "rec_0004",
+   "recording_offset_ms": [
+    4800,
+    25680
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000029",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "brideshead-hints-symbols",
+   "quote_display": "“Perhaps,” I thought, while her words still hung in the air between us like a wisp of tobacco smoke – a thought to fade and vanish like smoke without a trace – “perhaps all our loves are merely hints and symbols; vagabond-language scrawled on gate-posts and paving-stones along the weary road that others have tramped before us; perhaps you and I are types and this sadness which sometimes falls between us springs from disappointment in our search, each straining through and beyond the other, snatching a glimpse now and then of the shadow which turns the corner always a pace or two ahead of us.”",
+   "author": "Evelyn Waugh",
+   "source_work": "Brideshead Revisited",
+   "source_locator": "Book Three, chapter 4",
+   "translator": null,
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 36360,
+   "verification_status": "partially_verified",
+   "number": 29,
+   "audio": "audio/bw-000029.m4a",
+   "parallel": [],
+   "audio_sha256": "76a01b5dd6f9806985fbd7fbfff6795661e0437a0d06ef4c881473773db6bc9f",
+   "recording_id": "rec_0005",
+   "recording_offset_ms": [
+    3360,
+    39720
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000030",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "zorba-alphabet",
+   "quote_display": "My life is wasted, I thought. If only I could take a cloth and wipe out all I've learned, all I've seen and heard, and go to Zorba's school and start the great, real alphabet! What a different road I would choose!",
+   "author": "Nikos Kazantzakis",
+   "source_work": "Zorba the Greek",
+   "source_locator": null,
+   "translator": "Carl Wildman",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 15310,
+   "verification_status": "partially_verified",
+   "number": 30,
+   "audio": "audio/bw-000030.m4a",
+   "parallel": [],
+   "audio_sha256": "4703d7a0c2f3292129502b08df9f8b20d0af4ccc504b5e3df15526c4e0b3b7d4",
+   "recording_id": "rec_0006",
+   "recording_offset_ms": [
+    1440,
+    16750
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000031",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "zorba-flesh-soul",
+   "quote_display": "I should keep my five senses perfectly trained, and my whole body too, so that it would enjoy and understand. I should learn to run, to wrestle, to swim, to ride horses, to row, to drive a car, to fire a rifle. I should fill my soul with flesh. I should fill my flesh with soul. In fact, I should reconcile at last within me the two eternal antagonists.",
+   "author": "Nikos Kazantzakis",
+   "source_work": "Zorba the Greek",
+   "source_locator": null,
+   "translator": "Carl Wildman",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 22860,
+   "verification_status": "partially_verified",
+   "number": 31,
+   "audio": "audio/bw-000031.m4a",
+   "parallel": [],
+   "audio_sha256": "38473316f00b6477482622f8a0a8f8ae0bed7cdd663d7df0f532034ce4437785",
+   "recording_id": "rec_0006",
+   "recording_offset_ms": [
+    16200,
+    39060
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000032",
+   "content_rev": 1,
+   "language": "fr",
+   "passage_id": "kundera-one-life",
+   "quote_display": "L'homme ne peut jamais savoir ce qu'il faut vouloir car il n'a qu'une vie et il ne peut ni la comparer à des vies antérieures ni la rectifier dans des vies ultérieures. Il n'existe aucun moyen de vérifier quelle décision est la bonne, car il n'existe aucune comparaison.",
+   "author": "Milan Kundera",
+   "source_work": "L'Insoutenable Légèreté de l'être",
+   "source_locator": null,
+   "translator": "François Kérel",
+   "speaker": "LA",
+   "contributor": "LA",
+   "duration_ms": 16210,
+   "verification_status": "partially_verified",
+   "number": 32,
+   "audio": "audio/bw-000032.m4a",
+   "parallel": [],
+   "audio_sha256": "6868542b96c14011013d3cea657c1d15f9e78b55ead648216ef50d34e5655338",
+   "recording_id": "rec_0007",
+   "recording_offset_ms": [
+    0,
+    16210
+   ],
+   "translation": {
+    "language": "en",
+    "text": "We can never know what to want, because we have only one life, and we can neither compare it with earlier lives nor correct it in lives to come. There is no way of testing which decision is the right one, because there is nothing to compare it with.",
+    "source": "ai",
+    "translator": null,
+    "edition": null
+   }
+  },
+  {
+   "card_id": "bw-000033",
+   "content_rev": 1,
+   "language": "fr",
+   "passage_id": "kundera-sketch",
+   "quote_display": "Tout est vécu pour la première fois et sans préparation. Comme si un acteur entrait en scène sans avoir jamais répété. Mais que peut valoir la vie si la première répétition de la vie est déjà la vie même ? C'est ce qui fait que la vie ressemble toujours à une esquisse. Mais même « esquisse » n'est pas le mot juste, car une esquisse est toujours l'ébauche de quelque chose, la préparation d'un tableau, tandis que l'esquisse qu'est notre vie est une esquisse de rien, une ébauche sans tableau.",
+   "author": "Milan Kundera",
+   "source_work": "L'Insoutenable Légèreté de l'être",
+   "source_locator": null,
+   "translator": "François Kérel",
+   "speaker": "LA",
+   "contributor": "LA",
+   "duration_ms": 29520,
+   "verification_status": "partially_verified",
+   "number": 33,
+   "audio": "audio/bw-000033.m4a",
+   "parallel": [],
+   "audio_sha256": "43a17232400929a954ef9b35202dbb0a2a5a053fbccf255078d184ae6d10185c",
+   "recording_id": "rec_0007",
+   "recording_offset_ms": [
+    15960,
+    45480
+   ],
+   "translation": {
+    "language": "en",
+    "text": "Everything is lived for the first time and without preparation, as if an actor went on stage without ever having rehearsed. But what can life be worth if the first rehearsal for life is already life itself? That is why life always resembles a sketch. But even “sketch” is not the right word, because a sketch is always the outline of something, the groundwork for a painting, whereas the sketch that is our life is a sketch of nothing, an outline without a painting.",
+    "source": "ai",
+    "translator": null,
+    "edition": null
+   }
+  },
+  {
+   "card_id": "bw-000034",
+   "content_rev": 2,
+   "language": "en",
+   "passage_id": "terzani-opportunities",
+   "quote_display": "Life is full of opportunities. The problem is to recognize them when they present themselves. And that isn't always easy. Mine, for instance, had all the marks of a curse.",
+   "author": "Tiziano Terzani",
+   "source_work": "A Fortune-Teller Told Me",
+   "source_locator": "Chapter 1, “A Blessed Curse”",
+   "translator": null,
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 14470,
+   "verification_status": "partially_verified",
+   "number": 34,
+   "audio": "audio/bw-000034.m4a",
+   "parallel": [],
+   "audio_sha256": "0cdcdad90dd110a487ff2107a5b879535b8ddf277ad07f8c1548c78b28133128",
+   "recording_id": "rec_0008",
+   "recording_offset_ms": [
+    22370,
+    36840
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000035",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "terzani-umbrella",
+   "quote_display": "But we do not have to believe the weather forecast to carry an umbrella on a cloudy day. Rain is a possibility, the umbrella a precaution. Why tempt fate if fate itself gives you a sign, a hint?",
+   "author": "Tiziano Terzani",
+   "source_work": "A Fortune-Teller Told Me",
+   "source_locator": "Chapter 1, “A Blessed Curse”",
+   "translator": null,
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 18000,
+   "verification_status": "partially_verified",
+   "number": 35,
+   "audio": "audio/bw-000035.m4a",
+   "parallel": [],
+   "audio_sha256": "9ec26a5b9245f6dbe8e1e531c47026f96bc6d956e8851b0995831a3eb4d9b7c7",
+   "recording_id": "rec_0008",
+   "recording_offset_ms": [
+    176160,
+    194160
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000036",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "terzani-poetry",
+   "quote_display": "The prophecy was a pretext. The truth is that at fifty-one one has a strong urge to give one's life a touch of poetry, to take a fresh look at the world, reread the classics, rediscover that the sun rises, that there is a moon in the sky, and that there is more to time than the clock's tick can tell us.",
+   "author": "Tiziano Terzani",
+   "source_work": "A Fortune-Teller Told Me",
+   "source_locator": "Chapter 1, “A Blessed Curse”",
+   "translator": null,
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 20880,
+   "verification_status": "partially_verified",
+   "number": 36,
+   "audio": "audio/bw-000036.m4a",
+   "parallel": [],
+   "audio_sha256": "d99b9df0bd7a459fc427ef47c15fecf916178aec100e03a83f1e5a32de130d38",
+   "recording_id": "rec_0008",
+   "recording_offset_ms": [
+    315840,
+    336720
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000037",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "terzani-reborn",
+   "quote_display": "It was an excellent decision, and 1993 turned out to be one of the most extraordinary years I've ever spent. I was marked for death, and instead I was reborn. What looked like a curse proved to be a blessing.",
+   "author": "Tiziano Terzani",
+   "source_work": "A Fortune-Teller Told Me",
+   "source_locator": "Chapter 1, “A Blessed Curse”",
+   "translator": null,
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 14160,
+   "verification_status": "partially_verified",
+   "number": 37,
+   "audio": "audio/bw-000037.m4a",
+   "parallel": [],
+   "audio_sha256": "8fa8d8014a184ac1f018c7c24ca739844c1bffa1e3e0c98c9723d2ccaf265191",
+   "recording_id": "rec_0008",
+   "recording_offset_ms": [
+    531720,
+    545880
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000038",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "terzani-immensity",
+   "quote_display": "Covering great distances by train or boat restored my sense of the earth's immensity. And above all, it led me to rediscover the majority of humanity, whose very existence we well-nigh forget by dint of flying: the humanity that moves about burdened with bundles and children while the world of the airplane passes, in every sense, over their heads.",
+   "author": "Tiziano Terzani",
+   "source_work": "A Fortune-Teller Told Me",
+   "source_locator": "Chapter 1, “A Blessed Curse”",
+   "translator": null,
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 22560,
+   "verification_status": "partially_verified",
+   "number": 38,
+   "audio": "audio/bw-000038.m4a",
+   "parallel": [],
+   "audio_sha256": "443b29801f2e1041555920ccbb4949729a1f9aa83ad7a454098b6d528570c288",
+   "recording_id": "rec_0008",
+   "recording_offset_ms": [
+    612240,
+    634800
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000039",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "terzani-trains",
+   "quote_display": "In a plane you soon learn not to look, not to listen. The people you meet, the conversations you have, are always the same. After thirty years of flying, I can recall precisely no one. On trains, on Asian ones at least, things are different. You share your days, your meals and your boredom with people you would otherwise never meet. And some of them remain unforgettable.",
+   "author": "Tiziano Terzani",
+   "source_work": "A Fortune-Teller Told Me",
+   "source_locator": "Chapter 1, “A Blessed Curse”",
+   "translator": null,
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 27480,
+   "verification_status": "partially_verified",
+   "number": 39,
+   "audio": "audio/bw-000039.m4a",
+   "parallel": [],
+   "audio_sha256": "9e24d485d5fb7e4f6d6510b0c8993d0c654ec3c14f181e8bbe7f30cb6481a9cc",
+   "recording_id": "rec_0008",
+   "recording_offset_ms": [
+    666120,
+    693600
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000040",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "kipling-love-war",
+   "quote_display": "Two things greater than all things are, / The first is Love, and the second War. / And since we know not how War may prove, / Heart of my heart, let us talk of Love!",
+   "author": "Rudyard Kipling",
+   "source_work": "The Ballad of the King's Jest",
+   "source_locator": null,
+   "translator": null,
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 18960,
+   "verification_status": "verified_secondary",
+   "number": 40,
+   "audio": "audio/bw-000040.m4a",
+   "parallel": [],
+   "audio_sha256": "242d63f1a3618958d3b0046b88ee378c747b8d8d52c85021e36a91b83e990cab",
+   "recording_id": "rec_0009",
+   "recording_offset_ms": [
+    18030,
+    36990
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000041",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "swain-mekong-magic",
+   "quote_display": "But through these lands flows one constant, the Mekong. Great rivers have a special magic. There's something about the Mekong which even years later makes me want to sit down beside it and watch my whole life go by.",
+   "author": "Jon Swain",
+   "source_work": "River of Time",
+   "source_locator": "Chapter 1, “Lands of the Living Past”",
+   "translator": null,
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 17520,
+   "verification_status": "verified_secondary",
+   "number": 41,
+   "audio": "audio/bw-000041.m4a",
+   "parallel": [],
+   "audio_sha256": "f887c816c985a5eda1f84ddd7fe5e3ccc1ac06170b3dbdc94b68e8bd88934494",
+   "recording_id": "rec_0009",
+   "recording_offset_ms": [
+    160290,
+    177810
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000042",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "swain-tide",
+   "quote_display": "The Mekong soon washed through me like a tide. I learned something about life and death there that I could never have perceived in Europe. I learned about the excitement and the romance tinged with melancholy that is so peculiar to this corner of Asia. I learned, too, that the Mekong is not as innocent a river as it sometimes looks.",
+   "author": "Jon Swain",
+   "source_work": "River of Time",
+   "source_locator": "Chapter 1, “Lands of the Living Past”",
+   "translator": null,
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 21060,
+   "verification_status": "partially_verified",
+   "number": 42,
+   "audio": "audio/bw-000042.m4a",
+   "parallel": [],
+   "audio_sha256": "f967d1c7c7a2e757a15560a3eefd601fcc94d66e0349e6b48ac1525a40ff4c4f",
+   "recording_id": "rec_0009",
+   "recording_offset_ms": [
+    273870,
+    294930
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000043",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "swain-golden",
+   "quote_display": "Of course, there were other sides to these things too. One can be romantic as well as cynical about war. There can be a magic attraction about tragedy. There can be exhilaration as well as exhaustion. When death is close, every object, every feeling is golden. Camaraderie is strong, love is deep.",
+   "author": "Jon Swain",
+   "source_work": "River of Time",
+   "source_locator": "Chapter 1, “Lands of the Living Past”",
+   "translator": null,
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 21720,
+   "verification_status": "partially_verified",
+   "number": 43,
+   "audio": "audio/bw-000043.m4a",
+   "parallel": [],
+   "audio_sha256": "1fe842d3de477e7bdb5a951c99fad0586e2818ad947133a414bbe3f1887412a5",
+   "recording_id": "rec_0009",
+   "recording_offset_ms": [
+    470610,
+    492330
+   ],
+   "translation": null
+  },
+  {
+   "card_id": "bw-000044",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "swain-cambodia-dream",
+   "quote_display": "I want to go back to the Cambodia of early 1970 and the innocence of my first trip to Indochina. I dream of Phnom Penh's flower-scented streets, the simplicity of the villages along the banks of the Mekong surrounded by mangoes, bananas and coconuts, the splendour of the jungle, the rice fields green as lawns, the exquisite women, the odour of opium, the warm caress of the heat, and the peace that reigned over it all.",
+   "author": "Jon Swain",
+   "source_work": "River of Time",
+   "source_locator": "Chapter 1, “Lands of the Living Past”",
+   "translator": null,
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 32100,
+   "verification_status": "partially_verified",
+   "number": 44,
+   "audio": "audio/bw-000044.m4a",
+   "parallel": [],
+   "audio_sha256": "8172163d80ed770be348bcd42fc94d4a6e077abd74ef60c1215ad21c419981e5",
+   "recording_id": "rec_0009",
+   "recording_offset_ms": [
+    520590,
+    552690
+   ],
+   "translation": null
+  }
+ ],
+ "recordings": [
+  {
+   "recording_id": "rec_0001",
+   "language": "en",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 281490,
+   "audio": "recordings/rec_0001.m4a",
+   "audio_sha256": "6d78a56d7bf48f49ba3cd83ed95729c4aa4f4cb353c78c7435e6764b8f538086",
+   "text": "So the book I'm reading, which is no surprise, is… I'm going to read you… Actually, there are three parts in chapter 21 that I really liked, about friendship, or just relationship between people. I'm going to read a bit, then skip some text, and then read the second part.\n\nSo here we go.\n\n“Nothing's perfect,” sighed the fox. But he returned to his idea. “My life is monotonous. I hunt chickens; people hunt me. All chickens are just alike, and all men are just alike. So I'm rather bored.\n\nBut if you tame me, my life will be filled with sunshine. I'll know the sound of the steps that will be different from all the rest. Other footsteps send me back underground. Yours will call me out of my burrow like music.\n\nAnd then look: you see the wheat fields over there? I don't eat bread. For me, wheat is of no use whatever. Wheat fields say nothing to me, which is sad. But you have hair the color of gold. So it will be wonderful once you've tamed me! The wheat, which is golden, will remind me of you, and I'll love the sound of the wind in the wheat.\n\nThe fox fell silent and stared at the little prince for a long while. “Please… tame me!” he said. “I'd like to,” the little prince replied, “but I haven't much time. I have friends to find and so many things to learn.”\n\n“The only things you learn are the things you tame,” said the fox. “People haven't time to learn anything. They buy things ready-made in stores. But since there are no stores where you can buy friends, people no longer have friends. If you want a friend, tame me!”\n\n“What do I have to do?” asked the little prince.\n\n“You have to be very patient,” the fox answered. “First you'll sit down a little ways away from me, over there, in the grass. I'll watch you out of the corner of my eye, and you won't say anything. Language is the source of misunderstandings. But day by day, you'll be able to sit a little closer.”\n\nHere we go, the second part. This part is about goodbyes, which I just find highly relatable, because it makes me think about why we step into relationships, even with the knowledge that we might have to say goodbye to people one day, or someday in the future. So here we go.\n\nThat was how the little prince tamed the fox. And when the time to leave was near — “Ah,” the fox said, “I shall weep.” “It's your own fault,” the little prince said. “I never wanted to do you any harm, but you insisted that I tame you.” “Yes, of course,” the fox said.\n\n“But you are going to weep,” said the little prince. “Yes, of course,” the fox said. “Then you get nothing out of it.” “I get something,” the fox said, “because of the color of the wheat.”\n\nThen he added, “Go look at the roses again. You'll understand that yours is the only rose in all the world.”\n\n“Then come back to say goodbye, and I'll make you the gift of a secret.”\n\nI'm going to skip a little bit… and here, the last part.\n\nAnd he went back to the fox. “Goodbye,” he said. “Goodbye,” said the fox.\n\n“Here is my secret. It's quite simple: One sees clearly only with the heart. Anything essential is invisible to the eyes.” “Anything essential is invisible to the eyes,” the little prince repeated, in order to remember.",
+   "translation": null,
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 33360,
+     "kind": "intro",
+     "text": "So the book I'm reading, which is no surprise, is… I'm going to read you… Actually, there are three parts in chapter 21 that I really liked, about friendship, or just relationship between people. I'm going to read a bit, then skip some text, and then read the second part.",
+     "card_id": null
+    },
+    {
+     "start_ms": 33360,
+     "end_ms": 36120,
+     "kind": "commentary",
+     "text": "So here we go.",
+     "card_id": null
+    },
+    {
+     "start_ms": 36120,
+     "end_ms": 54000,
+     "kind": "narration",
+     "text": "“Nothing's perfect,” sighed the fox. But he returned to his idea. “My life is monotonous. I hunt chickens; people hunt me. All chickens are just alike, and all men are just alike. So I'm rather bored.",
+     "card_id": null
+    },
+    {
+     "start_ms": 54000,
+     "end_ms": 69540,
+     "kind": "quote",
+     "text": "But if you tame me, my life will be filled with sunshine. I'll know the sound of the steps that will be different from all the rest. Other footsteps send me back underground. Yours will call me out of my burrow like music.",
+     "card_id": "bw-000001"
+    },
+    {
+     "start_ms": 69540,
+     "end_ms": 98100,
+     "kind": "quote",
+     "text": "And then look: you see the wheat fields over there? I don't eat bread. For me, wheat is of no use whatever. Wheat fields say nothing to me, which is sad. But you have hair the color of gold. So it will be wonderful once you've tamed me! The wheat, which is golden, will remind me of you, and I'll love the sound of the wind in the wheat.",
+     "card_id": "bw-000002"
+    },
+    {
+     "start_ms": 98100,
+     "end_ms": 115620,
+     "kind": "narration",
+     "text": "The fox fell silent and stared at the little prince for a long while. “Please… tame me!” he said. “I'd like to,” the little prince replied, “but I haven't much time. I have friends to find and so many things to learn.”",
+     "card_id": null
+    },
+    {
+     "start_ms": 115620,
+     "end_ms": 138420,
+     "kind": "quote",
+     "text": "“The only things you learn are the things you tame,” said the fox. “People haven't time to learn anything. They buy things ready-made in stores. But since there are no stores where you can buy friends, people no longer have friends. If you want a friend, tame me!”",
+     "card_id": "bw-000003"
+    },
+    {
+     "start_ms": 138420,
+     "end_ms": 142440,
+     "kind": "narration",
+     "text": "“What do I have to do?” asked the little prince.",
+     "card_id": null
+    },
+    {
+     "start_ms": 142440,
+     "end_ms": 169080,
+     "kind": "quote",
+     "text": "“You have to be very patient,” the fox answered. “First you'll sit down a little ways away from me, over there, in the grass. I'll watch you out of the corner of my eye, and you won't say anything. Language is the source of misunderstandings. But day by day, you'll be able to sit a little closer.”",
+     "card_id": "bw-000004"
+    },
+    {
+     "start_ms": 169080,
+     "end_ms": 199680,
+     "kind": "commentary",
+     "text": "Here we go, the second part. This part is about goodbyes, which I just find highly relatable, because it makes me think about why we step into relationships, even with the knowledge that we might have to say goodbye to people one day, or someday in the future. So here we go.",
+     "card_id": null
+    },
+    {
+     "start_ms": 199680,
+     "end_ms": 221100,
+     "kind": "narration",
+     "text": "That was how the little prince tamed the fox. And when the time to leave was near — “Ah,” the fox said, “I shall weep.” “It's your own fault,” the little prince said. “I never wanted to do you any harm, but you insisted that I tame you.” “Yes, of course,” the fox said.",
+     "card_id": null
+    },
+    {
+     "start_ms": 221100,
+     "end_ms": 235200,
+     "kind": "quote",
+     "text": "“But you are going to weep,” said the little prince. “Yes, of course,” the fox said. “Then you get nothing out of it.” “I get something,” the fox said, “because of the color of the wheat.”",
+     "card_id": "bw-000005"
+    },
+    {
+     "start_ms": 235200,
+     "end_ms": 243000,
+     "kind": "quote",
+     "text": "Then he added, “Go look at the roses again. You'll understand that yours is the only rose in all the world.”",
+     "card_id": "bw-000006"
+    },
+    {
+     "start_ms": 243000,
+     "end_ms": 248700,
+     "kind": "narration",
+     "text": "“Then come back to say goodbye, and I'll make you the gift of a secret.”",
+     "card_id": null
+    },
+    {
+     "start_ms": 248700,
+     "end_ms": 255660,
+     "kind": "commentary",
+     "text": "I'm going to skip a little bit… and here, the last part.",
+     "card_id": null
+    },
+    {
+     "start_ms": 255660,
+     "end_ms": 262740,
+     "kind": "narration",
+     "text": "And he went back to the fox. “Goodbye,” he said. “Goodbye,” said the fox.",
+     "card_id": null
+    },
+    {
+     "start_ms": 262740,
+     "end_ms": 281490,
+     "kind": "quote",
+     "text": "“Here is my secret. It's quite simple: One sees clearly only with the heart. Anything essential is invisible to the eyes.” “Anything essential is invisible to the eyes,” the little prince repeated, in order to remember.",
+     "card_id": "bw-000007"
+    }
+   ],
+   "card_ids": [
+    "bw-000001",
+    "bw-000002",
+    "bw-000003",
+    "bw-000004",
+    "bw-000005",
+    "bw-000006",
+    "bw-000007"
+   ],
+   "work": "The Little Prince",
+   "author": "Antoine de Saint-Exupéry",
+   "translator": "Richard Howard",
+   "edition": "Harcourt, 2000",
+   "cover": "covers/the-little-prince-antoine-de-saint-exup-ry.jpg",
+   "cover_of": "The Little Prince",
+   "color": "#c6dca1",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0002",
+   "language": "en",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 42097,
+   "audio": "recordings/rec_0002.m4a",
+   "audio_sha256": "b70888313c32bad79b05dd0e613b2d1ca4454790d18ca3c7dd79d161d835f5b2",
+   "text": "From Wind, Sand and Stars, by Antoine de Saint-Exupéry.\n\nOld friends cannot be created out of hand. Nothing can match the treasure of common memories, of trials endured together, of quarrels and reconciliations and generous emotions. It's idle, having planted an acorn in the morning, to expect that afternoon to sit in the shade of an oak.\n\nSo life goes on. For years we plant the seed, we feel ourselves rich; and then come other years when time does its work and our plantation is made sparse and thin. One by one our comrades slip away, deprive us of their shade.",
+   "translation": null,
+   "spans": [
+    {
+     "start_ms": 1440,
+     "end_ms": 6660,
+     "kind": "intro",
+     "text": "From Wind, Sand and Stars, by Antoine de Saint-Exupéry.",
+     "card_id": null
+    },
+    {
+     "start_ms": 6660,
+     "end_ms": 24540,
+     "kind": "quote",
+     "text": "Old friends cannot be created out of hand. Nothing can match the treasure of common memories, of trials endured together, of quarrels and reconciliations and generous emotions. It's idle, having planted an acorn in the morning, to expect that afternoon to sit in the shade of an oak.",
+     "card_id": "bw-000025"
+    },
+    {
+     "start_ms": 24540,
+     "end_ms": 42090,
+     "kind": "quote",
+     "text": "So life goes on. For years we plant the seed, we feel ourselves rich; and then come other years when time does its work and our plantation is made sparse and thin. One by one our comrades slip away, deprive us of their shade.",
+     "card_id": "bw-000026"
+    }
+   ],
+   "card_ids": [
+    "bw-000025",
+    "bw-000026"
+   ],
+   "work": "Wind, Sand and Stars",
+   "author": "Antoine de Saint-Exupéry",
+   "translator": "Lewis Galantière",
+   "edition": "Reynal & Hitchcock, 1939",
+   "cover": "covers/wind-sand-and-stars-antoine-de-saint-exup-ry.jpg",
+   "cover_of": "Wind, Sand and Stars",
+   "color": "#d7bca4",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0003",
+   "language": "en",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 47902,
+   "audio": "recordings/rec_0003.m4a",
+   "audio_sha256": "88166af1821555ccf96d719d8f8ef4da5d211c11b88c7402e206e93c02bbfc79",
+   "text": "From What I Believe, an essay by E. M. Forster.\n\nI believe in an aristocracy, though – if that is the right word, and if a democrat may use it. Not an aristocracy of power, based upon rank and influence, but an aristocracy of the sensitive, the considerate and the plucky. Its members are to be found in all nations and classes, and all through the ages, and there is a secret understanding between them when they meet. They represent the true human tradition, the one permanent victory of our queer race over cruelty and chaos. Thousands of them perish in obscurity, a few are great names. They are sensitive for others as well as themselves, they are considerate without being fussy, their pluck is not of swankiness but the power to endure, and they can take a joke.",
+   "translation": null,
+   "spans": [
+    {
+     "start_ms": 60,
+     "end_ms": 4560,
+     "kind": "intro",
+     "text": "From What I Believe, an essay by E. M. Forster.",
+     "card_id": null
+    },
+    {
+     "start_ms": 4560,
+     "end_ms": 47900,
+     "kind": "quote",
+     "text": "I believe in an aristocracy, though – if that is the right word, and if a democrat may use it. Not an aristocracy of power, based upon rank and influence, but an aristocracy of the sensitive, the considerate and the plucky. Its members are to be found in all nations and classes, and all through the ages, and there is a secret understanding between them when they meet. They represent the true human tradition, the one permanent victory of our queer race over cruelty and chaos. Thousands of them perish in obscurity, a few are great names. They are sensitive for others as well as themselves, they are considerate without being fussy, their pluck is not of swankiness but the power to endure, and they can take a joke.",
+     "card_id": "bw-000027"
+    }
+   ],
+   "card_ids": [
+    "bw-000027"
+   ],
+   "work": "What I Believe",
+   "author": "E. M. Forster",
+   "translator": null,
+   "edition": "Two Cheers for Democracy, 1951 (essay first published 1938)",
+   "cover": "covers/what-i-believe-e-m-forster.jpg",
+   "cover_of": "Two Cheers for Democracy",
+   "color": "#f1edcf",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0004",
+   "language": "en",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 27887,
+   "audio": "recordings/rec_0004.m4a",
+   "audio_sha256": "5cc49066d0fcfc2a57a6185cdb2d3c37c5bd75e4ce2773e4c93be5a176277f4e",
+   "text": "From the novel The White Guard, by Mikhail Bulgakov.\n\nBut this isn't frightening. All this will pass. The sufferings, agonies, blood, hunger, and wholesale death. The sword will go away, but these stars will remain when even the shadows of our bodies and our affairs are long gone from this earth. There is not a man who does not know this. So why are we reluctant to turn our gaze to them? Why?",
+   "translation": null,
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 4860,
+     "kind": "intro",
+     "text": "From the novel The White Guard, by Mikhail Bulgakov.",
+     "card_id": null
+    },
+    {
+     "start_ms": 4860,
+     "end_ms": 27887,
+     "kind": "quote",
+     "text": "But this isn't frightening. All this will pass. The sufferings, agonies, blood, hunger, and wholesale death. The sword will go away, but these stars will remain when even the shadows of our bodies and our affairs are long gone from this earth. There is not a man who does not know this. So why are we reluctant to turn our gaze to them? Why?",
+     "card_id": "bw-000028"
+    }
+   ],
+   "card_ids": [
+    "bw-000028"
+   ],
+   "work": "The White Guard",
+   "author": "Mikhail Bulgakov",
+   "translator": "Marian Schwartz",
+   "edition": "Yale University Press, 2008",
+   "cover": "covers/the-white-guard-mikhail-bulgakov.jpg",
+   "cover_of": "The White Guard",
+   "color": "#949494",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0005",
+   "language": "en",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 43096,
+   "audio": "recordings/rec_0005.m4a",
+   "audio_sha256": "3aa6ec647f3088d8c0e19b68c8777f73a3e1fda8a6d9eaf40d3da0beb2e3cd08",
+   "text": "From Brideshead Revisited, by Evelyn Waugh.\n\n“Perhaps,” I thought, while her words still hung in the air between us like a wisp of tobacco smoke – a thought to fade and vanish like smoke without a trace – “perhaps all our loves are merely hints and symbols; vagabond-language scrawled on gate-posts and paving-stones along the weary road that others have tramped before us; perhaps you and I are types and this sadness which sometimes falls between us springs from disappointment in our search, each straining through and beyond the other, snatching a glimpse now and then of the shadow which turns the corner always a pace or two ahead of us.”",
+   "translation": null,
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 3420,
+     "kind": "intro",
+     "text": "From Brideshead Revisited, by Evelyn Waugh.",
+     "card_id": null
+    },
+    {
+     "start_ms": 3420,
+     "end_ms": 43096,
+     "kind": "quote",
+     "text": "“Perhaps,” I thought, while her words still hung in the air between us like a wisp of tobacco smoke – a thought to fade and vanish like smoke without a trace – “perhaps all our loves are merely hints and symbols; vagabond-language scrawled on gate-posts and paving-stones along the weary road that others have tramped before us; perhaps you and I are types and this sadness which sometimes falls between us springs from disappointment in our search, each straining through and beyond the other, snatching a glimpse now and then of the shadow which turns the corner always a pace or two ahead of us.”",
+     "card_id": "bw-000029"
+    }
+   ],
+   "card_ids": [
+    "bw-000029"
+   ],
+   "work": "Brideshead Revisited",
+   "author": "Evelyn Waugh",
+   "translator": null,
+   "edition": "1945",
+   "cover": "covers/brideshead-revisited-evelyn-waugh.jpg",
+   "cover_of": "Brideshead Revisited",
+   "color": "#e4e8e5",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0006",
+   "language": "en",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 44001,
+   "audio": "recordings/rec_0006.m4a",
+   "audio_sha256": "542f8d1e95084f9d526fc475027a18b6420bd0eea6c6943648bd6002e99efb6e",
+   "text": "Kazantzakis.\n\nMy life is wasted, I thought. If only I could take a cloth and wipe out all I've learned, all I've seen and heard, and go to Zorba's school and start the great, real alphabet! What a different road I would choose!\n\nI should keep my five senses perfectly trained, and my whole body too, so that it would enjoy and understand. I should learn to run, to wrestle, to swim, to ride horses, to row, to drive a car, to fire a rifle. I should fill my soul with flesh. I should fill my flesh with soul. In fact, I should reconcile at last within me the two eternal antagonists.",
+   "translation": null,
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 1500,
+     "kind": "intro",
+     "text": "Kazantzakis.",
+     "card_id": null
+    },
+    {
+     "start_ms": 1500,
+     "end_ms": 16260,
+     "kind": "quote",
+     "text": "My life is wasted, I thought. If only I could take a cloth and wipe out all I've learned, all I've seen and heard, and go to Zorba's school and start the great, real alphabet! What a different road I would choose!",
+     "card_id": "bw-000030"
+    },
+    {
+     "start_ms": 16260,
+     "end_ms": 44001,
+     "kind": "quote",
+     "text": "I should keep my five senses perfectly trained, and my whole body too, so that it would enjoy and understand. I should learn to run, to wrestle, to swim, to ride horses, to row, to drive a car, to fire a rifle. I should fill my soul with flesh. I should fill my flesh with soul. In fact, I should reconcile at last within me the two eternal antagonists.",
+     "card_id": "bw-000031"
+    }
+   ],
+   "card_ids": [
+    "bw-000030",
+    "bw-000031"
+   ],
+   "work": "Zorba the Greek",
+   "author": "Nikos Kazantzakis",
+   "translator": "Carl Wildman",
+   "edition": "Simon & Schuster, 1952",
+   "cover": "covers/zorba-the-greek-nikos-kazantzakis.jpg",
+   "cover_of": "Zorba the Greek (Scribner, 1996; tr. Carl Wildman)",
+   "color": "#e2cca2",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0007",
+   "language": "fr",
+   "speaker": "LA",
+   "contributor": "LA",
+   "duration_ms": 48622,
+   "audio": "recordings/rec_0007.m4a",
+   "audio_sha256": "e03d2a1a3dcea644d7f76268ce0ff49efaadbd0e73d7d9ecac1c78ecef7efb5f",
+   "text": "L'homme ne peut jamais savoir ce qu'il faut vouloir car il n'a qu'une vie et il ne peut ni la comparer à des vies antérieures ni la rectifier dans des vies ultérieures. Il n'existe aucun moyen de vérifier quelle décision est la bonne, car il n'existe aucune comparaison.\n\nTout est vécu pour la première fois et sans préparation. Comme si un acteur entrait en scène sans avoir jamais répété. Mais que peut valoir la vie si la première répétition de la vie est déjà la vie même ? C'est ce qui fait que la vie ressemble toujours à une esquisse. Mais même « esquisse » n'est pas le mot juste, car une esquisse est toujours l'ébauche de quelque chose, la préparation d'un tableau, tandis que l'esquisse qu'est notre vie est une esquisse de rien, une ébauche sans tableau.",
+   "translation": {
+    "language": "en",
+    "text": "We can never know what to want, because we have only one life, and we can neither compare it with earlier lives nor correct it in lives to come. There is no way of testing which decision is the right one, because there is nothing to compare it with.\n\nEverything is lived for the first time and without preparation, as if an actor went on stage without ever having rehearsed. But what can life be worth if the first rehearsal for life is already life itself? That is why life always resembles a sketch. But even “sketch” is not the right word, because a sketch is always the outline of something, the groundwork for a painting, whereas the sketch that is our life is a sketch of nothing, an outline without a painting.",
+    "source": "ai",
+    "translator": null,
+    "note": "Machine translation (Claude) of LA's French reading; the published English translation of the novel (Michael Henry Heim, 1984) is translated from the Czech and worded differently."
+   },
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 15960,
+     "kind": "quote",
+     "text": "L'homme ne peut jamais savoir ce qu'il faut vouloir car il n'a qu'une vie et il ne peut ni la comparer à des vies antérieures ni la rectifier dans des vies ultérieures. Il n'existe aucun moyen de vérifier quelle décision est la bonne, car il n'existe aucune comparaison.",
+     "card_id": "bw-000032"
+    },
+    {
+     "start_ms": 15960,
+     "end_ms": 48622,
+     "kind": "quote",
+     "text": "Tout est vécu pour la première fois et sans préparation. Comme si un acteur entrait en scène sans avoir jamais répété. Mais que peut valoir la vie si la première répétition de la vie est déjà la vie même ? C'est ce qui fait que la vie ressemble toujours à une esquisse. Mais même « esquisse » n'est pas le mot juste, car une esquisse est toujours l'ébauche de quelque chose, la préparation d'un tableau, tandis que l'esquisse qu'est notre vie est une esquisse de rien, une ébauche sans tableau.",
+     "card_id": "bw-000033"
+    }
+   ],
+   "card_ids": [
+    "bw-000032",
+    "bw-000033"
+   ],
+   "work": "L'Insoutenable Légèreté de l'être",
+   "author": "Milan Kundera",
+   "translator": "François Kérel",
+   "edition": "Gallimard, 1984 (translated from the Czech)",
+   "cover": "covers/l-insoutenable-l-g-ret-de-l-tre-milan-kundera.jpg",
+   "cover_of": "L'Insoutenable Légèreté de l'être",
+   "color": "#f8ede4",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0008",
+   "language": "en",
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 693680,
+   "audio": "recordings/rec_0008.m4a",
+   "audio_sha256": "ac624d98da2a17514f4c71faa6124271a388a0c8587b176ce541b77e1d21dfbb",
+   "text": "And it's the beginning of a book called A Fortune Teller Told Me, which is about Fortune Tellers and Omens, as told by an Italian journalist.\n\nThis is chapter one called A Blessed Curse.\n\nLife is full of opportunities. The problem is to recognize them when they present themselves. And that isn't always easy. Mine, for instance, had all the marks of a curse.\n\nBeware. You run a grave risk of dying in 1993. You mustn't fly that year. Don't fly.\n\nNot even once. A fortune teller told me. It happened in Hong Kong. I had come across that old Chinese man by sheer chance.\n\nWhen I heard his dire words. I was momentarily taken aback, but not deeply disturbed. It was the spring of 1976 and 1993 seemed a long way off.\n\nI did not forget the date, however. It lingered at the back of my mind, rather like an appointment, one hasn't yet decided whether to keep a nod.\n\n1977, 1987, 1990, 1991. 16 years seem an eternity, especially when viewed from the perspective of day one.\n\nBut like all our years, except those of adolescents, they pass very quickly, and in no time at all, I found myself at the end of 1992.\n\nWell, then, what was I to do? Take that old Chinese man's warning seriously and reorganize my life.\n\nOr pretend it had never happened and carry on regardless, telling myself to hell with the fortune tellers and all their rubbish. By that time, I had been living in Asia solidly for over 20 years.\n\nFirst in Singapore, then in Hong Kong, Peking, Tokyo, and finally in Bangkok.\n\nAnd I felt that the best way of confronting the prophecy was the Asian one, not to fight against it, but to submit. You believe in it then, teased my fellow journalists, especially the Western ones, the sort of people who are used to demanding a clear cut yes or no to every question.\n\nEven to such an ill framed one as this.\n\nBut we do not have to believe the weather forecast to carry an umbrella on a cloudy day. Rain is a possibility, the umbrella a precaution. Why tempt fate if fate itself gives you a sign, a hint?\n\nWhen the roulette ball lands on the black 3 on the black 3 or 4 times in a row, some gamblers count on statistical probability and bet all their money on the red.\n\nNot me. I bet on the black again. Has the ball itself not winked at me? And then the idea of not flying for a whole year was an attraction itself.\n\nA challenge first and foremost. It really tickled me to pretend an old Chinese in Hong Kong might hold the key to my future.\n\nIt felt like taking the first step into an unknown world. I was curious to see where most steps in the same direction would lead.\n\nIf nothing else, they would introduce me for a while to a different life from the one I normally led. For years, I've traveled by plane.\n\nMy profession taking me to the craziest places on earth. Places where wars are being waged, where revolutions break out or terrible disasters occur.\n\nObviously, I'd held my breath on more than one occasion. Landing with an engine in flames, or with a mechanic squeezed in a trap door between the seats hammering away at the undercarriage that refused, that was refusing to descend.\n\nIf I had dismissed the prophecy and carried on flying in 1993, I would certainly have done so with more than the usual pinch of anxiety, the sooner or later strikes all those, including pilots, who spend most of their, spend much of their lives in the air.\n\nBut I would have carried on with my normal routine. Planes, taxis, hotels, taxis, planes, That divine warning, yes, divination, divine.\n\nSo alike, gave me a chance, in a way obliged me to inject a variant into my days.\n\nThe prophecy was a pretext. The truth is that at fifty-one one has a strong urge to give one's life a touch of poetry, to take a fresh look at the world, reread the classics, rediscover that the sun rises, that there is a moon in the sky, and that there is more to time than the clock's tick can tell us.\n\nThis was my chance and I could not let it slip. But there was a practical problem. Should I stop working for a year?\n\nTake a leave of absence. Or carry on working despite this limitation. Journalism, like many other professions, is now dominated by electronics, computers, modems, faxes play a paramount role.\n\nSnappy, instantaneous television images transmitted by satellites have set new standards. And print journalism, rather than concentrating on reflection and the personal, limps after them in an effort to match the invisible immediacy, and with it, the superficiality of TV.\n\nDuring the days of the Tiananmen Massacre, CNN was broadcasting live from the square in the center of Peking, and many of my colleagues preferred to stay in their hotel rooms and watch television rather than go out and see what was happening a few yards away.\n\nThat was the quickest way of keeping up to date of following events. Moreover, the editors were seeing 1000s of miles away, the same images on the screens.\n\nAnd those images became the truth, the only truth, no need to look for another. How would biary editors react to the idea of having an Asia correspondent who, on a whim, took into his head not to fly for a whole year?\n\nWhat would they think of a man who in 1993 suddenly became a journalist from the beginning of the 20th century, one of those who would set off at the outbreak of a war and would often arrive when it was already over?\n\nMy chance to find out came in 1992 in October when one of the 2 editors in chief of Der Spiegel passed through Bangkok.\n\nOne evening after dinner, without much beating about the bush, I told him the story of the Hong Kong fortune teller and announced my intention of not traveling by a plane in 1993.\n\nAfter what you've told me, how can I ask you to fly to Manila and cover the next coup d'etat or to Bangladesh for the next typhoon? Do as you think best, was his reply.\n\nMagnificent as usual, my faraway masters. They saw that this caprice of mine might give rise to a different kind of story, one that might offer the reader something the others lack.\n\nDer Spiegel's reaction, obviously, took a load off my mind, but I still did not finally commit myself to the plan. The prophecy would take effect at the beginning of the new year, and I intended to make my decision at the very last moment, the stroke of midnight on 31st December, wherever I might find myself.\n\nWell, I was in the Laotian forest. My celebratory feast was an omelette of red ants' eggs.\n\nThere was no champagne to see the new year in. Instead, I raised a glass of fresh water. And solemnly resolved not to yield for any reason, at any cost to the temptation of flying.\n\nI would travel the world by any means as long as it was not a plane, a helicopter, or a glider.\n\nIt was an excellent decision, and 1993 turned out to be one of the most extraordinary years I've ever spent. I was marked for death, and instead I was reborn. What looked like a curse proved to be a blessing.\n\nMoving between Asia and Europe by train, by ship, by car, sometimes even by foot, the rhythm of my days change completely.\n\nDistance became real again. And I reacquired the taste of discovery and adventure. Suddenly, no longer able to rush off to an airport, pay by credit card and be swept off in a flash literally anywhere.\n\nI was obliged once again to see the world as a complex network of countries, divided by rivers and seas that required crossing. And by frontiers that invariably spelled visa.\n\nA special visa. What is more, saying surface travel, as if this were so unusual as to cast suspicion on anyone who insisted on it.\n\nGetting from place to place was no longer a matter of hours, but of days or weeks, I had to avoid making mistakes. So before starting out, I pored over maps.\n\nNo longer were mountains, beautiful, irrelevant frill scenes from a porthole, but potential obstacles on my way.\n\nCovering great distances by train or boat restored my sense of the earth's immensity. And above all, it led me to rediscover the majority of humanity, whose very existence we well-nigh forget by dint of flying: the humanity that moves about burdened with bundles and children while the world of the airplane passes, in every sense, over their heads.\n\nMy undertaking not to fly turned into a game full of surprises.\n\nIf you pretend to be blind for a while, you find that the other senses grow sharper to compensate for the lack of sight. Avoiding planes has a similar effect.\n\nThe train journey, with its ample time and cramped space, reanimates and atrophied curiosity about details. You give keener attention to what lies around you, to what hurdles past the window.\n\nIn a plane you soon learn not to look, not to listen. The people you meet, the conversations you have, are always the same. After thirty years of flying, I can recall precisely no one. On trains, on Asian ones at least, things are different. You share your days, your meals and your boredom with people you would otherwise never meet. And some of them remain unforgettable.",
+   "translation": null,
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 15480,
+     "kind": "intro",
+     "text": "And it's the beginning of a book called A Fortune Teller Told Me, which is about Fortune Tellers and Omens, as told by an Italian journalist.",
+     "card_id": null
+    },
+    {
+     "start_ms": 15480,
+     "end_ms": 22680,
+     "kind": "intro",
+     "text": "This is chapter one called A Blessed Curse.",
+     "card_id": null
+    },
+    {
+     "start_ms": 22680,
+     "end_ms": 37200,
+     "kind": "quote",
+     "text": "Life is full of opportunities. The problem is to recognize them when they present themselves. And that isn't always easy. Mine, for instance, had all the marks of a curse.",
+     "card_id": "bw-000034"
+    },
+    {
+     "start_ms": 37200,
+     "end_ms": 47040,
+     "kind": "narration",
+     "text": "Beware. You run a grave risk of dying in 1993. You mustn't fly that year. Don't fly.",
+     "card_id": null
+    },
+    {
+     "start_ms": 47040,
+     "end_ms": 59940,
+     "kind": "narration",
+     "text": "Not even once. A fortune teller told me. It happened in Hong Kong. I had come across that old Chinese man by sheer chance.",
+     "card_id": null
+    },
+    {
+     "start_ms": 59940,
+     "end_ms": 76200,
+     "kind": "narration",
+     "text": "When I heard his dire words. I was momentarily taken aback, but not deeply disturbed. It was the spring of 1976 and 1993 seemed a long way off.",
+     "card_id": null
+    },
+    {
+     "start_ms": 76200,
+     "end_ms": 87000,
+     "kind": "narration",
+     "text": "I did not forget the date, however. It lingered at the back of my mind, rather like an appointment, one hasn't yet decided whether to keep a nod.",
+     "card_id": null
+    },
+    {
+     "start_ms": 87000,
+     "end_ms": 103620,
+     "kind": "narration",
+     "text": "1977, 1987, 1990, 1991. 16 years seem an eternity, especially when viewed from the perspective of day one.",
+     "card_id": null
+    },
+    {
+     "start_ms": 103620,
+     "end_ms": 115800,
+     "kind": "narration",
+     "text": "But like all our years, except those of adolescents, they pass very quickly, and in no time at all, I found myself at the end of 1992.",
+     "card_id": null
+    },
+    {
+     "start_ms": 115800,
+     "end_ms": 124500,
+     "kind": "narration",
+     "text": "Well, then, what was I to do? Take that old Chinese man's warning seriously and reorganize my life.",
+     "card_id": null
+    },
+    {
+     "start_ms": 124500,
+     "end_ms": 140040,
+     "kind": "narration",
+     "text": "Or pretend it had never happened and carry on regardless, telling myself to hell with the fortune tellers and all their rubbish. By that time, I had been living in Asia solidly for over 20 years.",
+     "card_id": null
+    },
+    {
+     "start_ms": 140040,
+     "end_ms": 148800,
+     "kind": "narration",
+     "text": "First in Singapore, then in Hong Kong, Peking, Tokyo, and finally in Bangkok.",
+     "card_id": null
+    },
+    {
+     "start_ms": 148800,
+     "end_ms": 171360,
+     "kind": "narration",
+     "text": "And I felt that the best way of confronting the prophecy was the Asian one, not to fight against it, but to submit. You believe in it then, teased my fellow journalists, especially the Western ones, the sort of people who are used to demanding a clear cut yes or no to every question.",
+     "card_id": null
+    },
+    {
+     "start_ms": 171360,
+     "end_ms": 176220,
+     "kind": "narration",
+     "text": "Even to such an ill framed one as this.",
+     "card_id": null
+    },
+    {
+     "start_ms": 176220,
+     "end_ms": 194220,
+     "kind": "quote",
+     "text": "But we do not have to believe the weather forecast to carry an umbrella on a cloudy day. Rain is a possibility, the umbrella a precaution. Why tempt fate if fate itself gives you a sign, a hint?",
+     "card_id": "bw-000035"
+    },
+    {
+     "start_ms": 194220,
+     "end_ms": 206400,
+     "kind": "narration",
+     "text": "When the roulette ball lands on the black 3 on the black 3 or 4 times in a row, some gamblers count on statistical probability and bet all their money on the red.",
+     "card_id": null
+    },
+    {
+     "start_ms": 206400,
+     "end_ms": 219180,
+     "kind": "narration",
+     "text": "Not me. I bet on the black again. Has the ball itself not winked at me? And then the idea of not flying for a whole year was an attraction itself.",
+     "card_id": null
+    },
+    {
+     "start_ms": 219180,
+     "end_ms": 228720,
+     "kind": "narration",
+     "text": "A challenge first and foremost. It really tickled me to pretend an old Chinese in Hong Kong might hold the key to my future.",
+     "card_id": null
+    },
+    {
+     "start_ms": 228720,
+     "end_ms": 238920,
+     "kind": "narration",
+     "text": "It felt like taking the first step into an unknown world. I was curious to see where most steps in the same direction would lead.",
+     "card_id": null
+    },
+    {
+     "start_ms": 238920,
+     "end_ms": 250020,
+     "kind": "narration",
+     "text": "If nothing else, they would introduce me for a while to a different life from the one I normally led. For years, I've traveled by plane.",
+     "card_id": null
+    },
+    {
+     "start_ms": 250020,
+     "end_ms": 263280,
+     "kind": "narration",
+     "text": "My profession taking me to the craziest places on earth. Places where wars are being waged, where revolutions break out or terrible disasters occur.",
+     "card_id": null
+    },
+    {
+     "start_ms": 263280,
+     "end_ms": 277440,
+     "kind": "narration",
+     "text": "Obviously, I'd held my breath on more than one occasion. Landing with an engine in flames, or with a mechanic squeezed in a trap door between the seats hammering away at the undercarriage that refused, that was refusing to descend.",
+     "card_id": null
+    },
+    {
+     "start_ms": 277440,
+     "end_ms": 292920,
+     "kind": "narration",
+     "text": "If I had dismissed the prophecy and carried on flying in 1993, I would certainly have done so with more than the usual pinch of anxiety, the sooner or later strikes all those, including pilots, who spend most of their, spend much of their lives in the air.",
+     "card_id": null
+    },
+    {
+     "start_ms": 292920,
+     "end_ms": 305820,
+     "kind": "narration",
+     "text": "But I would have carried on with my normal routine. Planes, taxis, hotels, taxis, planes, That divine warning, yes, divination, divine.",
+     "card_id": null
+    },
+    {
+     "start_ms": 305820,
+     "end_ms": 315900,
+     "kind": "narration",
+     "text": "So alike, gave me a chance, in a way obliged me to inject a variant into my days.",
+     "card_id": null
+    },
+    {
+     "start_ms": 315900,
+     "end_ms": 336900,
+     "kind": "quote",
+     "text": "The prophecy was a pretext. The truth is that at fifty-one one has a strong urge to give one's life a touch of poetry, to take a fresh look at the world, reread the classics, rediscover that the sun rises, that there is a moon in the sky, and that there is more to time than the clock's tick can tell us.",
+     "card_id": "bw-000036"
+    },
+    {
+     "start_ms": 336900,
+     "end_ms": 346620,
+     "kind": "narration",
+     "text": "This was my chance and I could not let it slip. But there was a practical problem. Should I stop working for a year?",
+     "card_id": null
+    },
+    {
+     "start_ms": 346620,
+     "end_ms": 363480,
+     "kind": "narration",
+     "text": "Take a leave of absence. Or carry on working despite this limitation. Journalism, like many other professions, is now dominated by electronics, computers, modems, faxes play a paramount role.",
+     "card_id": null
+    },
+    {
+     "start_ms": 363480,
+     "end_ms": 384600,
+     "kind": "narration",
+     "text": "Snappy, instantaneous television images transmitted by satellites have set new standards. And print journalism, rather than concentrating on reflection and the personal, limps after them in an effort to match the invisible immediacy, and with it, the superficiality of TV.",
+     "card_id": null
+    },
+    {
+     "start_ms": 384600,
+     "end_ms": 399780,
+     "kind": "narration",
+     "text": "During the days of the Tiananmen Massacre, CNN was broadcasting live from the square in the center of Peking, and many of my colleagues preferred to stay in their hotel rooms and watch television rather than go out and see what was happening a few yards away.",
+     "card_id": null
+    },
+    {
+     "start_ms": 399780,
+     "end_ms": 411600,
+     "kind": "narration",
+     "text": "That was the quickest way of keeping up to date of following events. Moreover, the editors were seeing 1000s of miles away, the same images on the screens.",
+     "card_id": null
+    },
+    {
+     "start_ms": 411600,
+     "end_ms": 427080,
+     "kind": "narration",
+     "text": "And those images became the truth, the only truth, no need to look for another. How would biary editors react to the idea of having an Asia correspondent who, on a whim, took into his head not to fly for a whole year?",
+     "card_id": null
+    },
+    {
+     "start_ms": 427080,
+     "end_ms": 440280,
+     "kind": "narration",
+     "text": "What would they think of a man who in 1993 suddenly became a journalist from the beginning of the 20th century, one of those who would set off at the outbreak of a war and would often arrive when it was already over?",
+     "card_id": null
+    },
+    {
+     "start_ms": 440280,
+     "end_ms": 449580,
+     "kind": "narration",
+     "text": "My chance to find out came in 1992 in October when one of the 2 editors in chief of Der Spiegel passed through Bangkok.",
+     "card_id": null
+    },
+    {
+     "start_ms": 449580,
+     "end_ms": 462660,
+     "kind": "narration",
+     "text": "One evening after dinner, without much beating about the bush, I told him the story of the Hong Kong fortune teller and announced my intention of not traveling by a plane in 1993.",
+     "card_id": null
+    },
+    {
+     "start_ms": 462660,
+     "end_ms": 472920,
+     "kind": "narration",
+     "text": "After what you've told me, how can I ask you to fly to Manila and cover the next coup d'etat or to Bangladesh for the next typhoon? Do as you think best, was his reply.",
+     "card_id": null
+    },
+    {
+     "start_ms": 472920,
+     "end_ms": 485820,
+     "kind": "narration",
+     "text": "Magnificent as usual, my faraway masters. They saw that this caprice of mine might give rise to a different kind of story, one that might offer the reader something the others lack.",
+     "card_id": null
+    },
+    {
+     "start_ms": 485820,
+     "end_ms": 506280,
+     "kind": "narration",
+     "text": "Der Spiegel's reaction, obviously, took a load off my mind, but I still did not finally commit myself to the plan. The prophecy would take effect at the beginning of the new year, and I intended to make my decision at the very last moment, the stroke of midnight on 31st December, wherever I might find myself.",
+     "card_id": null
+    },
+    {
+     "start_ms": 506280,
+     "end_ms": 514620,
+     "kind": "narration",
+     "text": "Well, I was in the Laotian forest. My celebratory feast was an omelette of red ants' eggs.",
+     "card_id": null
+    },
+    {
+     "start_ms": 514620,
+     "end_ms": 525060,
+     "kind": "narration",
+     "text": "There was no champagne to see the new year in. Instead, I raised a glass of fresh water. And solemnly resolved not to yield for any reason, at any cost to the temptation of flying.",
+     "card_id": null
+    },
+    {
+     "start_ms": 525060,
+     "end_ms": 531780,
+     "kind": "narration",
+     "text": "I would travel the world by any means as long as it was not a plane, a helicopter, or a glider.",
+     "card_id": null
+    },
+    {
+     "start_ms": 531780,
+     "end_ms": 545700,
+     "kind": "quote",
+     "text": "It was an excellent decision, and 1993 turned out to be one of the most extraordinary years I've ever spent. I was marked for death, and instead I was reborn. What looked like a curse proved to be a blessing.",
+     "card_id": "bw-000037"
+    },
+    {
+     "start_ms": 545700,
+     "end_ms": 554940,
+     "kind": "narration",
+     "text": "Moving between Asia and Europe by train, by ship, by car, sometimes even by foot, the rhythm of my days change completely.",
+     "card_id": null
+    },
+    {
+     "start_ms": 554940,
+     "end_ms": 569940,
+     "kind": "narration",
+     "text": "Distance became real again. And I reacquired the taste of discovery and adventure. Suddenly, no longer able to rush off to an airport, pay by credit card and be swept off in a flash literally anywhere.",
+     "card_id": null
+    },
+    {
+     "start_ms": 569940,
+     "end_ms": 581700,
+     "kind": "narration",
+     "text": "I was obliged once again to see the world as a complex network of countries, divided by rivers and seas that required crossing. And by frontiers that invariably spelled visa.",
+     "card_id": null
+    },
+    {
+     "start_ms": 581700,
+     "end_ms": 591420,
+     "kind": "narration",
+     "text": "A special visa. What is more, saying surface travel, as if this were so unusual as to cast suspicion on anyone who insisted on it.",
+     "card_id": null
+    },
+    {
+     "start_ms": 591420,
+     "end_ms": 602580,
+     "kind": "narration",
+     "text": "Getting from place to place was no longer a matter of hours, but of days or weeks, I had to avoid making mistakes. So before starting out, I pored over maps.",
+     "card_id": null
+    },
+    {
+     "start_ms": 602580,
+     "end_ms": 612300,
+     "kind": "narration",
+     "text": "No longer were mountains, beautiful, irrelevant frill scenes from a porthole, but potential obstacles on my way.",
+     "card_id": null
+    },
+    {
+     "start_ms": 612300,
+     "end_ms": 637320,
+     "kind": "quote",
+     "text": "Covering great distances by train or boat restored my sense of the earth's immensity. And above all, it led me to rediscover the majority of humanity, whose very existence we well-nigh forget by dint of flying: the humanity that moves about burdened with bundles and children while the world of the airplane passes, in every sense, over their heads.",
+     "card_id": "bw-000038"
+    },
+    {
+     "start_ms": 637320,
+     "end_ms": 642000,
+     "kind": "narration",
+     "text": "My undertaking not to fly turned into a game full of surprises.",
+     "card_id": null
+    },
+    {
+     "start_ms": 642000,
+     "end_ms": 652260,
+     "kind": "narration",
+     "text": "If you pretend to be blind for a while, you find that the other senses grow sharper to compensate for the lack of sight. Avoiding planes has a similar effect.",
+     "card_id": null
+    },
+    {
+     "start_ms": 652260,
+     "end_ms": 666180,
+     "kind": "narration",
+     "text": "The train journey, with its ample time and cramped space, reanimates and atrophied curiosity about details. You give keener attention to what lies around you, to what hurdles past the window.",
+     "card_id": null
+    },
+    {
+     "start_ms": 666180,
+     "end_ms": 693680,
+     "kind": "quote",
+     "text": "In a plane you soon learn not to look, not to listen. The people you meet, the conversations you have, are always the same. After thirty years of flying, I can recall precisely no one. On trains, on Asian ones at least, things are different. You share your days, your meals and your boredom with people you would otherwise never meet. And some of them remain unforgettable.",
+     "card_id": "bw-000039"
+    }
+   ],
+   "card_ids": [
+    "bw-000034",
+    "bw-000035",
+    "bw-000036",
+    "bw-000037",
+    "bw-000038",
+    "bw-000039"
+   ],
+   "work": "A Fortune-Teller Told Me",
+   "author": "Tiziano Terzani",
+   "translator": null,
+   "edition": "English translation, 1997 (Italian original Un indovino mi disse, 1995)",
+   "cover": "covers/a-fortune-teller-told-me-tiziano-terzani.jpg",
+   "cover_of": "A Fortune-Teller Told Me",
+   "color": "#a6c8d4",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0009",
+   "language": "en",
+   "speaker": "ST",
+   "contributor": "ST",
+   "duration_ms": 631570,
+   "audio": "recordings/rec_0009.m4a",
+   "audio_sha256": "90dab4ac325bc19c296718a40f5f29e3d39d636bca3d770fae2d2d95099dedfa",
+   "text": "And this is from a novel called River of Time. And it starts with a little line from Rudyard Kipling.\n\nAnd then we will go into the first chapter. Here is the quote.\n\nTwo things greater than all things are, / The first is Love, and the second War. / And since we know not how War may prove, / Heart of my heart, let us talk of Love!\n\nThis is the beginning of the first chapter. Lands of the Living Past.\n\nBy now, so many journalists have written their war stories about Vietnam, Cambodia, and Laos, that another book at this late stage may be thought superfluous.\n\nTheir stale, wearied refrain is, I remember when I was in Indochina, dot, dot, dot.\n\nIf I am guilty of a similar sin and sound too much like an old Indochina hand, I apologize.\n\nThe exploitation of nostalgia is not my intention. If I romanticize some aspects of war, put it down to youthful exuberance.\n\nThe countries of what was formerly French Indochina are lands that still stand apart from the rest of Asia. Though they no longer make such tragic headlines.\n\nEven as they are being modernized by the West, they remain aloof, tragic, beautiful and provocative, a bewildering medley of the senses.\n\nThey are places which have colored my experience of life like no others on Earth. I regret that I ever had to leave them, though I recognized that I did not get to know them as well as I should, and that I saw them at a moment of dark tragedy when they were cockpits of conflict.\n\nYou came under foreign armies, ideologies, internal oppression. The impact of the wars upon Indochina has been terrible.\n\nThe communist victories, a hideous disillusionment.\n\nBut through these lands flows one constant, the Mekong. Great rivers have a special magic. There's something about the Mekong which even years later makes me want to sit down beside it and watch my whole life go by.\n\nThe Mekong is the longest river in Southeast Asia. It begins its life tamely as a small glacial spring in the Tibetan Himalayas, the roof of the world.\n\nThen, fed by melting snow on mountain streams, it tumbles down through sheer sided gorges in southwestern China.\n\nTwists and turned through the jungly hills of Laos. Descends through a series of rapids into Cambodia, then flows at a more leisurely pace now, into southern Vietnam, to meander peacefully into the South China Sea below Saigon.\n\nBetween 1970 and 1975. I lived in the lands of the Mekong, Cambodia and Vietnam.\n\nAnd for raid into Laos to report on America's secret war there. This book is primarily a personal account of those tumultuous days.\n\nDuring this period, the Mekong stole repeatedly into fragments of my life. It was to become more familiar to me than the Thames, in many Londoners.\n\nI was in my early 20s. One of 600 odd journalists accredited in Saigon to the United States military assistant command, Vietnam, also known as MACV.\n\nAnd in Phnom Penh, one of a much smaller group accredited to the US backed government of the ill-fated Khmer Republic.\n\nThe Mekong soon washed through me like a tide. I learned something about life and death there that I could never have perceived in Europe. I learned about the excitement and the romance tinged with melancholy that is so peculiar to this corner of Asia. I learned, too, that the Mekong is not as innocent a river as it sometimes looks.\n\nIt is true that the Mekong brings life to the lands of Indochina. But there is another phase of it. That in due course, I got to know too well.\n\nIt is a face that reflects the violence and corruption of the countries it touches. This was never entirely the sleepy Asian backwater of docile, gently smiling peasants, which it was popularly portrayed to be.\n\nBut a place of despotism, primitive destructiveness and suffering. History has demonstrated that violence as well as sensuous pleasure is intrinsic to the Indochinese character and to Cambodians in particular.\n\nViolence is in the blood. Cambodians appear only to have known how to destroy and never to reconstruct, wrote Henri Mouhot, the great French explorer who died of jungle fever exploring the upper reaches of the river in 1861.\n\nOf the Mekong, he said, I have so long drunk of its waters, it has so long either cradled me on its bosom or tried my patience, at one time flowing majestically among the mountains, at another muddy and yellow as the Arno at Florence.\n\nBut myself, there are certain things I shall never forget. The buddies I saw being chussed about in its violent eddies near a fairy town, 32 miles south of Phnom Penh, in the early morning mist when the Mekong is at its most majestic and mysterious.\n\nOr the dawn tragedy of the B-52 bomber of the United States Air Force, which prematurely unleashed its cargo of high explosives on the same little town, turning its center into a flattened mass rubble under which many people laid dead.\n\nI saw one stick of bombs through the town, but it was no great disaster. Colonel Upfer, the American air attaché, told a press conference.\n\nUp for had not understood a thing. The bombing had killed or wounded some 400 people. One man lost 12 members of his family.\n\nNor shall I forget the day when a Cambodian general marched his soldiers behind a protective screen of Vietnamese civilians into the waiting guns of the Viet Cong.\n\nIt is a new form of psychological warfare, the general said, as the bodies dropped in front of him. E. It was in Phnom Penh on the banks of one of the quat quatoba of the Mekong that one morning in 1975.\n\nI thought I was going to die. A young Khmer Rouge soldier put a piston to my head. There did not seem to be any reason why he would not pull the trigger.\n\nToday, I still have the uneasy feeling that perhaps I should not be alive.\n\nOf course, there were other sides to these things too. One can be romantic as well as cynical about war. There can be a magic attraction about tragedy. There can be exhilaration as well as exhaustion. When death is close, every object, every feeling is golden. Camaraderie is strong, love is deep.\n\nTime inevitably dims the intensity of one's feelings.\n\nYet often I have a burning desire to go back to where it all began for me. But not so much the Cambodia I knew at the end, in its most tragic and lonely hour when Phnom Penh was a city under siege.\n\nSwath in barbed wire, swamped by refugees whose suffering presented one of the most haunting images of 20th century Asia.\n\nI want to go back to the Cambodia of early 1970 and the innocence of my first trip to Indochina. I dream of Phnom Penh's flower-scented streets, the simplicity of the villages along the banks of the Mekong surrounded by mangoes, bananas and coconuts, the splendour of the jungle, the rice fields green as lawns, the exquisite women, the odour of opium, the warm caress of the heat, and the peace that reigned over it all.\n\nThe dawning of a beautiful love affair, that too belongs to the Indochina I cherish. What carries me back to Cambodia, what carries me back to the Cambodia of my dreams is those first days.\n\nOn that cold 1970 morning, I had left Paris behind me, shuddered and pigeon gray beneath the monotony of a northern sky.\n\nI had been working on the English desk of Agence France-Presse, AFP for nearly 2 years. But harbored a desire to be posted to Vietnam and badgered my editors unashamedly to be sent there.\n\nMy passion for Indochina was fueled in part by a brief flirtation with the French Foreign Legion, which had fought with such distinction there and in part by a zest for adventure, which is why I became a journalist in the first place.\n\nIn the end, a coup d'etat was the answer to my prayers. The new rulers regarded Jean Barret, the AFP correspondent in Phnom Penh, as hostile and expelled him.\n\nIn their wisdom, the French chiefs of AFP decided to replace him with a non-Frenchman. I was their choice and was sent there as an envoyé spécial on a 3 month assignment.\n\nI stayed for 5 years.",
+   "translation": null,
+   "spans": [
+    {
+     "start_ms": 90,
+     "end_ms": 9270,
+     "kind": "intro",
+     "text": "And this is from a novel called River of Time. And it starts with a little line from Rudyard Kipling.",
+     "card_id": null
+    },
+    {
+     "start_ms": 9270,
+     "end_ms": 18090,
+     "kind": "intro",
+     "text": "And then we will go into the first chapter. Here is the quote.",
+     "card_id": null
+    },
+    {
+     "start_ms": 18090,
+     "end_ms": 39510,
+     "kind": "quote",
+     "text": "Two things greater than all things are, / The first is Love, and the second War. / And since we know not how War may prove, / Heart of my heart, let us talk of Love!",
+     "card_id": "bw-000040"
+    },
+    {
+     "start_ms": 39510,
+     "end_ms": 47850,
+     "kind": "intro",
+     "text": "This is the beginning of the first chapter. Lands of the Living Past.",
+     "card_id": null
+    },
+    {
+     "start_ms": 47850,
+     "end_ms": 60630,
+     "kind": "narration",
+     "text": "By now, so many journalists have written their war stories about Vietnam, Cambodia, and Laos, that another book at this late stage may be thought superfluous.",
+     "card_id": null
+    },
+    {
+     "start_ms": 60630,
+     "end_ms": 70230,
+     "kind": "narration",
+     "text": "Their stale, wearied refrain is, I remember when I was in Indochina, dot, dot, dot.",
+     "card_id": null
+    },
+    {
+     "start_ms": 70230,
+     "end_ms": 79770,
+     "kind": "narration",
+     "text": "If I am guilty of a similar sin and sound too much like an old Indochina hand, I apologize.",
+     "card_id": null
+    },
+    {
+     "start_ms": 79770,
+     "end_ms": 93630,
+     "kind": "narration",
+     "text": "The exploitation of nostalgia is not my intention. If I romanticize some aspects of war, put it down to youthful exuberance.",
+     "card_id": null
+    },
+    {
+     "start_ms": 93630,
+     "end_ms": 108690,
+     "kind": "narration",
+     "text": "The countries of what was formerly French Indochina are lands that still stand apart from the rest of Asia. Though they no longer make such tragic headlines.",
+     "card_id": null
+    },
+    {
+     "start_ms": 108690,
+     "end_ms": 123630,
+     "kind": "narration",
+     "text": "Even as they are being modernized by the West, they remain aloof, tragic, beautiful and provocative, a bewildering medley of the senses.",
+     "card_id": null
+    },
+    {
+     "start_ms": 123630,
+     "end_ms": 143010,
+     "kind": "narration",
+     "text": "They are places which have colored my experience of life like no others on Earth. I regret that I ever had to leave them, though I recognized that I did not get to know them as well as I should, and that I saw them at a moment of dark tragedy when they were cockpits of conflict.",
+     "card_id": null
+    },
+    {
+     "start_ms": 143010,
+     "end_ms": 156090,
+     "kind": "narration",
+     "text": "You came under foreign armies, ideologies, internal oppression. The impact of the wars upon Indochina has been terrible.",
+     "card_id": null
+    },
+    {
+     "start_ms": 156090,
+     "end_ms": 160350,
+     "kind": "narration",
+     "text": "The communist victories, a hideous disillusionment.",
+     "card_id": null
+    },
+    {
+     "start_ms": 160350,
+     "end_ms": 178470,
+     "kind": "quote",
+     "text": "But through these lands flows one constant, the Mekong. Great rivers have a special magic. There's something about the Mekong which even years later makes me want to sit down beside it and watch my whole life go by.",
+     "card_id": "bw-000041"
+    },
+    {
+     "start_ms": 178470,
+     "end_ms": 192450,
+     "kind": "narration",
+     "text": "The Mekong is the longest river in Southeast Asia. It begins its life tamely as a small glacial spring in the Tibetan Himalayas, the roof of the world.",
+     "card_id": null
+    },
+    {
+     "start_ms": 192450,
+     "end_ms": 201210,
+     "kind": "narration",
+     "text": "Then, fed by melting snow on mountain streams, it tumbles down through sheer sided gorges in southwestern China.",
+     "card_id": null
+    },
+    {
+     "start_ms": 201210,
+     "end_ms": 220230,
+     "kind": "narration",
+     "text": "Twists and turned through the jungly hills of Laos. Descends through a series of rapids into Cambodia, then flows at a more leisurely pace now, into southern Vietnam, to meander peacefully into the South China Sea below Saigon.",
+     "card_id": null
+    },
+    {
+     "start_ms": 220230,
+     "end_ms": 228330,
+     "kind": "narration",
+     "text": "Between 1970 and 1975. I lived in the lands of the Mekong, Cambodia and Vietnam.",
+     "card_id": null
+    },
+    {
+     "start_ms": 228330,
+     "end_ms": 239610,
+     "kind": "narration",
+     "text": "And for raid into Laos to report on America's secret war there. This book is primarily a personal account of those tumultuous days.",
+     "card_id": null
+    },
+    {
+     "start_ms": 239610,
+     "end_ms": 250590,
+     "kind": "narration",
+     "text": "During this period, the Mekong stole repeatedly into fragments of my life. It was to become more familiar to me than the Thames, in many Londoners.",
+     "card_id": null
+    },
+    {
+     "start_ms": 250590,
+     "end_ms": 262770,
+     "kind": "narration",
+     "text": "I was in my early 20s. One of 600 odd journalists accredited in Saigon to the United States military assistant command, Vietnam, also known as MACV.",
+     "card_id": null
+    },
+    {
+     "start_ms": 262770,
+     "end_ms": 273930,
+     "kind": "narration",
+     "text": "And in Phnom Penh, one of a much smaller group accredited to the US backed government of the ill-fated Khmer Republic.",
+     "card_id": null
+    },
+    {
+     "start_ms": 273930,
+     "end_ms": 294570,
+     "kind": "quote",
+     "text": "The Mekong soon washed through me like a tide. I learned something about life and death there that I could never have perceived in Europe. I learned about the excitement and the romance tinged with melancholy that is so peculiar to this corner of Asia. I learned, too, that the Mekong is not as innocent a river as it sometimes looks.",
+     "card_id": "bw-000042"
+    },
+    {
+     "start_ms": 294570,
+     "end_ms": 306450,
+     "kind": "narration",
+     "text": "It is true that the Mekong brings life to the lands of Indochina. But there is another phase of it. That in due course, I got to know too well.",
+     "card_id": null
+    },
+    {
+     "start_ms": 306450,
+     "end_ms": 321570,
+     "kind": "narration",
+     "text": "It is a face that reflects the violence and corruption of the countries it touches. This was never entirely the sleepy Asian backwater of docile, gently smiling peasants, which it was popularly portrayed to be.",
+     "card_id": null
+    },
+    {
+     "start_ms": 321570,
+     "end_ms": 336930,
+     "kind": "narration",
+     "text": "But a place of despotism, primitive destructiveness and suffering. History has demonstrated that violence as well as sensuous pleasure is intrinsic to the Indochinese character and to Cambodians in particular.",
+     "card_id": null
+    },
+    {
+     "start_ms": 336930,
+     "end_ms": 353070,
+     "kind": "narration",
+     "text": "Violence is in the blood. Cambodians appear only to have known how to destroy and never to reconstruct, wrote Henri Mouhot, the great French explorer who died of jungle fever exploring the upper reaches of the river in 1861.",
+     "card_id": null
+    },
+    {
+     "start_ms": 353070,
+     "end_ms": 370470,
+     "kind": "narration",
+     "text": "Of the Mekong, he said, I have so long drunk of its waters, it has so long either cradled me on its bosom or tried my patience, at one time flowing majestically among the mountains, at another muddy and yellow as the Arno at Florence.",
+     "card_id": null
+    },
+    {
+     "start_ms": 370470,
+     "end_ms": 386430,
+     "kind": "narration",
+     "text": "But myself, there are certain things I shall never forget. The buddies I saw being chussed about in its violent eddies near a fairy town, 32 miles south of Phnom Penh, in the early morning mist when the Mekong is at its most majestic and mysterious.",
+     "card_id": null
+    },
+    {
+     "start_ms": 386430,
+     "end_ms": 404010,
+     "kind": "narration",
+     "text": "Or the dawn tragedy of the B-52 bomber of the United States Air Force, which prematurely unleashed its cargo of high explosives on the same little town, turning its center into a flattened mass rubble under which many people laid dead.",
+     "card_id": null
+    },
+    {
+     "start_ms": 404010,
+     "end_ms": 414510,
+     "kind": "narration",
+     "text": "I saw one stick of bombs through the town, but it was no great disaster. Colonel Upfer, the American air attaché, told a press conference.",
+     "card_id": null
+    },
+    {
+     "start_ms": 414510,
+     "end_ms": 424170,
+     "kind": "narration",
+     "text": "Up for had not understood a thing. The bombing had killed or wounded some 400 people. One man lost 12 members of his family.",
+     "card_id": null
+    },
+    {
+     "start_ms": 424170,
+     "end_ms": 437970,
+     "kind": "narration",
+     "text": "Nor shall I forget the day when a Cambodian general marched his soldiers behind a protective screen of Vietnamese civilians into the waiting guns of the Viet Cong.",
+     "card_id": null
+    },
+    {
+     "start_ms": 437970,
+     "end_ms": 453030,
+     "kind": "narration",
+     "text": "It is a new form of psychological warfare, the general said, as the bodies dropped in front of him. E. It was in Phnom Penh on the banks of one of the quat quatoba of the Mekong that one morning in 1975.",
+     "card_id": null
+    },
+    {
+     "start_ms": 453030,
+     "end_ms": 463950,
+     "kind": "narration",
+     "text": "I thought I was going to die. A young Khmer Rouge soldier put a piston to my head. There did not seem to be any reason why he would not pull the trigger.",
+     "card_id": null
+    },
+    {
+     "start_ms": 463950,
+     "end_ms": 470670,
+     "kind": "narration",
+     "text": "Today, I still have the uneasy feeling that perhaps I should not be alive.",
+     "card_id": null
+    },
+    {
+     "start_ms": 470670,
+     "end_ms": 493410,
+     "kind": "quote",
+     "text": "Of course, there were other sides to these things too. One can be romantic as well as cynical about war. There can be a magic attraction about tragedy. There can be exhilaration as well as exhaustion. When death is close, every object, every feeling is golden. Camaraderie is strong, love is deep.",
+     "card_id": "bw-000043"
+    },
+    {
+     "start_ms": 493410,
+     "end_ms": 498330,
+     "kind": "narration",
+     "text": "Time inevitably dims the intensity of one's feelings.",
+     "card_id": null
+    },
+    {
+     "start_ms": 498330,
+     "end_ms": 512130,
+     "kind": "narration",
+     "text": "Yet often I have a burning desire to go back to where it all began for me. But not so much the Cambodia I knew at the end, in its most tragic and lonely hour when Phnom Penh was a city under siege.",
+     "card_id": null
+    },
+    {
+     "start_ms": 512130,
+     "end_ms": 520650,
+     "kind": "narration",
+     "text": "Swath in barbed wire, swamped by refugees whose suffering presented one of the most haunting images of 20th century Asia.",
+     "card_id": null
+    },
+    {
+     "start_ms": 520650,
+     "end_ms": 552090,
+     "kind": "quote",
+     "text": "I want to go back to the Cambodia of early 1970 and the innocence of my first trip to Indochina. I dream of Phnom Penh's flower-scented streets, the simplicity of the villages along the banks of the Mekong surrounded by mangoes, bananas and coconuts, the splendour of the jungle, the rice fields green as lawns, the exquisite women, the odour of opium, the warm caress of the heat, and the peace that reigned over it all.",
+     "card_id": "bw-000044"
+    },
+    {
+     "start_ms": 552090,
+     "end_ms": 566670,
+     "kind": "narration",
+     "text": "The dawning of a beautiful love affair, that too belongs to the Indochina I cherish. What carries me back to Cambodia, what carries me back to the Cambodia of my dreams is those first days.",
+     "card_id": null
+    },
+    {
+     "start_ms": 566670,
+     "end_ms": 576390,
+     "kind": "narration",
+     "text": "On that cold 1970 morning, I had left Paris behind me, shuddered and pigeon gray beneath the monotony of a northern sky.",
+     "card_id": null
+    },
+    {
+     "start_ms": 576390,
+     "end_ms": 591390,
+     "kind": "narration",
+     "text": "I had been working on the English desk of Agence France-Presse, AFP for nearly 2 years. But harbored a desire to be posted to Vietnam and badgered my editors unashamedly to be sent there.",
+     "card_id": null
+    },
+    {
+     "start_ms": 591390,
+     "end_ms": 606210,
+     "kind": "narration",
+     "text": "My passion for Indochina was fueled in part by a brief flirtation with the French Foreign Legion, which had fought with such distinction there and in part by a zest for adventure, which is why I became a journalist in the first place.",
+     "card_id": null
+    },
+    {
+     "start_ms": 606210,
+     "end_ms": 616890,
+     "kind": "narration",
+     "text": "In the end, a coup d'etat was the answer to my prayers. The new rulers regarded Jean Barret, the AFP correspondent in Phnom Penh, as hostile and expelled him.",
+     "card_id": null
+    },
+    {
+     "start_ms": 616890,
+     "end_ms": 628830,
+     "kind": "narration",
+     "text": "In their wisdom, the French chiefs of AFP decided to replace him with a non-Frenchman. I was their choice and was sent there as an envoyé spécial on a 3 month assignment.",
+     "card_id": null
+    },
+    {
+     "start_ms": 628830,
+     "end_ms": 631570,
+     "kind": "narration",
+     "text": "I stayed for 5 years.",
+     "card_id": null
+    }
+   ],
+   "card_ids": [
+    "bw-000040",
+    "bw-000041",
+    "bw-000042",
+    "bw-000043",
+    "bw-000044"
+   ],
+   "work": "River of Time",
+   "author": "Jon Swain",
+   "translator": null,
+   "edition": "Heinemann, 1995",
+   "cover": "covers/river-of-time-jon-swain.jpg",
+   "cover_of": "River of Time",
+   "color": "#96d3ce",
+   "ink": "#1d1d1b"
+  }
+ ]
+}
