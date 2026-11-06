@@ -14,10 +14,10 @@
   <meta name="color-scheme" content="light" />
   <title>borrowed words</title>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect x='2' y='4' width='12' height='9' fill='%231d1d1b'/%3E%3Ccircle cx='8' cy='4' r='2' fill='%23d7362a'/%3E%3C/svg%3E" />
-  <script type="module" crossorigin src="./assets/main-CxJed2ux.js"></script>
+  <script type="module" crossorigin src="./assets/main-CJpugDTc.js"></script>
   <link rel="modulepreload" crossorigin href="./assets/500-ee8qjxZl.js">
   <link rel="stylesheet" crossorigin href="./assets/500-BkeoOBN1.css">
-  <link rel="stylesheet" crossorigin href="./assets/main-DxAkGScL.css">
+  <link rel="stylesheet" crossorigin href="./assets/main-CNzrNCIh.css">
 </head>
 <body>
   <canvas class="drift" aria-hidden="true"></canvas>
@@ -50,18 +50,15 @@
       <div class="seed" aria-hidden="true"></div>
       <div class="choices">
         <button class="link" data-act="chance">Leave it to chance</button>
-        <span class="ask-wrap">
-          <button class="link" data-act="ask">Ask the box</button>
-          <button class="qmark" type="button" aria-label="What happens when you ask the box?" aria-expanded="false" aria-controls="ask-about">?</button>
-          <span class="ask-about" id="ask-about" role="tooltip">Like a book of answers: hold a question in mind and ask. The box answers with a passage someone once read aloud — and the same question always finds the same card.</span>
-        </span>
+        <button class="link" data-act="ask">Ask the box</button>
       </div>
       <form class="ask" hidden autocomplete="off">
         <label class="sr" for="q">Your question</label>
         <span class="caret-wrap"><input id="q" name="q" maxlength="200" placeholder="Whisper a question to the box…" /></span>
         <button class="link" type="submit">Ask</button>
         <button class="link quiet" type="button" data-act="cancel">Never mind</button>
-        <p class="ask-hint">Hold a question in mind. The box will answer with a passage.</p>
+        <p class="ask-hint">Hold a question in mind; the box will answer. <button class="ask-more" type="button" aria-expanded="false" aria-controls="ask-about">more</button></p>
+        <p class="ask-about" id="ask-about" hidden>Like a book of answers: the box replies with a passage someone once read aloud. Ask the same question again, and it gives the same answer.</p>
       </form>
     </section>
 
