@@ -1,9 +1,9 @@
 {
  "schema_version": "1.2",
  "deck_id": "borrowed-words",
- "deck_version": 11,
- "published_at": "2026-11-07T00:26:56",
- "card_count": 27,
+ "deck_version": 13,
+ "published_at": "2026-11-07T07:59:39",
+ "card_count": 32,
  "selection": "cards[] order is fixed for this version; index = uint32(sha256(normalized question)[0:4]) mod card_count",
  "changes": {
   "added": [],
@@ -758,6 +758,166 @@
    ],
    "translation": null,
    "original": null
+  },
+  {
+   "card_id": "bw-000045",
+   "content_rev": 2,
+   "language": "zh",
+   "passage_id": "siddhartha-wisdom-not-passed-on",
+   "quote_display": "悉达多道：“我有过思考，对，也有过认知。有时一个时辰或一日，我被认知充满，如同人们在心中感知生命。有些认知很难与你分享。你看，我的乔文达，这就是我的认知：智慧无法言传。智者试图传授智慧，总像痴人说梦。”",
+   "author": "Hermann Hesse",
+   "source_work": "悉达多 (Siddhartha)",
+   "source_locator": "第二部 · 乔文达 (Part Two, “Govinda”)",
+   "translator": "姜乙",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 25090,
+   "verification_status": "partially_verified",
+   "number": 45,
+   "audio": "audio/bw-000045.m4a",
+   "parallel": [],
+   "audio_sha256": "5ef5f7f7447959e105e22b44b0201d5061a787c19be2af04122d9e1a48a68a13",
+   "recording_id": "rec_0010",
+   "recording_offset_ms": [
+    17820,
+    42910
+   ],
+   "translation": {
+    "language": "en",
+    "text": "I've had thoughts, yes, and insight, again and again. Sometimes, for an hour or for an entire day, I have felt knowledge in me, as one would feel life in one's heart. There have been many thoughts, but it would be hard for me to convey them to you. Look, my dear Govinda, this is one of my thoughts, which I have found: wisdom cannot be passed on. Wisdom which a wise man tries to pass on to someone always sounds like foolishness.",
+    "source": "published",
+    "translator": "Gunther Olesch, Anke Dreher, Amy Coulter, Stefan Langer and Semyon Chaichenets",
+    "edition": "Project Gutenberg eBook #2500 (translated from the German)"
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000046",
+   "content_rev": 2,
+   "language": "zh",
+   "passage_id": "siddhartha-knowledge-not-wisdom",
+   "quote_display": "“你在说笑？”乔文达问。“我并未说笑，我说的是我的认知。知识可以分享，智慧无法分享。它可以被发现，被体验。智慧令人安详，智慧创造奇迹，但人们无法言说和传授智慧。这是我年轻时发现并离开老师们的原因。”",
+   "author": "Hermann Hesse",
+   "source_work": "悉达多 (Siddhartha)",
+   "source_locator": "第二部 · 乔文达 (Part Two, “Govinda”)",
+   "translator": "姜乙",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 22390,
+   "verification_status": "partially_verified",
+   "number": 46,
+   "audio": "audio/bw-000046.m4a",
+   "parallel": [],
+   "audio_sha256": "2d310af14ab41791f460774c647a90df35c497821ee8db5d0dba6e7938a34fa1",
+   "recording_id": "rec_0010",
+   "recording_offset_ms": [
+    43260,
+    65650
+   ],
+   "translation": {
+    "language": "en",
+    "text": "“Are you kidding?” asked Govinda. “I'm not kidding. I'm telling you what I've found. Knowledge can be conveyed, but not wisdom. It can be found, it can be lived, it is possible to be carried by it, miracles can be performed with it, but it cannot be expressed in words and taught. This was what I, even as a young man, sometimes suspected, what has driven me away from the teachers.”",
+    "source": "published",
+    "translator": "Gunther Olesch, Anke Dreher, Amy Coulter, Stefan Langer and Semyon Chaichenets",
+    "edition": "Project Gutenberg eBook #2500 (translated from the German)"
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000047",
+   "content_rev": 2,
+   "language": "zh",
+   "passage_id": "siddhartha-opposite-of-truth",
+   "quote_display": "“我有一个想法，乔文达，你又以为是我的玩笑或痴语，但它是我最好的考量：真的反面同样真实！也就是说，只有片面的真才得以以言辞彰显。可以思想和言说的一切都是片面的，是局部，都缺乏整体、完满、统一。”",
+   "author": "Hermann Hesse",
+   "source_work": "悉达多 (Siddhartha)",
+   "source_locator": "第二部 · 乔文达 (Part Two, “Govinda”)",
+   "translator": "姜乙",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 22330,
+   "verification_status": "partially_verified",
+   "number": 47,
+   "audio": "audio/bw-000047.m4a",
+   "parallel": [],
+   "audio_sha256": "7dd7bbabe4a46594561fd7ceb2c0ff1684aad75c3c7933c68406286a7be9638b",
+   "recording_id": "rec_0010",
+   "recording_offset_ms": [
+    65880,
+    88210
+   ],
+   "translation": {
+    "language": "en",
+    "text": "I have found a thought, Govinda, which you'll again regard as a joke or foolishness, but which is my best thought. It says: The opposite of every truth is just as true! That's like this: any truth can only be expressed and put into words when it is one-sided. Everything is one-sided which can be thought with thoughts and said with words, it's all one-sided, all just one half, all lacks completeness, roundness, oneness.",
+    "source": "published",
+    "translator": "Gunther Olesch, Anke Dreher, Amy Coulter, Stefan Langer and Semyon Chaichenets",
+    "edition": "Project Gutenberg eBook #2500 (translated from the German)"
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000048",
+   "content_rev": 2,
+   "language": "zh",
+   "passage_id": "siddhartha-never-one-sided",
+   "quote_display": "“世尊乔达摩在宣法和谈论世界时，不得不将世界分为轮回和涅槃、幻象和真相、苦与救赎。宣法之人别无他途。而我们周围和内在的世界却从未沦于片面。尚无一人、尚无一事完全轮回或彻底涅槃；尚无一人绝对神圣、绝对罪孽。”",
+   "author": "Hermann Hesse",
+   "source_work": "悉达多 (Siddhartha)",
+   "source_locator": "第二部 · 乔文达 (Part Two, “Govinda”)",
+   "translator": "姜乙",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 27370,
+   "verification_status": "partially_verified",
+   "number": 48,
+   "audio": "audio/bw-000048.m4a",
+   "parallel": [],
+   "audio_sha256": "9336bbbbc0e0b6ab0c85e80f183d7a9f4d4c74e9ca0b269e309d35ff24eec08a",
+   "recording_id": "rec_0010",
+   "recording_offset_ms": [
+    87780,
+    115150
+   ],
+   "translation": {
+    "language": "en",
+    "text": "When the exalted Gotama spoke in his teachings of the world, he had to divide it into Sansara and Nirvana, into deception and truth, into suffering and salvation. It cannot be done differently, there is no other way for him who wants to teach. But the world itself, what exists around us and inside of us, is never one-sided. A person or an act is never entirely Sansara or entirely Nirvana, a person is never entirely holy or entirely sinful.",
+    "source": "published",
+    "translator": "Gunther Olesch, Anke Dreher, Amy Coulter, Stefan Langer and Semyon Chaichenets",
+    "edition": "Project Gutenberg eBook #2500 (translated from the German)"
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000049",
+   "content_rev": 2,
+   "language": "zh",
+   "passage_id": "siddhartha-time-not-real",
+   "quote_display": "“之所以如此，是因为我们受制于幻象，相信时间真实存在。时间并不真实存在，乔文达，我有时感悟。而如果时间并非实在，世界与永恒、苦难与极乐、善与恶的界限亦皆为幻象。”",
+   "author": "Hermann Hesse",
+   "source_work": "悉达多 (Siddhartha)",
+   "source_locator": "第二部 · 乔文达 (Part Two, “Govinda”)",
+   "translator": "姜乙",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 19076,
+   "verification_status": "partially_verified",
+   "number": 49,
+   "audio": "audio/bw-000049.m4a",
+   "parallel": [],
+   "audio_sha256": "bd82e2b785caa00497625dba15312ea7bcbde749542624039ab7b5ebd8e6d8d1",
+   "recording_id": "rec_0010",
+   "recording_offset_ms": [
+    115140,
+    134216
+   ],
+   "translation": {
+    "language": "en",
+    "text": "It does really seem like this, because we are subject to deception, as if time was something real. Time is not real, Govinda, I have experienced this often and often again. And if time is not real, then the gap which seems to be between the world and the eternity, between suffering and blissfulness, between evil and good, is also a deception.",
+    "source": "published",
+    "translator": "Gunther Olesch, Anke Dreher, Amy Coulter, Stefan Langer and Semyon Chaichenets",
+    "edition": "Project Gutenberg eBook #2500 (translated from the German)"
+   },
+   "original": null
   }
  ],
  "recordings": [
@@ -941,7 +1101,7 @@
    "edition": "Harcourt, 2000",
    "cover": "covers/the-little-prince-antoine-de-saint-exup-ry.jpg",
    "cover_of": "The Little Prince",
-   "color": "#c6dca1",
+   "color": "#bcd594",
    "ink": "#1d1d1b"
   },
   {
@@ -1965,6 +2125,84 @@
    "cover": "covers/river-of-time-jon-swain.jpg",
    "cover_of": "River of Time",
    "color": "#96d3ce",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0010",
+   "language": "zh",
+   "speaker": "JL",
+   "contributor": "JL",
+   "duration_ms": 133616,
+   "audio": "recordings/rec_0010.m4a",
+   "audio_sha256": "0645970903664040bb54909ad396b8466ec81d62542f4f209e0ce04f9e94613e",
+   "text": "嗯，再补录一段，因为我刚刚在这里发现了《悉达多》。然后再加上某人在刺激我内卷，所以我决定再多读一小段，这样的话来展现我的 multilingual skills。\n\n悉达多道：“我有过思考，对，也有过认知。有时一个时辰或一日，我被认知充满，如同人们在心中感知生命。有些认知很难与你分享。你看，我的乔文达，这就是我的认知：智慧无法言传。智者试图传授智慧，总像痴人说梦。”\n\n“你在说笑？”乔文达问。“我并未说笑，我说的是我的认知。知识可以分享，智慧无法分享。它可以被发现，被体验。智慧令人安详，智慧创造奇迹，但人们无法言说和传授智慧。这是我年轻时发现并离开老师们的原因。”\n\n“我有一个想法，乔文达，你又以为是我的玩笑或痴语，但它是我最好的考量：真的反面同样真实！也就是说，只有片面的真才得以以言辞彰显。可以思想和言说的一切都是片面的，是局部，都缺乏整体、完满、统一。”\n\n“世尊乔达摩在宣法和谈论世界时，不得不将世界分为轮回和涅槃、幻象和真相、苦与救赎。宣法之人别无他途。而我们周围和内在的世界却从未沦于片面。尚无一人、尚无一事完全轮回或彻底涅槃；尚无一人绝对神圣、绝对罪孽。”\n\n“之所以如此，是因为我们受制于幻象，相信时间真实存在。时间并不真实存在，乔文达，我有时感悟。而如果时间并非实在，世界与永恒、苦难与极乐、善与恶的界限亦皆为幻象。”",
+   "translation": {
+    "language": "en",
+    "text": "I've had thoughts, yes, and insight, again and again. Sometimes, for an hour or for an entire day, I have felt knowledge in me, as one would feel life in one's heart. There have been many thoughts, but it would be hard for me to convey them to you. Look, my dear Govinda, this is one of my thoughts, which I have found: wisdom cannot be passed on. Wisdom which a wise man tries to pass on to someone always sounds like foolishness.\n\n“Are you kidding?” asked Govinda.\n\n“I'm not kidding. I'm telling you what I've found. Knowledge can be conveyed, but not wisdom. It can be found, it can be lived, it is possible to be carried by it, miracles can be performed with it, but it cannot be expressed in words and taught. This was what I, even as a young man, sometimes suspected, what has driven me away from the teachers.”\n\nI have found a thought, Govinda, which you'll again regard as a joke or foolishness, but which is my best thought. It says: The opposite of every truth is just as true! That's like this: any truth can only be expressed and put into words when it is one-sided. Everything is one-sided which can be thought with thoughts and said with words, it's all one-sided, all just one half, all lacks completeness, roundness, oneness.\n\nWhen the exalted Gotama spoke in his teachings of the world, he had to divide it into Sansara and Nirvana, into deception and truth, into suffering and salvation. It cannot be done differently, there is no other way for him who wants to teach. But the world itself, what exists around us and inside of us, is never one-sided. A person or an act is never entirely Sansara or entirely Nirvana, a person is never entirely holy or entirely sinful.\n\nIt does really seem like this, because we are subject to deception, as if time was something real. Time is not real, Govinda, I have experienced this often and often again. And if time is not real, then the gap which seems to be between the world and the eternity, between suffering and blissfulness, between evil and good, is also a deception.",
+    "source": "published",
+    "translator": "Gunther Olesch, Anke Dreher, Amy Coulter, Stefan Langer and Semyon Chaichenets",
+    "edition": "Project Gutenberg eBook #2500 (translated from the German)",
+    "note": null
+   },
+   "original": null,
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 17820,
+     "kind": "intro",
+     "text": "嗯，再补录一段，因为我刚刚在这里发现了《悉达多》。然后再加上某人在刺激我内卷，所以我决定再多读一小段，这样的话来展现我的 multilingual skills。",
+     "card_id": null
+    },
+    {
+     "start_ms": 17820,
+     "end_ms": 42600,
+     "kind": "quote",
+     "text": "悉达多道：“我有过思考，对，也有过认知。有时一个时辰或一日，我被认知充满，如同人们在心中感知生命。有些认知很难与你分享。你看，我的乔文达，这就是我的认知：智慧无法言传。智者试图传授智慧，总像痴人说梦。”",
+     "card_id": "bw-000045"
+    },
+    {
+     "start_ms": 43260,
+     "end_ms": 65880,
+     "kind": "quote",
+     "text": "“你在说笑？”乔文达问。“我并未说笑，我说的是我的认知。知识可以分享，智慧无法分享。它可以被发现，被体验。智慧令人安详，智慧创造奇迹，但人们无法言说和传授智慧。这是我年轻时发现并离开老师们的原因。”",
+     "card_id": "bw-000046"
+    },
+    {
+     "start_ms": 65880,
+     "end_ms": 87780,
+     "kind": "quote",
+     "text": "“我有一个想法，乔文达，你又以为是我的玩笑或痴语，但它是我最好的考量：真的反面同样真实！也就是说，只有片面的真才得以以言辞彰显。可以思想和言说的一切都是片面的，是局部，都缺乏整体、完满、统一。”",
+     "card_id": "bw-000047"
+    },
+    {
+     "start_ms": 87780,
+     "end_ms": 115200,
+     "kind": "quote",
+     "text": "“世尊乔达摩在宣法和谈论世界时，不得不将世界分为轮回和涅槃、幻象和真相、苦与救赎。宣法之人别无他途。而我们周围和内在的世界却从未沦于片面。尚无一人、尚无一事完全轮回或彻底涅槃；尚无一人绝对神圣、绝对罪孽。”",
+     "card_id": "bw-000048"
+    },
+    {
+     "start_ms": 115200,
+     "end_ms": 133616,
+     "kind": "quote",
+     "text": "“之所以如此，是因为我们受制于幻象，相信时间真实存在。时间并不真实存在，乔文达，我有时感悟。而如果时间并非实在，世界与永恒、苦难与极乐、善与恶的界限亦皆为幻象。”",
+     "card_id": "bw-000049"
+    }
+   ],
+   "card_ids": [
+    "bw-000045",
+    "bw-000046",
+    "bw-000047",
+    "bw-000048",
+    "bw-000049"
+   ],
+   "work": "悉达多 (Siddhartha)",
+   "author": "Hermann Hesse",
+   "translator": "姜乙",
+   "edition": "天津人民出版社 · 果麦文化, 2017 (translated from the German)",
+   "cover": "covers/siddhartha-hermann-hesse.jpg",
+   "cover_of": "悉达多 (tr. 姜乙, 天津人民出版社, 2017)",
+   "color": "#d5cab5",
    "ink": "#1d1d1b"
   }
  ]
