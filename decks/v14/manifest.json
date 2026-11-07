@@ -1,8 +1,8 @@
 {
  "schema_version": "1.2",
  "deck_id": "borrowed-words",
- "deck_version": 13,
- "published_at": "2026-11-07T07:59:39",
+ "deck_version": 14,
+ "published_at": "2026-11-07T08:16:57",
  "card_count": 32,
  "selection": "cards[] order is fixed for this version; index = uint32(sha256(normalized question)[0:4]) mod card_count",
  "changes": {
@@ -27,7 +27,7 @@
    "number": 1,
    "audio": "audio/bw-000001.m4a",
    "parallel": [],
-   "audio_sha256": "90765b7de9259a6edf33aa49198cd3d266aa6a0e0f650776268ab0ff33a85381",
+   "audio_sha256": "7613c109accf66c4529e7138a6c8b752a40c5ed90fc26be256e489b35a7a4032",
    "recording_id": "rec_0001",
    "recording_offset_ms": [
     53940,
@@ -58,7 +58,7 @@
    "number": 2,
    "audio": "audio/bw-000002.m4a",
    "parallel": [],
-   "audio_sha256": "aac9bbf2b3a06a96eab08920f52ec235414749c5e939deca29532b46a700219c",
+   "audio_sha256": "38ef5281536a1eb4a8f332413c57f17c02c7f32155617658e833a940d96cbeeb",
    "recording_id": "rec_0001",
    "recording_offset_ms": [
     69480,
@@ -89,7 +89,7 @@
    "number": 3,
    "audio": "audio/bw-000003.m4a",
    "parallel": [],
-   "audio_sha256": "a622e196a4134d125ea42a7eabca50f56121956979983f0f993eb23790e53f53",
+   "audio_sha256": "d5329d15d0e3b768cbcc9cb2185598e43e5ff64a7d30a4b1bc08b2c12bcc64ea",
    "recording_id": "rec_0001",
    "recording_offset_ms": [
     115560,
@@ -120,7 +120,7 @@
    "number": 4,
    "audio": "audio/bw-000004.m4a",
    "parallel": [],
-   "audio_sha256": "a3690b6f203a06d2544ea54ba3836343eb7282ec3a04ba8ff244539994d88811",
+   "audio_sha256": "9ee2d65a28108c1414d966eccf5326fba4528808ed0a1885f9d21f4511d3330b",
    "recording_id": "rec_0001",
    "recording_offset_ms": [
     142380,
@@ -151,7 +151,7 @@
    "number": 5,
    "audio": "audio/bw-000005.m4a",
    "parallel": [],
-   "audio_sha256": "8a88bddeaafd9ecc4a31fb9f1381128110f8b00ff26853d9199512c55565e8f7",
+   "audio_sha256": "d2b01c9f0067233729712dd009e073323d5436eced52e70a1d84af2d33e7bf87",
    "recording_id": "rec_0001",
    "recording_offset_ms": [
     221040,
@@ -182,7 +182,7 @@
    "number": 6,
    "audio": "audio/bw-000006.m4a",
    "parallel": [],
-   "audio_sha256": "3091414d74c57311d21538081b11186e2919d5afd51438a2f355415df54fe3a3",
+   "audio_sha256": "4543076c1f01fa86ee1491f0511c971a9f4e3e0d5682069b1060547e3b057b21",
    "recording_id": "rec_0001",
    "recording_offset_ms": [
     235140,
@@ -213,7 +213,7 @@
    "number": 7,
    "audio": "audio/bw-000007.m4a",
    "parallel": [],
-   "audio_sha256": "de40f7a625f723e7bbe359eb0332e6e35600daf9c242c80aefdc749207f47274",
+   "audio_sha256": "88dea0b3ea747c4d902629eb622d772a3ee01b30cb263cd8480a3ea93f3d91fa",
    "recording_id": "rec_0001",
    "recording_offset_ms": [
     262680,
@@ -928,7 +928,7 @@
    "contributor": "JL",
    "duration_ms": 281490,
    "audio": "recordings/rec_0001.m4a",
-   "audio_sha256": "ae813575e90b227e14c30489d0de3ce619a74fad1af612ac36a92795a90ec53d",
+   "audio_sha256": "e21bcb6af8eec54bb6039314502ab99c9939b79f268dbcbed3a6a4cfb2870886",
    "text": "So the book I'm reading, which is no surprise, is… I'm going to read you… Actually, there are three parts in chapter 21 that I really liked, about friendship, or just relationship between people. I'm going to read a bit, then skip some text, and then read the second part.\n\nSo here we go.\n\n“Nothing's perfect,” sighed the fox. But he returned to his idea. “My life is monotonous. I hunt chickens; people hunt me. All chickens are just alike, and all men are just alike. So I'm rather bored.\n\nBut if you tame me, my life will be filled with sunshine. I'll know the sound of the steps that will be different from all the rest. Other footsteps send me back underground. Yours will call me out of my burrow like music.\n\nAnd then look: you see the wheat fields over there? I don't eat bread. For me, wheat is of no use whatever. Wheat fields say nothing to me, which is sad. But you have hair the color of gold. So it will be wonderful once you've tamed me! The wheat, which is golden, will remind me of you, and I'll love the sound of the wind in the wheat.\n\nThe fox fell silent and stared at the little prince for a long while. “Please… tame me!” he said. “I'd like to,” the little prince replied, “but I haven't much time. I have friends to find and so many things to learn.”\n\n“The only things you learn are the things you tame,” said the fox. “People haven't time to learn anything. They buy things ready-made in stores. But since there are no stores where you can buy friends, people no longer have friends. If you want a friend, tame me!”\n\n“What do I have to do?” asked the little prince.\n\n“You have to be very patient,” the fox answered. “First you'll sit down a little ways away from me, over there, in the grass. I'll watch you out of the corner of my eye, and you won't say anything. Language is the source of misunderstandings. But day by day, you'll be able to sit a little closer.”\n\nHere we go, the second part. This part is about goodbyes, which I just find highly relatable, because it makes me think about why we step into relationships, even with the knowledge that we might have to say goodbye to people one day, or someday in the future. So here we go.\n\nThat was how the little prince tamed the fox. And when the time to leave was near — “Ah,” the fox said, “I shall weep.” “It's your own fault,” the little prince said. “I never wanted to do you any harm, but you insisted that I tame you.” “Yes, of course,” the fox said.\n\n“But you are going to weep,” said the little prince. “Yes, of course,” the fox said. “Then you get nothing out of it.” “I get something,” the fox said, “because of the color of the wheat.”\n\nThen he added, “Go look at the roses again. You'll understand that yours is the only rose in all the world.”\n\n“Then come back to say goodbye, and I'll make you the gift of a secret.”\n\nI'm going to skip a little bit… and here, the last part.\n\nAnd he went back to the fox. “Goodbye,” he said. “Goodbye,” said the fox.\n\n“Here is my secret. It's quite simple: One sees clearly only with the heart. Anything essential is invisible to the eyes.” “Anything essential is invisible to the eyes,” the little prince repeated, in order to remember.",
    "translation": null,
    "original": {
