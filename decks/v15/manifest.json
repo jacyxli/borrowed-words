@@ -1,12 +1,17 @@
 {
  "schema_version": "1.2",
  "deck_id": "borrowed-words",
- "deck_version": 14,
- "published_at": "2026-11-07T08:16:57",
- "card_count": 32,
+ "deck_version": 15,
+ "published_at": "2026-11-08T00:20:17",
+ "card_count": 36,
  "selection": "cards[] order is fixed for this version; index = uint32(sha256(normalized question)[0:4]) mod card_count",
  "changes": {
-  "added": [],
+  "added": [
+   "bw-000051",
+   "bw-000052",
+   "bw-000053",
+   "bw-000054"
+  ],
   "removed": []
  },
  "cards": [
@@ -916,6 +921,134 @@
     "source": "published",
     "translator": "Gunther Olesch, Anke Dreher, Amy Coulter, Stefan Langer and Semyon Chaichenets",
     "edition": "Project Gutenberg eBook #2500 (translated from the German)"
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000051",
+   "content_rev": 1,
+   "language": "zh",
+   "passage_id": "little-red-door-spring",
+   "quote_display": "小红门走上白白的雪地。一只小鸟飞来了：“你是什么？”“我是门。”“门是什么？”“开开！我想去哪里，去哪里。”小鸟想了想：“开开门，我想去春天。”小红门开开，小鸟高兴地飞到了春天里。",
+   "author": "高晴 (Gao Qing)",
+   "source_work": "小红门开开 (Little Red Door, Open Up)",
+   "source_locator": "whole picture book, read start to finish",
+   "translator": null,
+   "speaker": "RS",
+   "contributor": "RS",
+   "duration_ms": 26160,
+   "verification_status": "partially_verified",
+   "number": 51,
+   "audio": "audio/bw-000051.m4a",
+   "parallel": [],
+   "audio_sha256": "d9768c08e513bff05628b15441731a7ddfcd9cf340c173b334b0ee6a336efa97",
+   "recording_id": "rec_0011",
+   "recording_offset_ms": [
+    18600,
+    44760
+   ],
+   "translation": {
+    "language": "en",
+    "text": "Little Red Door walks out onto the white, white snow. A little bird flies up: “What are you?” “I'm a door.” “What's a door?” “I open! Wherever I want to go, I go.” The little bird thinks it over: “Open up, door — I want to go to spring.” Little Red Door opens, and the little bird flies happily into spring.",
+    "source": "ai",
+    "translator": null,
+    "edition": null
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000052",
+   "content_rev": 1,
+   "language": "zh",
+   "passage_id": "little-red-door-summer",
+   "quote_display": "小红门走上绿绿的草地。跳起来，小水珠跳起来，问：“你是什么？”“我是门。”“门是什么？”“开开！我想去哪里，去哪里。”小水珠想一想：“开开门，我想去夏天。”小红门开开，小水珠快乐地跳到了大雨里。",
+   "author": "高晴 (Gao Qing)",
+   "source_work": "小红门开开 (Little Red Door, Open Up)",
+   "source_locator": "whole picture book, read start to finish",
+   "translator": null,
+   "speaker": "RS",
+   "contributor": "RS",
+   "duration_ms": 25620,
+   "verification_status": "partially_verified",
+   "number": 52,
+   "audio": "audio/bw-000052.m4a",
+   "parallel": [],
+   "audio_sha256": "4ef603c069d711a7c839294c39e3ea64a42f57a6d62db7649f2c92cb561aeda7",
+   "recording_id": "rec_0011",
+   "recording_offset_ms": [
+    44940,
+    70560
+   ],
+   "translation": {
+    "language": "en",
+    "text": "Little Red Door walks onto the green, green grass. Up it bounces — a little water drop bounces up and asks: “What are you?” “I'm a door.” “What's a door?” “I open! Wherever I want to go, I go.” The little water drop thinks a moment: “Open up, door — I want to go to summer.” Little Red Door opens, and the little water drop jumps happily into the big rain.",
+    "source": "ai",
+    "translator": null,
+    "edition": null
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000053",
+   "content_rev": 1,
+   "language": "zh",
+   "passage_id": "little-red-door-tree",
+   "quote_display": "小红门跑到大树下看雨。大树问：“你是什么？”“我是门。”“门是什么？”“开开！我想去哪里，去哪——”大树笑起来：“谢谢你，可我哪儿也不想去。”小红门一听，哭了。“你哭什么？”“你哪儿也不去，我去哪儿好？”大树想了想：“你有家吗？”",
+   "author": "高晴 (Gao Qing)",
+   "source_work": "小红门开开 (Little Red Door, Open Up)",
+   "source_locator": "whole picture book, read start to finish",
+   "translator": null,
+   "speaker": "RS",
+   "contributor": "RS",
+   "duration_ms": 31630,
+   "verification_status": "partially_verified",
+   "number": 53,
+   "audio": "audio/bw-000053.m4a",
+   "parallel": [],
+   "audio_sha256": "1d340823f7307ce0d5d9da3ce32c3986777cd46082a118f87fd055e1863768b0",
+   "recording_id": "rec_0011",
+   "recording_offset_ms": [
+    72960,
+    104590
+   ],
+   "translation": {
+    "language": "en",
+    "text": "Little Red Door runs under a big tree to watch the rain. The big tree asks: “What are you?” “I'm a door.” “What's a door?” “I open! Wherever I want to go, I g—” The big tree laughs: “Thank you, but I don't want to go anywhere.” Hearing this, Little Red Door cries. “What are you crying for?” “If you won't go anywhere, where am I to go?” The big tree thinks it over: “Do you have a home?”",
+    "source": "ai",
+    "translator": null,
+    "edition": null
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000054",
+   "content_rev": 1,
+   "language": "zh",
+   "passage_id": "little-red-door-home",
+   "quote_display": "小红门一下子就跳了起来：“我有家，我有家！”小红门开开——是爸爸，是妈妈，是菲菲，还有狗狗。雪不下了，一家人高高兴兴地回家了。",
+   "author": "高晴 (Gao Qing)",
+   "source_work": "小红门开开 (Little Red Door, Open Up)",
+   "source_locator": "whole picture book, read start to finish",
+   "translator": null,
+   "speaker": "RS",
+   "contributor": "RS",
+   "duration_ms": 19500,
+   "verification_status": "partially_verified",
+   "number": 54,
+   "audio": "audio/bw-000054.m4a",
+   "parallel": [],
+   "audio_sha256": "ce35f606af68872de92f204b334b9bd05a59b6db8bffbf901534a56ec0551b72",
+   "recording_id": "rec_0011",
+   "recording_offset_ms": [
+    104700,
+    124200
+   ],
+   "translation": {
+    "language": "en",
+    "text": "Little Red Door jumps right up: “I have a home, I have a home!” Little Red Door opens — it's Dad, it's Mum, it's Feifei, and the dog too. The snow has stopped, and the whole family goes home, happy as can be.",
+    "source": "ai",
+    "translator": null,
+    "edition": null
    },
    "original": null
   }
@@ -2203,6 +2336,83 @@
    "cover": "covers/siddhartha-hermann-hesse.jpg",
    "cover_of": "悉达多 (tr. 姜乙, 天津人民出版社, 2017)",
    "color": "#d5cab5",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0011",
+   "language": "zh",
+   "speaker": "RS",
+   "contributor": "RS",
+   "duration_ms": 124842,
+   "audio": "recordings/rec_0011.m4a",
+   "audio_sha256": "2088b5cdc88ae8985923fd7f02e4467d2a7e801d16a1eba1cc47a0362a4a4d05",
+   "text": "今天我们来讲一个《小红门开开》的故事。\n\n下雪了。小红门开开。爸爸出去，妈妈出去，菲菲出去，狗狗出去。小红门想：“我也出去。”\n\n小红门走上白白的雪地。一只小鸟飞来了：“你是什么？”“我是门。”“门是什么？”“开开！我想去哪里，去哪里。”小鸟想了想：“开开门，我想去春天。”小红门开开，小鸟高兴地飞到了春天里。\n\n小红门走上绿绿的草地。跳起来，小水珠跳起来，问：“你是什么？”“我是门。”“门是什么？”“开开！我想去哪里，去哪里。”小水珠想一想：“开开门，我想去夏天。”小红门开开，小水珠快乐地跳到了大雨里。\n\n小红门跑到大树下看雨。大树问：“你是什么？”“我是门。”“门是什么？”“开开！我想去哪里，去哪——”大树笑起来：“谢谢你，可我哪儿也不想去。”小红门一听，哭了。“你哭什么？”“你哪儿也不去，我去哪儿好？”大树想了想：“你有家吗？”\n\n小红门一下子就跳了起来：“我有家，我有家！”小红门开开——是爸爸，是妈妈，是菲菲，还有狗狗。雪不下了，一家人高高兴兴地回家了。",
+   "translation": {
+    "language": "en",
+    "source": "ai",
+    "translator": null,
+    "edition": null,
+    "text": "It's snowing. Little Red Door opens. Dad goes out, Mum goes out, Feifei goes out, the dog goes out. Little Red Door thinks: “I'll go out too.”\n\nLittle Red Door walks out onto the white, white snow. A little bird flies up: “What are you?” “I'm a door.” “What's a door?” “I open! Wherever I want to go, I go.” The little bird thinks it over: “Open up, door — I want to go to spring.” Little Red Door opens, and the little bird flies happily into spring.\n\nLittle Red Door walks onto the green, green grass. Up it bounces — a little water drop bounces up and asks: “What are you?” “I'm a door.” “What's a door?” “I open! Wherever I want to go, I go.” The little water drop thinks a moment: “Open up, door — I want to go to summer.” Little Red Door opens, and the little water drop jumps happily into the big rain.\n\nLittle Red Door runs under a big tree to watch the rain. The big tree asks: “What are you?” “I'm a door.” “What's a door?” “I open! Wherever I want to go, I g—” The big tree laughs: “Thank you, but I don't want to go anywhere.” Hearing this, Little Red Door cries. “What are you crying for?” “If you won't go anywhere, where am I to go?” The big tree thinks it over: “Do you have a home?”\n\nLittle Red Door jumps right up: “I have a home, I have a home!” Little Red Door opens — it's Dad, it's Mum, it's Feifei, and the dog too. The snow has stopped, and the whole family goes home, happy as can be.",
+    "note": null
+   },
+   "original": null,
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 6420,
+     "kind": "intro",
+     "text": "今天我们来讲一个《小红门开开》的故事。",
+     "card_id": null
+    },
+    {
+     "start_ms": 6420,
+     "end_ms": 18600,
+     "kind": "quote",
+     "text": "下雪了。小红门开开。爸爸出去，妈妈出去，菲菲出去，狗狗出去。小红门想：“我也出去。”",
+     "card_id": null
+    },
+    {
+     "start_ms": 18600,
+     "end_ms": 45000,
+     "kind": "quote",
+     "text": "小红门走上白白的雪地。一只小鸟飞来了：“你是什么？”“我是门。”“门是什么？”“开开！我想去哪里，去哪里。”小鸟想了想：“开开门，我想去春天。”小红门开开，小鸟高兴地飞到了春天里。",
+     "card_id": "bw-000051"
+    },
+    {
+     "start_ms": 45000,
+     "end_ms": 73020,
+     "kind": "quote",
+     "text": "小红门走上绿绿的草地。跳起来，小水珠跳起来，问：“你是什么？”“我是门。”“门是什么？”“开开！我想去哪里，去哪里。”小水珠想一想：“开开门，我想去夏天。”小红门开开，小水珠快乐地跳到了大雨里。",
+     "card_id": "bw-000052"
+    },
+    {
+     "start_ms": 73020,
+     "end_ms": 104700,
+     "kind": "quote",
+     "text": "小红门跑到大树下看雨。大树问：“你是什么？”“我是门。”“门是什么？”“开开！我想去哪里，去哪——”大树笑起来：“谢谢你，可我哪儿也不想去。”小红门一听，哭了。“你哭什么？”“你哪儿也不去，我去哪儿好？”大树想了想：“你有家吗？”",
+     "card_id": "bw-000053"
+    },
+    {
+     "start_ms": 104700,
+     "end_ms": 124842,
+     "kind": "quote",
+     "text": "小红门一下子就跳了起来：“我有家，我有家！”小红门开开——是爸爸，是妈妈，是菲菲，还有狗狗。雪不下了，一家人高高兴兴地回家了。",
+     "card_id": "bw-000054"
+    }
+   ],
+   "card_ids": [
+    "bw-000051",
+    "bw-000052",
+    "bw-000053",
+    "bw-000054"
+   ],
+   "work": "小红门开开 (Little Red Door, Open Up)",
+   "author": "高晴 (Gao Qing)",
+   "translator": null,
+   "edition": "小羊上山儿童汉语分级读物 第2级 · 孙蓓 主编 · 童趣出版有限公司编 · 人民邮电出版社 (illustrated by 郝莉)",
+   "cover": "covers/little-red-door-open-up-gao-qing.jpg",
+   "cover_of": "小红门开开 (小羊上山 第2级, 人民邮电出版社)",
+   "color": "#84bede",
    "ink": "#1d1d1b"
   }
  ]
