@@ -1,18 +1,16 @@
 {
  "schema_version": "1.2",
  "deck_id": "borrowed-words",
- "deck_version": 15,
- "published_at": "2026-11-08T00:20:17",
- "card_count": 36,
+ "deck_version": 17,
+ "published_at": "2026-11-08T21:43:01",
+ "card_count": 38,
  "selection": "cards[] order is fixed for this version; index = uint32(sha256(normalized question)[0:4]) mod card_count",
  "changes": {
-  "added": [
-   "bw-000051",
-   "bw-000052",
-   "bw-000053",
-   "bw-000054"
-  ],
-  "removed": []
+  "added": [],
+  "removed": [
+   "bw-000057",
+   "bw-000058"
+  ]
  },
  "cards": [
   {
@@ -1050,6 +1048,58 @@
     "translator": null,
     "edition": null
    },
+   "original": null
+  },
+  {
+   "card_id": "bw-000055",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "land-end-of-world-happiness",
+   "quote_display": "Happiness, that vague state resulting from an impossible convergence of parallel lines, in the form of a good digestion and a smug egotism untouched by regrets, still seems to me — for I belong to the glum category of the sad and restless, eternally waiting for an explosion or a miracle — something as abstract and strange as innocence, justice, honour, those profound, grandiloquent and ultimately empty concepts that the family, school, the catechism and the State solemnly imposed upon me, so as to tame me more easily, to nip in the bud, if I may put it like that, any stirrings of protest and rebellion.",
+   "author": "António Lobo Antunes",
+   "source_work": "The Land at the End of the World",
+   "source_locator": null,
+   "translator": "Margaret Jull Costa",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 42420,
+   "verification_status": "verified_secondary",
+   "number": 55,
+   "audio": "audio/bw-000055.m4a",
+   "parallel": [],
+   "audio_sha256": "16c30ef23a570f0e4a6294c8d7cb78200fdd675b7e0f741c270863ed7500b98a",
+   "recording_id": "rec_0012",
+   "recording_offset_ms": [
+    4620,
+    47040
+   ],
+   "translation": null,
+   "original": null
+  },
+  {
+   "card_id": "bw-000056",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "land-end-of-world-aquariums",
+   "quote_display": "What others demand of us, you understand, is that we don't disturb their teeny-weeny lives, which they have carefully insulated against despair and hope, that we don't shatter their aquariums of deaf fish, floating in the slimy water of the day-to-day, lit obliquely by the sleepy lamp of what we call virtue, which, when looked at closely, turns out to be merely the lukewarm absence of ambition.",
+   "author": "António Lobo Antunes",
+   "source_work": "The Land at the End of the World",
+   "source_locator": null,
+   "translator": "Margaret Jull Costa",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 27480,
+   "verification_status": "verified_secondary",
+   "number": 56,
+   "audio": "audio/bw-000056.m4a",
+   "parallel": [],
+   "audio_sha256": "66b7b7b9c008355535f1cb8c3f86767de6a20c8a9e603803e47520dd57ac7448",
+   "recording_id": "rec_0012",
+   "recording_offset_ms": [
+    46440,
+    73920
+   ],
+   "translation": null,
    "original": null
   }
  ],
@@ -2413,6 +2463,53 @@
    "cover": "covers/little-red-door-open-up-gao-qing.jpg",
    "cover_of": "小红门开开 (小羊上山 第2级, 人民邮电出版社)",
    "color": "#84bede",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0012",
+   "language": "en",
+   "speaker": "CP",
+   "contributor": "CP",
+   "duration_ms": 74048,
+   "audio": "recordings/rec_0012.m4a",
+   "audio_sha256": "caf49b9311936b8102caa8f0ca2f7740b57d7e9ae14cbf3e6a502f05408ed6ec",
+   "text": "No, seriously.\n\nHappiness, that vague state resulting from an impossible convergence of parallel lines, in the form of a good digestion and a smug egotism untouched by regrets, still seems to me — for I belong to the glum category of the sad and restless, eternally waiting for an explosion or a miracle — something as abstract and strange as innocence, justice, honour, those profound, grandiloquent and ultimately empty concepts that the family, school, the catechism and the State solemnly imposed upon me, so as to tame me more easily, to nip in the bud, if I may put it like that, any stirrings of protest and rebellion.\n\nWhat others demand of us, you understand, is that we don't disturb their teeny-weeny lives, which they have carefully insulated against despair and hope, that we don't shatter their aquariums of deaf fish, floating in the slimy water of the day-to-day, lit obliquely by the sleepy lamp of what we call virtue, which, when looked at closely, turns out to be merely the lukewarm absence of ambition.",
+   "translation": null,
+   "original": null,
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 4680,
+     "kind": "intro",
+     "text": "No, seriously.",
+     "card_id": null
+    },
+    {
+     "start_ms": 4680,
+     "end_ms": 46500,
+     "kind": "quote",
+     "text": "Happiness, that vague state resulting from an impossible convergence of parallel lines, in the form of a good digestion and a smug egotism untouched by regrets, still seems to me — for I belong to the glum category of the sad and restless, eternally waiting for an explosion or a miracle — something as abstract and strange as innocence, justice, honour, those profound, grandiloquent and ultimately empty concepts that the family, school, the catechism and the State solemnly imposed upon me, so as to tame me more easily, to nip in the bud, if I may put it like that, any stirrings of protest and rebellion.",
+     "card_id": "bw-000055"
+    },
+    {
+     "start_ms": 46500,
+     "end_ms": 74048,
+     "kind": "quote",
+     "text": "What others demand of us, you understand, is that we don't disturb their teeny-weeny lives, which they have carefully insulated against despair and hope, that we don't shatter their aquariums of deaf fish, floating in the slimy water of the day-to-day, lit obliquely by the sleepy lamp of what we call virtue, which, when looked at closely, turns out to be merely the lukewarm absence of ambition.",
+     "card_id": "bw-000056"
+    }
+   ],
+   "card_ids": [
+    "bw-000055",
+    "bw-000056"
+   ],
+   "work": "The Land at the End of the World",
+   "author": "António Lobo Antunes",
+   "translator": "Margaret Jull Costa",
+   "edition": "W. W. Norton, 2011 (translated from the Portuguese, Os Cus de Judas, 1979)",
+   "cover": "covers/the-land-at-the-end-of-the-world-ant-nio-lobo-antunes.jpg",
+   "cover_of": "The Land at the End of the World",
+   "color": "#f4e2de",
    "ink": "#1d1d1b"
   }
  ]
