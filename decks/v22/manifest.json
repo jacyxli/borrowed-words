@@ -1,12 +1,22 @@
 {
  "schema_version": "1.2",
  "deck_id": "borrowed-words",
- "deck_version": 21,
- "published_at": "2026-11-10T10:27:41",
- "card_count": 42,
+ "deck_version": 22,
+ "published_at": "2026-11-10T14:17:19",
+ "card_count": 51,
  "selection": "cards[] order is fixed for this version; index = uint32(sha256(normalized question)[0:4]) mod card_count",
  "changes": {
-  "added": [],
+  "added": [
+   "bw-000063",
+   "bw-000064",
+   "bw-000065",
+   "bw-000066",
+   "bw-000067",
+   "bw-000068",
+   "bw-000069",
+   "bw-000070",
+   "bw-000071"
+  ],
   "removed": []
  },
  "cards": [
@@ -1225,6 +1235,276 @@
     "translator": null,
     "edition": null
    },
+   "original": null
+  },
+  {
+   "card_id": "bw-000063",
+   "content_rev": 1,
+   "language": "zh",
+   "passage_id": "hesse-asia-chinese-boy-tea",
+   "quote_display": "不一会儿，一个眼神如哲人、双手如外交官的华人小厮，便悄无声息地端上了茶和香蕉。",
+   "author": "Hermann Hesse",
+   "source_work": "全世界的水都会重逢",
+   "source_locator": "travel essays from Asia (Singapore, Malaya, Sumatra, 1911)",
+   "translator": "张宓",
+   "speaker": "JF",
+   "contributor": "JF",
+   "duration_ms": 10680,
+   "verification_status": "partially_verified",
+   "number": 63,
+   "audio": "audio/bw-000063.m4a",
+   "parallel": [],
+   "audio_sha256": "cf95297bcfc7efc88c961a16a1bd25767d8ebdf0367120a2f37b569b45bb2f49",
+   "recording_id": "rec_0015",
+   "recording_offset_ms": [
+    67200,
+    77880
+   ],
+   "translation": {
+    "language": "en",
+    "text": "Before long, a Chinese boy with the eyes of a philosopher and the hands of a diplomat silently brought in tea and bananas.",
+    "source": "ai",
+    "translator": null,
+    "edition": null
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000064",
+   "content_rev": 1,
+   "language": "zh",
+   "passage_id": "hesse-asia-settle-oneself",
+   "quote_display": "大多数街景之所以也显得精妙和谐，同样要归功于华人。他们深谙衣着之道，也懂得如何安身立命。",
+   "author": "Hermann Hesse",
+   "source_work": "全世界的水都会重逢",
+   "source_locator": "travel essays from Asia (Singapore, Malaya, Sumatra, 1911)",
+   "translator": "张宓",
+   "speaker": "JF",
+   "contributor": "JF",
+   "duration_ms": 10860,
+   "verification_status": "partially_verified",
+   "number": 64,
+   "audio": "audio/bw-000064.m4a",
+   "parallel": [],
+   "audio_sha256": "a86a4e9ecb6424dcbf2386f2823f4ee83a540fb919c4d0b4f1b15c560def6322",
+   "recording_id": "rec_0015",
+   "recording_offset_ms": [
+    165300,
+    176160
+   ],
+   "translation": {
+    "language": "en",
+    "text": "That most street scenes also look so refined and harmonious is likewise thanks to the Chinese. They understand how to dress, and they know how to make a settled life for themselves.",
+    "source": "ai",
+    "translator": null,
+    "edition": null
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000065",
+   "content_rev": 1,
+   "language": "zh",
+   "passage_id": "hesse-asia-wealth-and-art",
+   "quote_display": "然而在我四周，亚洲的财富与艺术却取之不尽地闪耀着。它从四面八方被挤压、被盗窃、被侵蚀、被蹂躏，或许依然衰弱不堪，或许在垂死挣扎，但即使如此，它依然比我们西方所能梦想的更为丰饶、更为多样。",
+   "author": "Hermann Hesse",
+   "source_work": "全世界的水都会重逢",
+   "source_locator": "travel essays from Asia (Singapore, Malaya, Sumatra, 1911)",
+   "translator": "张宓",
+   "speaker": "JF",
+   "contributor": "JF",
+   "duration_ms": 21960,
+   "verification_status": "partially_verified",
+   "number": 65,
+   "audio": "audio/bw-000065.m4a",
+   "parallel": [],
+   "audio_sha256": "81e0439ccf76c02076ef59e615899441fdbf546757a463c9385ae55ec8e60ce6",
+   "recording_id": "rec_0015",
+   "recording_offset_ms": [
+    341700,
+    363660
+   ],
+   "translation": {
+    "language": "en",
+    "text": "Yet all around me the wealth and art of Asia shone, inexhaustible. Squeezed, robbed, eroded and trampled from every side, perhaps still feeble, perhaps in its death throes — even so, it is richer and more varied than anything we in the West could dream of.",
+    "source": "ai",
+    "translator": null,
+    "edition": null
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000066",
+   "content_rev": 1,
+   "language": "zh",
+   "passage_id": "hesse-asia-singing-bamboo",
+   "quote_display": "他们害怕鳄鱼，也害怕亡灵的幽魂游荡河面，于是他们唱着歌，带着顺从和虔诚，带着痛楚与希望，就像夜风中摇曳的竹子那样，无意识地歌唱。",
+   "author": "Hermann Hesse",
+   "source_work": "全世界的水都会重逢",
+   "source_locator": "travel essays from Asia (Singapore, Malaya, Sumatra, 1911)",
+   "translator": "张宓",
+   "speaker": "JF",
+   "contributor": "JF",
+   "duration_ms": 14460,
+   "verification_status": "partially_verified",
+   "number": 66,
+   "audio": "audio/bw-000066.m4a",
+   "parallel": [],
+   "audio_sha256": "fdfc98c3996e9c182479f0610c3275c93f5cfd664925cb7da473e9ac59515631",
+   "recording_id": "rec_0015",
+   "recording_offset_ms": [
+    390540,
+    405000
+   ],
+   "translation": {
+    "language": "en",
+    "text": "They fear the crocodiles, and they fear the ghosts of the dead that wander the river; and so they sing, with submission and devotion, with pain and hope, unconsciously, the way bamboo sways and sings in the night wind.",
+    "source": "ai",
+    "translator": null,
+    "edition": null
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000067",
+   "content_rev": 1,
+   "language": "zh",
+   "passage_id": "hesse-asia-song-of-travel",
+   "quote_display": "这时我听到一阵多声部的庄严的歌声响起，如同行路者在迷雾中听闻钟声，慰藉我心。我即刻跟着唱了起来。那是神圣的旅行之歌“我们去亚洲”，其中回荡着所有人类的语言，激荡着所有人类的前进，所有疲惫人类的渴望，所有生灵的苦难与狂野的欲求。我感到自己被父母所爱，被古鲁所引导，被佛陀所净化，被救主所救赎。接下来的是死亡还是极乐，于我而言似乎已全然无所谓。",
+   "author": "Hermann Hesse",
+   "source_work": "全世界的水都会重逢",
+   "source_locator": "travel essays from Asia (Singapore, Malaya, Sumatra, 1911)",
+   "translator": "张宓",
+   "speaker": "JF",
+   "contributor": "JF",
+   "duration_ms": 40980,
+   "verification_status": "partially_verified",
+   "number": 67,
+   "audio": "audio/bw-000067.m4a",
+   "parallel": [],
+   "audio_sha256": "8a1526315e3fb1e4554394368210d5c5ee3ce29b2f741a5770951d8586863daa",
+   "recording_id": "rec_0015",
+   "recording_offset_ms": [
+    548880,
+    589860
+   ],
+   "translation": {
+    "language": "en",
+    "text": "Then I heard a solemn song rise in many voices, comforting my heart like the sound of a bell to a traveller lost in the fog. At once I joined in. It was the sacred song of the journey, ‘We go to Asia’, and in it echoed every human language, all of humanity's striving, the longing of all weary people, the suffering and wild desire of every living thing. I felt myself loved by my parents, guided by the guru, purified by the Buddha, redeemed by the Saviour. Whether death or bliss came next seemed to me no longer to matter at all.",
+    "source": "ai",
+    "translator": null,
+    "edition": null
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000068",
+   "content_rev": 1,
+   "language": "zh",
+   "passage_id": "hesse-asia-climate",
+   "quote_display": "这里的气候可以迅速摧毁一切人造之物，居所的建造并非为了稳固与持久，而仅仅是出于遮阳、纳凉、避雨的即时需求。",
+   "author": "Hermann Hesse",
+   "source_work": "全世界的水都会重逢",
+   "source_locator": "travel essays from Asia (Singapore, Malaya, Sumatra, 1911)",
+   "translator": "张宓",
+   "speaker": "JF",
+   "contributor": "JF",
+   "duration_ms": 12190,
+   "verification_status": "partially_verified",
+   "number": 68,
+   "audio": "audio/bw-000068.m4a",
+   "parallel": [],
+   "audio_sha256": "115d6a15df6f13f1ded86d0352571594f33ca6cab85ab1ffa5209bb23b2adc98",
+   "recording_id": "rec_0015",
+   "recording_offset_ms": [
+    645540,
+    657730
+   ],
+   "translation": {
+    "language": "en",
+    "text": "Here the climate can swiftly destroy everything made by human hands; houses are built not to be solid or lasting, but only for the immediate needs of shade, coolness and shelter from the rain.",
+    "source": "ai",
+    "translator": null,
+    "edition": null
+   },
+   "original": null
+  },
+  {
+   "card_id": "bw-000069",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "artists-way-no-wrong-way",
+   "quote_display": "There is no wrong way to do morning pages. These daily morning meanderings are not meant to be art. Or even writing. I stress that point to reassure the nonwriters working with this book. Writing is simply one of the tools. Pages are meant to be, simply, the act of moving the hand across the page and writing down whatever comes to mind.",
+   "author": "Julia Cameron",
+   "source_work": "The Artist's Way",
+   "source_locator": "The Basic Tools: The Morning Pages (p. 10 of JF's copy)",
+   "translator": null,
+   "speaker": "JF",
+   "contributor": "JF",
+   "duration_ms": 31680,
+   "verification_status": "partially_verified",
+   "number": 69,
+   "audio": "audio/bw-000069.m4a",
+   "parallel": [],
+   "audio_sha256": "6ede894db66b17f8a7dcce95ca43e1d178984960fa585f17d93f37afeb4838bf",
+   "recording_id": "rec_0016",
+   "recording_offset_ms": [
+    113940,
+    145620
+   ],
+   "translation": null,
+   "original": null
+  },
+  {
+   "card_id": "bw-000070",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "artists-way-nobody-reads-them",
+   "quote_display": "Nothing is too petty, too silly, too stupid, or too weird to be included. The morning pages are not supposed to sound smart — although sometimes they might. Most of the time they won't, and nobody will ever know except you. Nobody is allowed to read your morning pages except you. And you shouldn't even read them yourself for the first eight weeks or so.",
+   "author": "Julia Cameron",
+   "source_work": "The Artist's Way",
+   "source_locator": "The Basic Tools: The Morning Pages (p. 10 of JF's copy)",
+   "translator": null,
+   "speaker": "JF",
+   "contributor": "JF",
+   "duration_ms": 29340,
+   "verification_status": "partially_verified",
+   "number": 70,
+   "audio": "audio/bw-000070.m4a",
+   "parallel": [],
+   "audio_sha256": "7b86ff35c3430aebf065a850be07ab192591088044e33d48f2980ea84d542fec",
+   "recording_id": "rec_0016",
+   "recording_offset_ms": [
+    145140,
+    174480
+   ],
+   "translation": null,
+   "original": null
+  },
+  {
+   "card_id": "bw-000071",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "artists-way-three-more-pages",
+   "quote_display": "Just write three pages, and stick them into an envelope. Or write three pages in a spiral notebook and don't leaf back through. Just write three pages… and write three more pages the next day.",
+   "author": "Julia Cameron",
+   "source_work": "The Artist's Way",
+   "source_locator": "The Basic Tools: The Morning Pages (p. 10 of JF's copy)",
+   "translator": null,
+   "speaker": "JF",
+   "contributor": "JF",
+   "duration_ms": 19200,
+   "verification_status": "partially_verified",
+   "number": 71,
+   "audio": "audio/bw-000071.m4a",
+   "parallel": [],
+   "audio_sha256": "d712df8d028b4ea9e8d171a037eb8da8953f4ea9f5cf27313a23c1e8bc16725f",
+   "recording_id": "rec_0016",
+   "recording_offset_ms": [
+    173880,
+    193080
+   ],
+   "translation": null,
    "original": null
   }
  ],
@@ -2698,6 +2978,196 @@
    "cover": "covers/terre-des-hommes-antoine-de-saint-exup-ry.jpg",
    "cover_of": "인간의 대지 (tr. 김윤진, 시공사, 세계문학의 숲 043)",
    "color": "#c3bcba",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0015",
+   "language": "zh",
+   "speaker": "JF",
+   "contributor": "JF",
+   "duration_ms": 897514,
+   "audio": "recordings/rec_0015.m4a",
+   "audio_sha256": "7a34b0a16e9e0396e88e47b4f0e3eceacf9696314c50892e6d824d7804ec9f99",
+   "text": "Hello姐妹，我准备再录一段中文的。我现在在看我的微信读书我最近在看的一本书是黑赛的嗯这本书应该是他们那个散文集把它集合在了一起，然后取了一个名字叫全世界的水都会重逢我可以看看我之前划线的一些。coke我觉得黑色还是挺喜欢就是远东尔。华人orChinese的文化的。你知道他怎么形容一个华人小说他写的是\n\n不一会儿，一个眼神如哲人、双手如外交官的华人小厮，便悄无声息地端上了茶和香蕉。\n\n他当时住在冰城的远东旅馆，然后这是里面的一个waiter。我觉得他对于远东文化真的有非常诚心的好奇和细腻的欣赏。嗯，就是他当时描述一个。城市里面的一个区域，他写的是在这华人尤为喜爱的挥霍般的光亮中，东方童话里的各色人物依旧穿行就他给我一种很小的时候在那种老的电视机前面看。那种带着魔幻色彩的中国电动画片的感觉就是我记得小时候有一个嗯动画片就是它进入到一个世界，这个世界有各种下棋的，就是他自己也算是一个棋在里面在这个棋盘里面。然后他又到了一个几何的世界，然后里面又都是三角形啊圆形啊什么的然后他在这种嗯迷宫一样的几何图形里面穿行。然后他还写就是黑色还写\n\n大多数街景之所以也显得精妙和谐，同样要归功于华人。他们深谙衣着之道，也懂得如何安身立命。\n\n这个也特别有意思，就是当时他是在新加坡在写这一段的时候。他就是称赞新加坡的街道精美和谐嗯，并且把他引到了安身立命这件事情来上来我觉得这个还挺有意思的就是安身立命这件事情对于中国人来说还是很重要的。就ohowtoplaceyourself以及在place的基础上去嗯追逐一个属于你的剧本就是按照现在大家特别火的一个说法嗯。就包括可能儒家文化里面也说的就是先成家再立业也是这个安身里面的一个体现吧。嗯。其实我觉得那照这样子来说的话会有很多家居品牌在国内应该会比较火啊天哪这个我这个思维就突然间又飞走了。哦，他还他还形容印度人说他们黑褐色的精瘦四肢和苦行僧般的眼神让人乍看之下以为是每个某个被废废处被废处的王宫。就感觉自语间就是对于印度和中国的文化充满了各种尊敬我感觉黑赛之前的那些文章就会让你觉得很馋让你觉得很嗯。对于遥远神秘的东方有一种敬意。然后在他这本这个小散文记忆面就是这种记忆变得非常的恢弘和嗯具体。然之前你可能只能感到一些他对于这种文化的致敬和中国人和印度人mindset的那种欣赏。这些文章就是这本书它的特别就是一个。大型的夸夸秀。对，还有这这个就是亚洲的财富与艺术。\n\n然而在我四周，亚洲的财富与艺术却取之不尽地闪耀着。它从四面八方被挤压、被盗窃、被侵蚀、被蹂躏，或许依然衰弱不堪，或许在垂死挣扎，但即使如此，它依然比我们西方所能梦想的更为丰饶、更为多样。\n\n天哪我觉得他真的非常的爱。亚洲的文化嗯。然后还有这一段这一段是写他们在马来遇到了一个原住民族群，\n\n他们害怕鳄鱼，也害怕亡灵的幽魂游荡河面，于是他们唱着歌，带着顺从和虔诚，带着痛楚与希望，就像夜风中摇曳的竹子那样，无意识地歌唱。\n\n嗯，我觉得真的好美啊，因为当时他们是在黑夜雨林中架着小船嗯听到。岸边因为他们的船没有燃料了，所以要补充柴火。然后听到岸边在工作的苦力。边搬运木头边高声地唱出数字。他们唱这个数字呢是把那种木柴的树木直接唱入黑夜和流淌的河水当中。他们有时候唱得昏昏欲睡，有时候又充满了希望。嗯我觉得原始的人类真的。可能是又恍然又幸福的就恍然在于在黑夜里面没有火把的花，他们就得直面祖先的亡灵直面残酷的自然直面第二天。是否有食物吃的那种恐惧嗯但是大家又带着对于生活很本质的热情。去用失意的态度用歌唱的态度去面对这些东西。而这种失忆和歌唱又是没有意识的是潜意识的说不定。就非常的朦胧，非常的美。对，就是那种。\n\n这时我听到一阵多声部的庄严的歌声响起，如同行路者在迷雾中听闻钟声，慰藉我心。我即刻跟着唱了起来。那是神圣的旅行之歌“我们去亚洲”，其中回荡着所有人类的语言，激荡着所有人类的前进，所有疲惫人类的渴望，所有生灵的苦难与狂野的欲求。我感到自己被父母所爱，被古鲁所引导，被佛陀所净化，被救主所救赎。接下来的是死亡还是极乐，于我而言似乎已全然无所谓。\n\n天哪我觉得黑赛真的很擅长描述这种充满神性充满浪漫。又充满那种朦胧的欲求和淡淡的痛苦的那种场景。就我感觉他真的就是看这个真相的能力还是挺强的。以及他感受这种真相的能力，并且用语言把它描述出来的能力。嗯还是一个很强很强的人。对其实我这里还就是comvent了一个qoate。这个qoate就是他当时写在马来说\n\n这里的气候可以迅速摧毁一切人造之物，居所的建造并非为了稳固与持久，而仅仅是出于遮阳、纳凉、避雨的即时需求。\n\n就是大概说热带的气候它就不能够让建筑物或者人造的东西持久。会迅速发霉腐朽掩盖在雨林和茂密的树木和洪水当中。嗯，但是同时呢，因为我前段时间去了柬埔寨。我当时评论就是说为什么在轩丽诞生了雨林中的奇龟神像这两任与五颗孤建造有重大贡献的君王是以什么样的信念在支撑他们对抗吞没一切侵蚀一切的湿热气候以非宗教的虔诚筑起佛陀的王国又或许他们只是抱着建筑与自然共存的心态所以人造之物才能成长。才能历经千年长成树木的一部分很难想象第一个发现五哥库的欧洲人心中是如何的震撼我当时为什么留下这个commenty因为有好几层的想法就第一个就是为什么在不同的热带大家嗯造出的建筑和对于永恒的至今是不一样的，但是又桑炮会留下来就比如说像齐情异产像婆罗浮图像。像吴歌窟就是就当我们在说热带无哲学嗯，我们是否把他们的信仰也剥夺了因为信仰不算是哲学的一部分但atsametime就是当我知道就是比如说在吴国窟的嗯那一代的。对于佛陀的理解就是可能跟国内是不太一样的或者说嗯它其实有两种流派一种是把佛祖当做一种神来宠崇拜另外一种就是你觉得自己是可以修炼成佛特，只要经历inlightment这过程那既然对于他们来说每一个人都有可能成为佛陀的话，但他实际上并不是以一种宗教的前程去建造这种嗯。大型的建筑的那是什么样的前程让他们去对抗这种消弭这种热带气候带给他们的不能够天然不能够久长的那种特质嗯还是挺神奇的。就每次读黑赛的书都会让我觉得哇这个人怎么可以用这么贴切又精美又很简短的语言描述一个我可能已经wonder很久嗯。的一个问题或者是思考很久碰撞不出来的一个答案就是嗯他可能感受本身就是这个答案。好棒呀我还是很推荐这本书的，虽然我还没有看完，但是我感觉我已经看到了它的一些。我会继续看下去的因素嗯都到46%再看个一两个小时应该就可以看完了好吧，我觉得我也差不多结束了。祝你生日快乐，然后晚安哈哈哈。",
+   "translation": {
+    "language": "en",
+    "source": "ai",
+    "translator": null,
+    "edition": null,
+    "text": "Before long, a Chinese boy with the eyes of a philosopher and the hands of a diplomat silently brought in tea and bananas.\n\nThat most street scenes also look so refined and harmonious is likewise thanks to the Chinese. They understand how to dress, and they know how to make a settled life for themselves.\n\nYet all around me the wealth and art of Asia shone, inexhaustible. Squeezed, robbed, eroded and trampled from every side, perhaps still feeble, perhaps in its death throes — even so, it is richer and more varied than anything we in the West could dream of.\n\nThey fear the crocodiles, and they fear the ghosts of the dead that wander the river; and so they sing, with submission and devotion, with pain and hope, unconsciously, the way bamboo sways and sings in the night wind.\n\nThen I heard a solemn song rise in many voices, comforting my heart like the sound of a bell to a traveller lost in the fog. At once I joined in. It was the sacred song of the journey, ‘We go to Asia’, and in it echoed every human language, all of humanity's striving, the longing of all weary people, the suffering and wild desire of every living thing. I felt myself loved by my parents, guided by the guru, purified by the Buddha, redeemed by the Saviour. Whether death or bliss came next seemed to me no longer to matter at all.\n\nHere the climate can swiftly destroy everything made by human hands; houses are built not to be solid or lasting, but only for the immediate needs of shade, coolness and shelter from the rain.",
+    "note": null
+   },
+   "original": null,
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 67200,
+     "kind": "commentary",
+     "text": "Hello姐妹，我准备再录一段中文的。我现在在看我的微信读书我最近在看的一本书是黑赛的嗯这本书应该是他们那个散文集把它集合在了一起，然后取了一个名字叫全世界的水都会重逢我可以看看我之前划线的一些。coke我觉得黑色还是挺喜欢就是远东尔。华人orChinese的文化的。你知道他怎么形容一个华人小说他写的是",
+     "card_id": null
+    },
+    {
+     "start_ms": 67200,
+     "end_ms": 77580,
+     "kind": "quote",
+     "text": "不一会儿，一个眼神如哲人、双手如外交官的华人小厮，便悄无声息地端上了茶和香蕉。",
+     "card_id": "bw-000063"
+    },
+    {
+     "start_ms": 77580,
+     "end_ms": 165300,
+     "kind": "commentary",
+     "text": "他当时住在冰城的远东旅馆，然后这是里面的一个waiter。我觉得他对于远东文化真的有非常诚心的好奇和细腻的欣赏。嗯，就是他当时描述一个。城市里面的一个区域，他写的是在这华人尤为喜爱的挥霍般的光亮中，东方童话里的各色人物依旧穿行就他给我一种很小的时候在那种老的电视机前面看。那种带着魔幻色彩的中国电动画片的感觉就是我记得小时候有一个嗯动画片就是它进入到一个世界，这个世界有各种下棋的，就是他自己也算是一个棋在里面在这个棋盘里面。然后他又到了一个几何的世界，然后里面又都是三角形啊圆形啊什么的然后他在这种嗯迷宫一样的几何图形里面穿行。然后他还写就是黑色还写",
+     "card_id": null
+    },
+    {
+     "start_ms": 165300,
+     "end_ms": 176040,
+     "kind": "quote",
+     "text": "大多数街景之所以也显得精妙和谐，同样要归功于华人。他们深谙衣着之道，也懂得如何安身立命。",
+     "card_id": "bw-000064"
+    },
+    {
+     "start_ms": 176040,
+     "end_ms": 341760,
+     "kind": "commentary",
+     "text": "这个也特别有意思，就是当时他是在新加坡在写这一段的时候。他就是称赞新加坡的街道精美和谐嗯，并且把他引到了安身立命这件事情来上来我觉得这个还挺有意思的就是安身立命这件事情对于中国人来说还是很重要的。就ohowtoplaceyourself以及在place的基础上去嗯追逐一个属于你的剧本就是按照现在大家特别火的一个说法嗯。就包括可能儒家文化里面也说的就是先成家再立业也是这个安身里面的一个体现吧。嗯。其实我觉得那照这样子来说的话会有很多家居品牌在国内应该会比较火啊天哪这个我这个思维就突然间又飞走了。哦，他还他还形容印度人说他们黑褐色的精瘦四肢和苦行僧般的眼神让人乍看之下以为是每个某个被废废处被废处的王宫。就感觉自语间就是对于印度和中国的文化充满了各种尊敬我感觉黑赛之前的那些文章就会让你觉得很馋让你觉得很嗯。对于遥远神秘的东方有一种敬意。然后在他这本这个小散文记忆面就是这种记忆变得非常的恢弘和嗯具体。然之前你可能只能感到一些他对于这种文化的致敬和中国人和印度人mindset的那种欣赏。这些文章就是这本书它的特别就是一个。大型的夸夸秀。对，还有这这个就是亚洲的财富与艺术。",
+     "card_id": null
+    },
+    {
+     "start_ms": 341760,
+     "end_ms": 363060,
+     "kind": "quote",
+     "text": "然而在我四周，亚洲的财富与艺术却取之不尽地闪耀着。它从四面八方被挤压、被盗窃、被侵蚀、被蹂躏，或许依然衰弱不堪，或许在垂死挣扎，但即使如此，它依然比我们西方所能梦想的更为丰饶、更为多样。",
+     "card_id": "bw-000065"
+    },
+    {
+     "start_ms": 363060,
+     "end_ms": 390540,
+     "kind": "commentary",
+     "text": "天哪我觉得他真的非常的爱。亚洲的文化嗯。然后还有这一段这一段是写他们在马来遇到了一个原住民族群，",
+     "card_id": null
+    },
+    {
+     "start_ms": 390540,
+     "end_ms": 405540,
+     "kind": "quote",
+     "text": "他们害怕鳄鱼，也害怕亡灵的幽魂游荡河面，于是他们唱着歌，带着顺从和虔诚，带着痛楚与希望，就像夜风中摇曳的竹子那样，无意识地歌唱。",
+     "card_id": "bw-000066"
+    },
+    {
+     "start_ms": 405540,
+     "end_ms": 548880,
+     "kind": "commentary",
+     "text": "嗯，我觉得真的好美啊，因为当时他们是在黑夜雨林中架着小船嗯听到。岸边因为他们的船没有燃料了，所以要补充柴火。然后听到岸边在工作的苦力。边搬运木头边高声地唱出数字。他们唱这个数字呢是把那种木柴的树木直接唱入黑夜和流淌的河水当中。他们有时候唱得昏昏欲睡，有时候又充满了希望。嗯我觉得原始的人类真的。可能是又恍然又幸福的就恍然在于在黑夜里面没有火把的花，他们就得直面祖先的亡灵直面残酷的自然直面第二天。是否有食物吃的那种恐惧嗯但是大家又带着对于生活很本质的热情。去用失意的态度用歌唱的态度去面对这些东西。而这种失忆和歌唱又是没有意识的是潜意识的说不定。就非常的朦胧，非常的美。对，就是那种。",
+     "card_id": null
+    },
+    {
+     "start_ms": 548880,
+     "end_ms": 589980,
+     "kind": "quote",
+     "text": "这时我听到一阵多声部的庄严的歌声响起，如同行路者在迷雾中听闻钟声，慰藉我心。我即刻跟着唱了起来。那是神圣的旅行之歌“我们去亚洲”，其中回荡着所有人类的语言，激荡着所有人类的前进，所有疲惫人类的渴望，所有生灵的苦难与狂野的欲求。我感到自己被父母所爱，被古鲁所引导，被佛陀所净化，被救主所救赎。接下来的是死亡还是极乐，于我而言似乎已全然无所谓。",
+     "card_id": "bw-000067"
+    },
+    {
+     "start_ms": 589980,
+     "end_ms": 645540,
+     "kind": "commentary",
+     "text": "天哪我觉得黑赛真的很擅长描述这种充满神性充满浪漫。又充满那种朦胧的欲求和淡淡的痛苦的那种场景。就我感觉他真的就是看这个真相的能力还是挺强的。以及他感受这种真相的能力，并且用语言把它描述出来的能力。嗯还是一个很强很强的人。对其实我这里还就是comvent了一个qoate。这个qoate就是他当时写在马来说",
+     "card_id": null
+    },
+    {
+     "start_ms": 645540,
+     "end_ms": 657600,
+     "kind": "quote",
+     "text": "这里的气候可以迅速摧毁一切人造之物，居所的建造并非为了稳固与持久，而仅仅是出于遮阳、纳凉、避雨的即时需求。",
+     "card_id": "bw-000068"
+    },
+    {
+     "start_ms": 657600,
+     "end_ms": 897514,
+     "kind": "commentary",
+     "text": "就是大概说热带的气候它就不能够让建筑物或者人造的东西持久。会迅速发霉腐朽掩盖在雨林和茂密的树木和洪水当中。嗯，但是同时呢，因为我前段时间去了柬埔寨。我当时评论就是说为什么在轩丽诞生了雨林中的奇龟神像这两任与五颗孤建造有重大贡献的君王是以什么样的信念在支撑他们对抗吞没一切侵蚀一切的湿热气候以非宗教的虔诚筑起佛陀的王国又或许他们只是抱着建筑与自然共存的心态所以人造之物才能成长。才能历经千年长成树木的一部分很难想象第一个发现五哥库的欧洲人心中是如何的震撼我当时为什么留下这个commenty因为有好几层的想法就第一个就是为什么在不同的热带大家嗯造出的建筑和对于永恒的至今是不一样的，但是又桑炮会留下来就比如说像齐情异产像婆罗浮图像。像吴歌窟就是就当我们在说热带无哲学嗯，我们是否把他们的信仰也剥夺了因为信仰不算是哲学的一部分但atsametime就是当我知道就是比如说在吴国窟的嗯那一代的。对于佛陀的理解就是可能跟国内是不太一样的或者说嗯它其实有两种流派一种是把佛祖当做一种神来宠崇拜另外一种就是你觉得自己是可以修炼成佛特，只要经历inlightment这过程那既然对于他们来说每一个人都有可能成为佛陀的话，但他实际上并不是以一种宗教的前程去建造这种嗯。大型的建筑的那是什么样的前程让他们去对抗这种消弭这种热带气候带给他们的不能够天然不能够久长的那种特质嗯还是挺神奇的。就每次读黑赛的书都会让我觉得哇这个人怎么可以用这么贴切又精美又很简短的语言描述一个我可能已经wonder很久嗯。的一个问题或者是思考很久碰撞不出来的一个答案就是嗯他可能感受本身就是这个答案。好棒呀我还是很推荐这本书的，虽然我还没有看完，但是我感觉我已经看到了它的一些。我会继续看下去的因素嗯都到46%再看个一两个小时应该就可以看完了好吧，我觉得我也差不多结束了。祝你生日快乐，然后晚安哈哈哈。",
+     "card_id": null
+    }
+   ],
+   "card_ids": [
+    "bw-000063",
+    "bw-000064",
+    "bw-000065",
+    "bw-000066",
+    "bw-000067",
+    "bw-000068"
+   ],
+   "work": "全世界的水都会重逢",
+   "author": "Hermann Hesse",
+   "translator": "张宓",
+   "edition": "四川文艺出版社, 2026 (essays, translated from the German)",
+   "cover": "covers/hermann-hesse.jpg",
+   "cover_of": "全世界的水都会重逢 (tr. 张宓, 四川文艺出版社)",
+   "color": "#a2c2b6",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0016",
+   "language": "en",
+   "speaker": "JF",
+   "contributor": "JF",
+   "duration_ms": 913386,
+   "audio": "recordings/rec_0016.m4a",
+   "audio_sha256": "9aae200307efeab88950a4b25f59ddb162b4a06ebb28eeeeb7d5620ed39b51e7",
+   "text": "So the only physical book that I've been reading recently. Actually, this is the book I brought to Shenzhen, the only book. Um, is is the artist away. And I've heard of this book before, and, um, and my friends told me that this is basically, uh, the, the spiritual book to unlock your creativity. It's unlike very excited and also confused to check it out. Oh, and the book is about daily practices that you can do to, um, awake your inner creative self. And since you mentioned page 10. I'm gonna select very random paragraph for sentences on page 10 to see what it. magically pops up, right? Hmm Okay, so this is interesting. It talks about, uh, practice that you can do, a tool that you can use is called morning pages. So every day when you wake up, you can write 3 pages of anything. Like literally anything, positive, negative, thoughts, random stuff. And um, I can maybe read these 2 paragraphs.\n\nThere is no wrong way to do morning pages. These daily morning meanderings are not meant to be art. Or even writing. I stress that point to reassure the nonwriters working with this book. Writing is simply one of the tools. Pages are meant to be, simply, the act of moving the hand across the page and writing down whatever comes to mind.\n\nNothing is too petty, too silly, too stupid, or too weird to be included. The morning pages are not supposed to sound smart — although sometimes they might. Most of the time they won't, and nobody will ever know except you. Nobody is allowed to read your morning pages except you. And you shouldn't even read them yourself for the first eight weeks or so.\n\nJust write three pages, and stick them into an envelope. Or write three pages in a spiral notebook and don't leaf back through. Just write three pages… and write three more pages the next day.\n\nAnd later on, it gives 2 examples of a morning page, which is very random. Um, one about... Like a biology project on the weekend. And it's very countryside, England-ish. And the other is about having a headache. and taking aspiring, and complaining about life. Hmm, interesting. I haven't practiced this yet. I'm, like, still kind of... suspicious about what it might do with my life. But maybe I can start trying. Like, writing is also, like, meditative to me, and I think reading and writing, also, meditative and reassuring to you as well. So, maybe we can start together and to see what it can be changed after 8 weeks or something. Hmm Yeah, I feel like... The reasoned life and the whole world are filled with anxieties, And uncertainties, and people are kind of moving really fast, or they literally just lay back and do nothing. Hmm I don't know, I feel like We're heading to the wrong direction, only fast is, like, becoming one and more wrong. But anyways. I should feel sometimes that you need a, like, a land or some space in your mind to be preserved, and it's always, like, sacred and always, only to you, where you can rest and feel, like, home, and... Maybe that settlement is already enough for... a modern people's city life. I don't know what I'm talking about, but. Yeah, I don't feel like this book is, um, is a tool book or, um, just a for practice. It's like a guide. To somewhere unknown and. Maybe if I fully surround and fully take what it tells me to do and maybe things will change. But sometimes people, especially me, are taste stubborn to do so. Yeah, let's go back to the to the original point. This is like a birthday gift and sorry, happy birthday birthday. I'm like, super busy recently, with all the like visits, and I feel like this friends meet us, sometimes cut off my focus time, but I'm like halfway just doing so, so no complaints. Actually, I'm so happy that you think that I'm one of your trusted friend, and I can be the person to accompany you, uh, in the night. with, like, a birthday gift to know, and... And it's, like, the first time I was asked to do something like this. Hmm It feels like uh, in my college times. I had this late evening or, like, early morning calls with my XXX boyfriend, and, um, and we will talk about random things, and, Or just listen to each other's breath, and, and do nothing. Mm. I think I'm, like, too far away from that, from that moment, from the self, in that moment, and thanks for bringing the back to me. And... Right now, it's, like, morning time. that I feel this, like, tipsy feeling of it just had, like, a kombucha, because I don't drink. And, um, and it's like later in the night and outside of the window, they're, uh, Manhattan like, city views and people are so alone in their own blocks, apartments, whatever. small spaces. in the city, in their, they have so much longings and trains and desires, that drive them forward. And asking them, never live back. I don't know why, they suddenly, I remember, um, a quote from, from a book, uh, which says to, to say goodbye is to die a little. That's probably... We never say goodbye, we never say never. But anyways, yeah. I'm like... Having ADHD is really annoying sometimes, it's like, my thoughts will, the, the, the connect with the current moment and then, it's just like, floating away to some, very random parts of the life and that I want to share and. But anyways, yeah, have a good night sleep and I'm sorry that you have a problem with sleeping. And my recent practice, focus sleep is basically exercise every day. Like, for me, it's Pilates, and to naturally get tired around maybe 11 or 12 and. Somehow, I just go straight to sleep. Hmm Sometimes I would just um, talk to GPT if I couldn't sleep. Uh, and it's a little bit scary because GPT knows me the most, like more than most of my friends. But at the same time, um, the, The replies, um, Like, I feel it's authentic, but it's also super polished, like, super polished in a way that it makes me feel, it's a, it's a really good answer that I couldn't even, uh, disagree with. Yeah, hmm. It's, yeah. And another practice is probably... Eat will. It's basically, like, it will, exercise will, and write stuff. Do stuff. Instead of overreflecting. Or even like a meditation. I was thinking, like, because when I finish my last attendant, uh, I literally, couldn't sleep, like, in the night, so what I do instead is, I meditate the whole night, and the effect of the whole night meditation is similar to, A whole night sleep. Like, I know that I'm still awake and I, I'm like, consciously, knowing that I'm meditating. But at the same time, I got enough rest, like from my mind. during the same time frame. So, It probably works, and if you don't, really, you can't really, like, stay awake during the whole meditation. Maybe you can also, you know, falling asleep in between, which is also good outcome. Yeah. Anyways, um, Um... I think I'm gonna go and... And I hope you... have a good night, every night. Looking forward to seeing you.",
+   "translation": null,
+   "original": null,
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 114000,
+     "kind": "commentary",
+     "text": "So the only physical book that I've been reading recently. Actually, this is the book I brought to Shenzhen, the only book. Um, is is the artist away. And I've heard of this book before, and, um, and my friends told me that this is basically, uh, the, the spiritual book to unlock your creativity. It's unlike very excited and also confused to check it out. Oh, and the book is about daily practices that you can do to, um, awake your inner creative self. And since you mentioned page 10. I'm gonna select very random paragraph for sentences on page 10 to see what it. magically pops up, right? Hmm Okay, so this is interesting. It talks about, uh, practice that you can do, a tool that you can use is called morning pages. So every day when you wake up, you can write 3 pages of anything. Like literally anything, positive, negative, thoughts, random stuff. And um, I can maybe read these 2 paragraphs.",
+     "card_id": null
+    },
+    {
+     "start_ms": 114000,
+     "end_ms": 145200,
+     "kind": "quote",
+     "text": "There is no wrong way to do morning pages. These daily morning meanderings are not meant to be art. Or even writing. I stress that point to reassure the nonwriters working with this book. Writing is simply one of the tools. Pages are meant to be, simply, the act of moving the hand across the page and writing down whatever comes to mind.",
+     "card_id": "bw-000069"
+    },
+    {
+     "start_ms": 145200,
+     "end_ms": 173940,
+     "kind": "quote",
+     "text": "Nothing is too petty, too silly, too stupid, or too weird to be included. The morning pages are not supposed to sound smart — although sometimes they might. Most of the time they won't, and nobody will ever know except you. Nobody is allowed to read your morning pages except you. And you shouldn't even read them yourself for the first eight weeks or so.",
+     "card_id": "bw-000070"
+    },
+    {
+     "start_ms": 173940,
+     "end_ms": 193320,
+     "kind": "quote",
+     "text": "Just write three pages, and stick them into an envelope. Or write three pages in a spiral notebook and don't leaf back through. Just write three pages… and write three more pages the next day.",
+     "card_id": "bw-000071"
+    },
+    {
+     "start_ms": 193320,
+     "end_ms": 913386,
+     "kind": "commentary",
+     "text": "And later on, it gives 2 examples of a morning page, which is very random. Um, one about... Like a biology project on the weekend. And it's very countryside, England-ish. And the other is about having a headache. and taking aspiring, and complaining about life. Hmm, interesting. I haven't practiced this yet. I'm, like, still kind of... suspicious about what it might do with my life. But maybe I can start trying. Like, writing is also, like, meditative to me, and I think reading and writing, also, meditative and reassuring to you as well. So, maybe we can start together and to see what it can be changed after 8 weeks or something. Hmm Yeah, I feel like... The reasoned life and the whole world are filled with anxieties, And uncertainties, and people are kind of moving really fast, or they literally just lay back and do nothing. Hmm I don't know, I feel like We're heading to the wrong direction, only fast is, like, becoming one and more wrong. But anyways. I should feel sometimes that you need a, like, a land or some space in your mind to be preserved, and it's always, like, sacred and always, only to you, where you can rest and feel, like, home, and... Maybe that settlement is already enough for... a modern people's city life. I don't know what I'm talking about, but. Yeah, I don't feel like this book is, um, is a tool book or, um, just a for practice. It's like a guide. To somewhere unknown and. Maybe if I fully surround and fully take what it tells me to do and maybe things will change. But sometimes people, especially me, are taste stubborn to do so. Yeah, let's go back to the to the original point. This is like a birthday gift and sorry, happy birthday birthday. I'm like, super busy recently, with all the like visits, and I feel like this friends meet us, sometimes cut off my focus time, but I'm like halfway just doing so, so no complaints. Actually, I'm so happy that you think that I'm one of your trusted friend, and I can be the person to accompany you, uh, in the night. with, like, a birthday gift to know, and... And it's, like, the first time I was asked to do something like this. Hmm It feels like uh, in my college times. I had this late evening or, like, early morning calls with my XXX boyfriend, and, um, and we will talk about random things, and, Or just listen to each other's breath, and, and do nothing. Mm. I think I'm, like, too far away from that, from that moment, from the self, in that moment, and thanks for bringing the back to me. And... Right now, it's, like, morning time. that I feel this, like, tipsy feeling of it just had, like, a kombucha, because I don't drink. And, um, and it's like later in the night and outside of the window, they're, uh, Manhattan like, city views and people are so alone in their own blocks, apartments, whatever. small spaces. in the city, in their, they have so much longings and trains and desires, that drive them forward. And asking them, never live back. I don't know why, they suddenly, I remember, um, a quote from, from a book, uh, which says to, to say goodbye is to die a little. That's probably... We never say goodbye, we never say never. But anyways, yeah. I'm like... Having ADHD is really annoying sometimes, it's like, my thoughts will, the, the, the connect with the current moment and then, it's just like, floating away to some, very random parts of the life and that I want to share and. But anyways, yeah, have a good night sleep and I'm sorry that you have a problem with sleeping. And my recent practice, focus sleep is basically exercise every day. Like, for me, it's Pilates, and to naturally get tired around maybe 11 or 12 and. Somehow, I just go straight to sleep. Hmm Sometimes I would just um, talk to GPT if I couldn't sleep. Uh, and it's a little bit scary because GPT knows me the most, like more than most of my friends. But at the same time, um, the, The replies, um, Like, I feel it's authentic, but it's also super polished, like, super polished in a way that it makes me feel, it's a, it's a really good answer that I couldn't even, uh, disagree with. Yeah, hmm. It's, yeah. And another practice is probably... Eat will. It's basically, like, it will, exercise will, and write stuff. Do stuff. Instead of overreflecting. Or even like a meditation. I was thinking, like, because when I finish my last attendant, uh, I literally, couldn't sleep, like, in the night, so what I do instead is, I meditate the whole night, and the effect of the whole night meditation is similar to, A whole night sleep. Like, I know that I'm still awake and I, I'm like, consciously, knowing that I'm meditating. But at the same time, I got enough rest, like from my mind. during the same time frame. So, It probably works, and if you don't, really, you can't really, like, stay awake during the whole meditation. Maybe you can also, you know, falling asleep in between, which is also good outcome. Yeah. Anyways, um, Um... I think I'm gonna go and... And I hope you... have a good night, every night. Looking forward to seeing you.",
+     "card_id": null
+    }
+   ],
+   "card_ids": [
+    "bw-000069",
+    "bw-000070",
+    "bw-000071"
+   ],
+   "work": "The Artist's Way",
+   "author": "Julia Cameron",
+   "translator": null,
+   "edition": "Jeremy P. Tarcher / TarcherPerigee (first published 1992)",
+   "cover": "covers/the-artist-s-way-julia-cameron.jpg",
+   "cover_of": "The Artist's Way (Tarcher)",
+   "color": "#d4928e",
    "ink": "#1d1d1b"
   }
  ]
