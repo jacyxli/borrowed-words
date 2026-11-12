@@ -1,12 +1,18 @@
 {
  "schema_version": "1.2",
  "deck_id": "borrowed-words",
- "deck_version": 24,
- "published_at": "2026-11-10T14:38:20",
- "card_count": 51,
+ "deck_version": 26,
+ "published_at": "2026-11-12T09:35:47",
+ "card_count": 59,
  "selection": "cards[] order is fixed for this version; index = uint32(sha256(normalized question)[0:4]) mod card_count",
  "changes": {
-  "added": [],
+  "added": [
+   "bw-000075",
+   "bw-000076",
+   "bw-000077",
+   "bw-000078",
+   "bw-000079"
+  ],
   "removed": []
  },
  "cards": [
@@ -1493,6 +1499,214 @@
    "recording_offset_ms": [
     173880,
     193080
+   ],
+   "translation": null,
+   "original": null
+  },
+  {
+   "card_id": "bw-000072",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "daily-stoic-character-is-fate",
+   "quote_display": "Each person acquires their own character, but their official roles are designated by chance. You should invite some to your table because they are deserving, others because they may come to deserve it.",
+   "author": "Seneca",
+   "source_work": "The Daily Stoic",
+   "source_locator": "October 29, “Character Is Fate”",
+   "translator": "Ryan Holiday & Stephen Hanselman",
+   "speaker": "JH",
+   "contributor": "JH",
+   "duration_ms": 11400,
+   "verification_status": "verified_secondary",
+   "number": 72,
+   "audio": "audio/bw-000072.m4a",
+   "parallel": [],
+   "audio_sha256": "c01f52913b069bdcff9463fa6c0fc900e254f3d5ac8172b9136e6829c095c48a",
+   "recording_id": "rec_0017",
+   "recording_offset_ms": [
+    0,
+    11400
+   ],
+   "translation": null,
+   "original": null
+  },
+  {
+   "card_id": "bw-000073",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "barclays-pension-rules-are-changing",
+   "quote_display": "Pension rules are changing. Your ambitions don't have to. Be a step ahead with a personalised plan. Exclusively for Premier customers, ongoing expert advice from your dedicated Wealth Advisers means your plan can keep evolving as life, and the world around you, changes. Now is the time. Search: Barclays Planning and Advice.",
+   "author": "Barclays",
+   "source_work": "“Pension rules are changing.” (a magazine advert)",
+   "source_locator": "full-page ad, read with its small print",
+   "translator": null,
+   "speaker": "DW",
+   "contributor": "DW",
+   "duration_ms": 19260,
+   "verification_status": "partially_verified",
+   "number": 73,
+   "audio": "audio/bw-000073.m4a",
+   "parallel": [],
+   "audio_sha256": "12fc9978dc17fa15d7a991694bbe6564a7333942c0e0be1329771554e4b98043",
+   "recording_id": "rec_0018",
+   "recording_offset_ms": [
+    600,
+    19860
+   ],
+   "translation": null,
+   "original": null
+  },
+  {
+   "card_id": "bw-000074",
+   "content_rev": 3,
+   "language": "en",
+   "passage_id": "barclays-small-print",
+   "quote_display": "Oh, and the best part: terms and conditions in the footnote. Um, you need to be a UK resident with at least £150,000 to invest. Other eligibility criteria apply. Investment products and services are provided by Barclays Bank PLC and its subsidiaries, authorised and regulated by the FCA. Registered office: 1 Churchill Place, London E14 5HP.",
+   "author": "Barclays",
+   "source_work": "“Pension rules are changing.” (a magazine advert)",
+   "source_locator": "full-page ad, read with its small print",
+   "translator": null,
+   "speaker": "DW",
+   "contributor": "DW",
+   "duration_ms": 25800,
+   "verification_status": "partially_verified",
+   "number": 74,
+   "audio": "audio/bw-000074.m4a",
+   "parallel": [],
+   "audio_sha256": "993ad631dc30a953c184f6f3db6802996a4a8ed274b4f8d77953a8e6c2dc46df",
+   "recording_id": "rec_0018",
+   "recording_offset_ms": [
+    23400,
+    49200
+   ],
+   "translation": null,
+   "original": null
+  },
+  {
+   "card_id": "bw-000075",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "little-history-earth-big-bang",
+   "quote_display": "About 13.8 billion years ago, the universe started from a tiny point of infinite density and temperature, and suddenly began to expand rapidly. This is the Big Bang, marking the beginning of space and time. The universe cooled as it expanded, allowing particles to form atoms of mainly hydrogen and helium, some of the lightest elements. And this led, over millions of years, to the formation of stars and even galaxies. There are somewhere between 100 and 400 billion stars in our galaxy, and about 200 billion galaxies in the observable universe — the part of the universe we can see from Earth, which is limited by the speed of light.",
+   "author": "Jamie Woodward",
+   "source_work": "A Little History of the Earth",
+   "source_locator": "the early chapters: the Big Bang and the stars",
+   "translator": null,
+   "speaker": "JH",
+   "contributor": "JH",
+   "duration_ms": 38220,
+   "verification_status": "partially_verified",
+   "number": 75,
+   "audio": "audio/bw-000075.m4a",
+   "parallel": [],
+   "audio_sha256": "c20e3532ec547b28560edc53d1ab52f0e14fd99a8a88ff78857f2ef397e0a880",
+   "recording_id": "rec_0019",
+   "recording_offset_ms": [
+    900,
+    39120
+   ],
+   "translation": null,
+   "original": null
+  },
+  {
+   "card_id": "bw-000076",
+   "content_rev": 1,
+   "language": "en",
+   "passage_id": "little-history-earth-workshops",
+   "quote_display": "Stars are the workshops of the universe. The nuclear reactions that take place in the searing heat of solar cores convert lighter elements into heavier ones. The specific elements a star produces depend on its size and life-cycle stage. Temperatures can exceed 15 million degrees Celsius in the core of our nearest star, the Sun. This unimaginable heat is fuelled by the nuclear conversion of hydrogen atoms to helium atoms under intense pressure.",
+   "author": "Jamie Woodward",
+   "source_work": "A Little History of the Earth",
+   "source_locator": "the early chapters: the Big Bang and the stars",
+   "translator": null,
+   "speaker": "JH",
+   "contributor": "JH",
+   "duration_ms": 25210,
+   "verification_status": "partially_verified",
+   "number": 76,
+   "audio": "audio/bw-000076.m4a",
+   "parallel": [],
+   "audio_sha256": "5de92a4effcb8771f9a943aae88af2f0bdf723de74584563fc6216db3ca840da",
+   "recording_id": "rec_0019",
+   "recording_offset_ms": [
+    38520,
+    63730
+   ],
+   "translation": null,
+   "original": null
+  },
+  {
+   "card_id": "bw-000077",
+   "content_rev": 2,
+   "language": "en",
+   "passage_id": "little-history-earth-heavier-elements",
+   "quote_display": "As a star reaches the end of its life, however, it may produce heavier elements, such as oxygen, carbon, nitrogen and iron. Stars of all sizes create helium. The more massive stars create heavier elements and disperse them throughout the universe. This has been the order of things since the Big Bang, taking about nine billion years to make the heavier elements in our solar system.",
+   "author": "Jamie Woodward",
+   "source_work": "A Little History of the Earth",
+   "source_locator": "the early chapters: the Big Bang and the stars",
+   "translator": null,
+   "speaker": "JH",
+   "contributor": "JH",
+   "duration_ms": 21360,
+   "verification_status": "partially_verified",
+   "number": 77,
+   "audio": "audio/bw-000077.m4a",
+   "parallel": [],
+   "audio_sha256": "3f98c216250bf384fd8928ee5ec1da1c5691f6abc5007d57b6a9d4017af673b6",
+   "recording_id": "rec_0019",
+   "recording_offset_ms": [
+    63610,
+    84970
+   ],
+   "translation": null,
+   "original": null
+  },
+  {
+   "card_id": "bw-000078",
+   "content_rev": 2,
+   "language": "en",
+   "passage_id": "little-history-earth-cosmic-ancestry",
+   "quote_display": "Our cosmic ancestry is mind-blowing. Everything on Earth, including you and me, is ultimately derived from the exploded remnants of dying stars, from dust and gas that sailed across space.",
+   "author": "Jamie Woodward",
+   "source_work": "A Little History of the Earth",
+   "source_locator": "the early chapters: the Big Bang and the stars",
+   "translator": null,
+   "speaker": "JH",
+   "contributor": "JH",
+   "duration_ms": 12060,
+   "verification_status": "partially_verified",
+   "number": 78,
+   "audio": "audio/bw-000078.m4a",
+   "parallel": [],
+   "audio_sha256": "4d10787ea706a620607c756342c2d3e58a3f72e2ce14e31236d7c67d5e03bece",
+   "recording_id": "rec_0019",
+   "recording_offset_ms": [
+    84490,
+    96550
+   ],
+   "translation": null,
+   "original": null
+  },
+  {
+   "card_id": "bw-000079",
+   "content_rev": 2,
+   "language": "en",
+   "passage_id": "little-history-earth-gravity-wins",
+   "quote_display": "Stars are so massive that they generate immensely powerful gravitational forces that try to compress their mass inwards into the smallest size possible. In opposition to this gravity is the heat generated in the core of the star by nuclear fusion. This heat drives expansion and forces matter outwards, balancing the force of gravity. The core of a star finally runs out of fuel, and its hydrogen stockpile is exhausted. It collapses, and gravity wins the day.",
+   "author": "Jamie Woodward",
+   "source_work": "A Little History of the Earth",
+   "source_locator": "the early chapters: the Big Bang and the stars",
+   "translator": null,
+   "speaker": "JH",
+   "contributor": "JH",
+   "duration_ms": 25400,
+   "verification_status": "partially_verified",
+   "number": 79,
+   "audio": "audio/bw-000079.m4a",
+   "parallel": [],
+   "audio_sha256": "aabed59f523b3a9af01563cda7d58744f0b3b993037edabbebb6b45d238ce7b7",
+   "recording_id": "rec_0019",
+   "recording_offset_ms": [
+    96220,
+    121620
    ],
    "translation": null,
    "original": null
@@ -3158,6 +3372,142 @@
    "cover": "covers/the-artist-s-way-julia-cameron.jpg",
    "cover_of": "The Artist's Way (Tarcher)",
    "color": "#d4928e",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0017",
+   "language": "en",
+   "speaker": "JH",
+   "contributor": "JH",
+   "duration_ms": 11447,
+   "audio": "recordings/rec_0017.m4a",
+   "audio_sha256": "dd35b1757820c314c95767f13f1664ff8b10a3e8f926b9c5320d9f92ad008446",
+   "text": "Each person acquires their own character, but their official roles are designated by chance. You should invite some to your table because they are deserving, others because they may come to deserve it.",
+   "translation": null,
+   "original": null,
+   "spans": [
+    {
+     "start_ms": 0,
+     "end_ms": 11447,
+     "kind": "quote",
+     "text": "Each person acquires their own character, but their official roles are designated by chance. You should invite some to your table because they are deserving, others because they may come to deserve it.",
+     "card_id": "bw-000072"
+    }
+   ],
+   "card_ids": [
+    "bw-000072"
+   ],
+   "work": "The Daily Stoic",
+   "author": "Seneca",
+   "translator": "Ryan Holiday & Stephen Hanselman",
+   "edition": "Portfolio/Penguin, 2016 (Seneca, Moral Letters 47.15b, translated by the authors)",
+   "cover": "covers/the-daily-stoic-seneca.jpg",
+   "cover_of": "The Daily Stoic (Ryan Holiday & Stephen Hanselman, Portfolio)",
+   "color": "#c8ae9b",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0018",
+   "language": "en",
+   "speaker": "DW",
+   "contributor": "DW",
+   "duration_ms": 53661,
+   "audio": "recordings/rec_0018.m4a",
+   "audio_sha256": "a705603db60db7531d64c2508ac8ad1083c5d5f8b7c99c89e7b2db63aa1bb4f0",
+   "text": "Pension rules are changing. Your ambitions don't have to. Be a step ahead with a personalised plan. Exclusively for Premier customers, ongoing expert advice from your dedicated Wealth Advisers means your plan can keep evolving as life, and the world around you, changes. Now is the time. Search: Barclays Planning and Advice.\n\nOh, and the best part: terms and conditions in the footnote. Um, you need to be a UK resident with at least £150,000 to invest. Other eligibility criteria apply. Investment products and services are provided by Barclays Bank PLC and its subsidiaries, authorised and regulated by the FCA. Registered office: 1 Churchill Place, London E14 5HP.",
+   "translation": null,
+   "original": null,
+   "spans": [
+    {
+     "start_ms": 660,
+     "end_ms": 23460,
+     "kind": "quote",
+     "text": "Pension rules are changing. Your ambitions don't have to. Be a step ahead with a personalised plan. Exclusively for Premier customers, ongoing expert advice from your dedicated Wealth Advisers means your plan can keep evolving as life, and the world around you, changes. Now is the time. Search: Barclays Planning and Advice.",
+     "card_id": "bw-000073"
+    },
+    {
+     "start_ms": 23460,
+     "end_ms": 53661,
+     "kind": "quote",
+     "text": "Oh, and the best part: terms and conditions in the footnote. Um, you need to be a UK resident with at least £150,000 to invest. Other eligibility criteria apply. Investment products and services are provided by Barclays Bank PLC and its subsidiaries, authorised and regulated by the FCA. Registered office: 1 Churchill Place, London E14 5HP.",
+     "card_id": "bw-000074"
+    }
+   ],
+   "card_ids": [
+    "bw-000073",
+    "bw-000074"
+   ],
+   "work": "“Pension rules are changing.” (a magazine advert)",
+   "author": "Barclays",
+   "translator": null,
+   "edition": "Barclays Premier / Barclays Planning and Advice, “Be a step ahead” campaign (VCCP), print advertisement",
+   "cover": "covers/pension-rules-are-changing-a-magazine-advert-barclays.jpg",
+   "cover_of": "the magazine page DW read (Barclays Premier ad)",
+   "color": "#acaaa3",
+   "ink": "#1d1d1b"
+  },
+  {
+   "recording_id": "rec_0019",
+   "language": "en",
+   "speaker": "JH",
+   "contributor": "JH",
+   "duration_ms": 122880,
+   "audio": "recordings/rec_0019.m4a",
+   "audio_sha256": "8ad7e37de5cab821b1d79dfb797f234d0a1a7083f25b311ecae60af9a0b74166",
+   "text": "About 13.8 billion years ago, the universe started from a tiny point of infinite density and temperature, and suddenly began to expand rapidly. This is the Big Bang, marking the beginning of space and time. The universe cooled as it expanded, allowing particles to form atoms of mainly hydrogen and helium, some of the lightest elements. And this led, over millions of years, to the formation of stars and even galaxies. There are somewhere between 100 and 400 billion stars in our galaxy, and about 200 billion galaxies in the observable universe — the part of the universe we can see from Earth, which is limited by the speed of light.\n\nStars are the workshops of the universe. The nuclear reactions that take place in the searing heat of solar cores convert lighter elements into heavier ones. The specific elements a star produces depend on its size and life-cycle stage. Temperatures can exceed 15 million degrees Celsius in the core of our nearest star, the Sun. This unimaginable heat is fuelled by the nuclear conversion of hydrogen atoms to helium atoms under intense pressure.\n\nAs a star reaches the end of its life, however, it may produce heavier elements, such as oxygen, carbon, nitrogen and iron. Stars of all sizes create helium. The more massive stars create heavier elements and disperse them throughout the universe. This has been the order of things since the Big Bang, taking about nine billion years to make the heavier elements in our solar system.\n\nOur cosmic ancestry is mind-blowing. Everything on Earth, including you and me, is ultimately derived from the exploded remnants of dying stars, from dust and gas that sailed across space.\n\nStars are so massive that they generate immensely powerful gravitational forces that try to compress their mass inwards into the smallest size possible. In opposition to this gravity is the heat generated in the core of the star by nuclear fusion. This heat drives expansion and forces matter outwards, balancing the force of gravity. The core of a star finally runs out of fuel, and its hydrogen stockpile is exhausted. It collapses, and gravity wins the day.",
+   "translation": null,
+   "original": null,
+   "spans": [
+    {
+     "start_ms": 960,
+     "end_ms": 38580,
+     "kind": "quote",
+     "text": "About 13.8 billion years ago, the universe started from a tiny point of infinite density and temperature, and suddenly began to expand rapidly. This is the Big Bang, marking the beginning of space and time. The universe cooled as it expanded, allowing particles to form atoms of mainly hydrogen and helium, some of the lightest elements. And this led, over millions of years, to the formation of stars and even galaxies. There are somewhere between 100 and 400 billion stars in our galaxy, and about 200 billion galaxies in the observable universe — the part of the universe we can see from Earth, which is limited by the speed of light.",
+     "card_id": "bw-000075"
+    },
+    {
+     "start_ms": 38580,
+     "end_ms": 63960,
+     "kind": "quote",
+     "text": "Stars are the workshops of the universe. The nuclear reactions that take place in the searing heat of solar cores convert lighter elements into heavier ones. The specific elements a star produces depend on its size and life-cycle stage. Temperatures can exceed 15 million degrees Celsius in the core of our nearest star, the Sun. This unimaginable heat is fuelled by the nuclear conversion of hydrogen atoms to helium atoms under intense pressure.",
+     "card_id": "bw-000076"
+    },
+    {
+     "start_ms": 63960,
+     "end_ms": 84840,
+     "kind": "quote",
+     "text": "As a star reaches the end of its life, however, it may produce heavier elements, such as oxygen, carbon, nitrogen and iron. Stars of all sizes create helium. The more massive stars create heavier elements and disperse them throughout the universe. This has been the order of things since the Big Bang, taking about nine billion years to make the heavier elements in our solar system.",
+     "card_id": "bw-000077"
+    },
+    {
+     "start_ms": 84840,
+     "end_ms": 96720,
+     "kind": "quote",
+     "text": "Our cosmic ancestry is mind-blowing. Everything on Earth, including you and me, is ultimately derived from the exploded remnants of dying stars, from dust and gas that sailed across space.",
+     "card_id": "bw-000078"
+    },
+    {
+     "start_ms": 96720,
+     "end_ms": 122880,
+     "kind": "quote",
+     "text": "Stars are so massive that they generate immensely powerful gravitational forces that try to compress their mass inwards into the smallest size possible. In opposition to this gravity is the heat generated in the core of the star by nuclear fusion. This heat drives expansion and forces matter outwards, balancing the force of gravity. The core of a star finally runs out of fuel, and its hydrogen stockpile is exhausted. It collapses, and gravity wins the day.",
+     "card_id": "bw-000079"
+    }
+   ],
+   "card_ids": [
+    "bw-000075",
+    "bw-000076",
+    "bw-000077",
+    "bw-000078",
+    "bw-000079"
+   ],
+   "work": "A Little History of the Earth",
+   "author": "Jamie Woodward",
+   "translator": null,
+   "edition": "Yale University Press, Little Histories series",
+   "cover": "covers/a-little-history-of-the-earth-jamie-woodward.jpg",
+   "cover_of": "A Little History of the Earth (Yale University Press)",
+   "color": "#cec4b7",
    "ink": "#1d1d1b"
   }
  ]
