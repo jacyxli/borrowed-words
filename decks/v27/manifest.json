@@ -1,19 +1,16 @@
 {
  "schema_version": "1.2",
  "deck_id": "borrowed-words",
- "deck_version": 26,
- "published_at": "2026-11-12T09:35:47",
- "card_count": 59,
+ "deck_version": 27,
+ "published_at": "2026-11-12T09:37:31",
+ "card_count": 57,
  "selection": "cards[] order is fixed for this version; index = uint32(sha256(normalized question)[0:4]) mod card_count",
  "changes": {
-  "added": [
-   "bw-000075",
-   "bw-000076",
-   "bw-000077",
-   "bw-000078",
-   "bw-000079"
-  ],
-  "removed": []
+  "added": [],
+  "removed": [
+   "bw-000073",
+   "bw-000074"
+  ]
  },
  "cards": [
   {
@@ -1525,58 +1522,6 @@
    "recording_offset_ms": [
     0,
     11400
-   ],
-   "translation": null,
-   "original": null
-  },
-  {
-   "card_id": "bw-000073",
-   "content_rev": 1,
-   "language": "en",
-   "passage_id": "barclays-pension-rules-are-changing",
-   "quote_display": "Pension rules are changing. Your ambitions don't have to. Be a step ahead with a personalised plan. Exclusively for Premier customers, ongoing expert advice from your dedicated Wealth Advisers means your plan can keep evolving as life, and the world around you, changes. Now is the time. Search: Barclays Planning and Advice.",
-   "author": "Barclays",
-   "source_work": "“Pension rules are changing.” (a magazine advert)",
-   "source_locator": "full-page ad, read with its small print",
-   "translator": null,
-   "speaker": "DW",
-   "contributor": "DW",
-   "duration_ms": 19260,
-   "verification_status": "partially_verified",
-   "number": 73,
-   "audio": "audio/bw-000073.m4a",
-   "parallel": [],
-   "audio_sha256": "12fc9978dc17fa15d7a991694bbe6564a7333942c0e0be1329771554e4b98043",
-   "recording_id": "rec_0018",
-   "recording_offset_ms": [
-    600,
-    19860
-   ],
-   "translation": null,
-   "original": null
-  },
-  {
-   "card_id": "bw-000074",
-   "content_rev": 3,
-   "language": "en",
-   "passage_id": "barclays-small-print",
-   "quote_display": "Oh, and the best part: terms and conditions in the footnote. Um, you need to be a UK resident with at least £150,000 to invest. Other eligibility criteria apply. Investment products and services are provided by Barclays Bank PLC and its subsidiaries, authorised and regulated by the FCA. Registered office: 1 Churchill Place, London E14 5HP.",
-   "author": "Barclays",
-   "source_work": "“Pension rules are changing.” (a magazine advert)",
-   "source_locator": "full-page ad, read with its small print",
-   "translator": null,
-   "speaker": "DW",
-   "contributor": "DW",
-   "duration_ms": 25800,
-   "verification_status": "partially_verified",
-   "number": 74,
-   "audio": "audio/bw-000074.m4a",
-   "parallel": [],
-   "audio_sha256": "993ad631dc30a953c184f6f3db6802996a4a8ed274b4f8d77953a8e6c2dc46df",
-   "recording_id": "rec_0018",
-   "recording_offset_ms": [
-    23400,
-    49200
    ],
    "translation": null,
    "original": null
@@ -3404,46 +3349,6 @@
    "cover": "covers/the-daily-stoic-seneca.jpg",
    "cover_of": "The Daily Stoic (Ryan Holiday & Stephen Hanselman, Portfolio)",
    "color": "#c8ae9b",
-   "ink": "#1d1d1b"
-  },
-  {
-   "recording_id": "rec_0018",
-   "language": "en",
-   "speaker": "DW",
-   "contributor": "DW",
-   "duration_ms": 53661,
-   "audio": "recordings/rec_0018.m4a",
-   "audio_sha256": "a705603db60db7531d64c2508ac8ad1083c5d5f8b7c99c89e7b2db63aa1bb4f0",
-   "text": "Pension rules are changing. Your ambitions don't have to. Be a step ahead with a personalised plan. Exclusively for Premier customers, ongoing expert advice from your dedicated Wealth Advisers means your plan can keep evolving as life, and the world around you, changes. Now is the time. Search: Barclays Planning and Advice.\n\nOh, and the best part: terms and conditions in the footnote. Um, you need to be a UK resident with at least £150,000 to invest. Other eligibility criteria apply. Investment products and services are provided by Barclays Bank PLC and its subsidiaries, authorised and regulated by the FCA. Registered office: 1 Churchill Place, London E14 5HP.",
-   "translation": null,
-   "original": null,
-   "spans": [
-    {
-     "start_ms": 660,
-     "end_ms": 23460,
-     "kind": "quote",
-     "text": "Pension rules are changing. Your ambitions don't have to. Be a step ahead with a personalised plan. Exclusively for Premier customers, ongoing expert advice from your dedicated Wealth Advisers means your plan can keep evolving as life, and the world around you, changes. Now is the time. Search: Barclays Planning and Advice.",
-     "card_id": "bw-000073"
-    },
-    {
-     "start_ms": 23460,
-     "end_ms": 53661,
-     "kind": "quote",
-     "text": "Oh, and the best part: terms and conditions in the footnote. Um, you need to be a UK resident with at least £150,000 to invest. Other eligibility criteria apply. Investment products and services are provided by Barclays Bank PLC and its subsidiaries, authorised and regulated by the FCA. Registered office: 1 Churchill Place, London E14 5HP.",
-     "card_id": "bw-000074"
-    }
-   ],
-   "card_ids": [
-    "bw-000073",
-    "bw-000074"
-   ],
-   "work": "“Pension rules are changing.” (a magazine advert)",
-   "author": "Barclays",
-   "translator": null,
-   "edition": "Barclays Premier / Barclays Planning and Advice, “Be a step ahead” campaign (VCCP), print advertisement",
-   "cover": "covers/pension-rules-are-changing-a-magazine-advert-barclays.jpg",
-   "cover_of": "the magazine page DW read (Barclays Premier ad)",
-   "color": "#acaaa3",
    "ink": "#1d1d1b"
   },
   {
